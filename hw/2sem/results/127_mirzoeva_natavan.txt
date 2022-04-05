@@ -1,0 +1,35 @@
+Тестирование задачи task_1
+	Файл теста не существует
+Тестирование задачи task_2
+	- Тест BubbleSort_sortArray_sort прошел до изменений в коде
+
+	+ Тест BubbleSort_sortFirstElement_sort не прошел до изменений в коде
+	+ Тест BubbleSort_sortFirstElement_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortArray_sort не прошел до изменений в коде
+	+ Тест SelectionSort_sortArray_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_RandomInts_sort не прошел до изменений в коде
+	+ Тест SelectionSort_RandomInts_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortFirstElement_sort не прошел до изменений в коде
+	+ Тест SelectionSort_sortFirstElement_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_sortArray_sort не прошел до изменений в коде
+	+ Тест InsertionSort_sortArray_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_Random_sort не прошел до изменений в коде
+	+ Тест InsertionSort_Random_sort прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест QuickSort_sortTwoElements_sort прошел до изменений в коде
+
+	- Тест QuickSort_sortTwoSameElements_sort прошел до изменений в коде
+
+	Ошибка в протоколе. Читаем задание и исправляем протокол.

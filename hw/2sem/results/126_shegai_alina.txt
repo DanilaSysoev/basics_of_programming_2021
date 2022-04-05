@@ -1,0 +1,189 @@
+Тестирование задачи task_1
+	+ Тест test_Node_Ctor_getNext не прошел до изменений в коде
+	+ Тест test_Node_Ctor_getNext прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_Node_Ctor_getPrev не прошел до изменений в коде
+	+ Тест test_Node_Ctor_getPrev прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_isEmpty не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_isEmpty прошел после изменений в коде
+Обновленная строка ^ returndummy.getNext()==dummy; ^, правильная строка ^ returndummy==dummy.getNext();^
+	- Не dсе изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_getHead не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_getHead прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_get_outOfBounds не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_get_outOfBounds прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_get не прошел до изменений в коде
+	- Тест test_DoubleLinkedList_get не прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertAfter_size не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertAfter_size прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_pushFront не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_pushFront прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_pushBack не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_pushBack прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_remove_getNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_remove_getNext прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_remove_getPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_remove_getPrev прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListAfter_self не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_self прошел после изменений в коде
+Обновленная строка ^ if(list.isEmpty()||list==this) ^, правильная строка ^ if(list.isEmpty())^
+	- Не dсе изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListAfter_listPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_listPrev прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListAfter_listNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_listNext прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListBefore_self не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_self прошел после изменений в коде
+Обновленная строка ^ if(list.isEmpty()||list==this) ^, правильная строка ^ if(list.isEmpty())^
+	- Не dсе изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListBefore_listPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_listPrev прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DoubleLinkedList_insertListBefore_listNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_listNext прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_DefaultCtor не прошел до изменений в коде
+	+ Тест test_DynamicArray_DefaultCtor прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_SizeCtor не прошел до изменений в коде
+	+ Тест test_DynamicArray_SizeCtor прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_resize_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_resize_throw прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_resize_size не прошел до изменений в коде
+	+ Тест test_DynamicArray_resize_size прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_get_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_get_throw прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест test_DynamicArray_set_throw прошел до изменений в коде
+
+	+ Тест test_DynamicArray_insert_get не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_get прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_insert_grow не прошел до изменений в коде
+	- Тест test_DynamicArray_insert_grow не прошел после изменений в коде
+
+	+ Тест test_DynamicArray_insert_growZero не прошел до изменений в коде
+	- Тест test_DynamicArray_insert_growZero не прошел после изменений в коде
+
+	+ Тест test_DynamicArray_insert_growZeroCap не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_growZeroCap прошел после изменений в коде
+Обновленная строка ^ capacity=Math.max(1,size*2); ^, правильная строка ^ capacity=size*2;^
+	- Не dсе изменения в коде верны.
+
+	+ Тест test_DynamicArray_pushBack не прошел до изменений в коде
+	- Тест test_DynamicArray_pushBack не прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_grow не прошел до изменений в коде
+	- Тест test_DynamicArray_pushBack_grow не прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_growZero не прошел до изменений в коде
+	- Тест test_DynamicArray_pushBack_growZero не прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_growZeroCap не прошел до изменений в коде
+	+ Тест test_DynamicArray_pushBack_growZeroCap прошел после изменений в коде
+Обновленная строка ^ capacity=Math.max(1,size*2); ^, правильная строка ^ capacity=size*2;^
+	- Не dсе изменения в коде верны.
+
+	+ Тест test_DynamicArray_popBack_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_popBack_throw прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_DynamicArray_remove_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_remove_throw прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_2
+	- Тест test_BubbleSort_iAndComparator прошел до изменений в коде
+
+	+ Тест test_BubbleSort_sps не прошел до изменений в коде
+	+ Тест test_BubbleSort_sps прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_InsertionSort_comparatorAndCur не прошел до изменений в коде
+	+ Тест test_InsertionSort_comparatorAndCur прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	+ Тест test_HeapSort_swapSecondIndex не прошел до изменений в коде
+	+ Тест test_HeapSort_swapSecondIndex прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_HeapSort_statementTwoExpectZero не прошел до изменений в коде
+	+ Тест test_HeapSort_statementTwoExpectZero прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_HeapSort_heapifySiftDownLeftAndRightPlusOne не прошел до изменений в коде
+	+ Тест test_HeapSort_heapifySiftDownLeftAndRightPlusOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_HeapSort_SiftDownSize не прошел до изменений в коде
+	+ Тест test_HeapSort_SiftDownSize прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_HeapSort_SiftDownLeftAndRightPlusOne не прошел до изменений в коде
+	+ Тест test_HeapSort_SiftDownLeftAndRightPlusOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_MergeSort_BlockSizeOneAndComparator не прошел до изменений в коде
+	+ Тест test_MergeSort_BlockSizeOneAndComparator прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_MergeSort_bufferSortingOne не прошел до изменений в коде
+	+ Тест test_MergeSort_bufferSortingOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_MergeSort_firstFocusPlus не прошел до изменений в коде
+	+ Тест test_MergeSort_firstFocusPlus прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_MergeSort_bufferSortingTwo не прошел до изменений в коде
+	+ Тест test_MergeSort_bufferSortingTwo прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест test_MergeSort_resPosPlus не прошел до изменений в коде
+	- Тест test_MergeSort_resPosPlus не прошел после изменений в коде
+
+	+ Тест test_QuickSort_baseAndSplitSwap не прошел до изменений в коде
+	+ Тест test_QuickSort_baseAndSplitSwap прошел после изменений в коде
+	+ Все изменения в коде верны.
+

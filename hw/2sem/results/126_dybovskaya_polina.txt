@@ -1,0 +1,79 @@
+Тестирование задачи task_1
+	- Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize прошел до изменений в коде
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	+ Тест BubbleSort_SortNotNeed_SortCorrect не прошел до изменений в коде
+	+ Тест BubbleSort_SortNotNeed_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест BubbleSort_SortNotNeedNumbersRightPositions_SortCorrect прошел до изменений в коде
+
+	+ Тест BubbleSort_sortDats_SortCorrect не прошел до изменений в коде
+	+ Тест BubbleSort_sortDats_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_SortNotNeed_SortCorrect не прошел до изменений в коде
+	+ Тест InsertionSort_SortNotNeed_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_sortDats_SortCorrect не прошел до изменений в коде
+	+ Тест InsertionSort_sortDats_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_SortDats_SortOk не прошел до изменений в коде
+	+ Тест SelectionSort_SortDats_SortOk прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortTwoNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_sortTwoNumbers_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	- Тест quickSort_sortArrayWithTwoNumbers_SortCorrect прошел до изменений в коде
+
+	+ Тест QuickSort_sortArrayWithSameNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест QuickSort_sortArrayWithSameNumbers_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_sortArrayWithTwoNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест MergeSort_sortArrayWithTwoNumbers_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_sortTwoNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест MergeSort_sortTwoNumbers_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_SortNotNeed_NumbersOnRightPositions не прошел до изменений в коде
+	+ Тест MergeSort_SortNotNeed_NumbersOnRightPositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_sortArrayB_SortCorrect не прошел до изменений в коде
+	+ Тест MergeSort_sortArrayB_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_sortArray_SortCorrect не прошел до изменений в коде
+	+ Тест MergeSort_sortArray_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_SortNotNeed_SortCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortNotNeed_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_sortArrayDifNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест HeapSort_sortArrayDifNumbers_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_SortNotNeed_NumbersOnRightPositions не прошел до изменений в коде
+	+ Тест HeapSort_SortNotNeed_NumbersOnRightPositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_sortArrayB_SortCorrect не прошел до изменений в коде
+	+ Тест HeapSort_sortArrayB_SortCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+

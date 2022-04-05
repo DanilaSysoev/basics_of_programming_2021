@@ -1,0 +1,42 @@
+Тестирование задачи task_1
+	- Тест getSize_getSizeOfEmptyArray_SizeEqualsZero() прошел до изменений в коде
+
+	- Тест set_setElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
+
+	- Тест getElem_getElemFromArray_ElemIsCorrect() прошел до изменений в коде
+
+	- Тест resize_resizeWithPositiveNumber_ResizeIsOk() прошел до изменений в коде
+
+	- Тест resize_resizeWithNumberLessThanSize_SizeIsTheSame() прошел до изменений в коде
+
+	- Тест get_getElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
+
+	- Тест insert_insertElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
+
+	- Тест insert_insertElemToThePosition_ArrayIsCorrect() прошел до изменений в коде
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	- Тест BubbleSort_someDataWithSimilarElements_DataIsTheSame() прошел до изменений в коде
+
+	- Тест BubbleSort_SortedData_DataIsTheSame() прошел до изменений в коде
+
+	- Тест BubbleSort_UnsortedData_SortOK() прошел до изменений в коде
+
+	- Тест SelectionSort_UnsortedDataWithFirstMaxElem_SortOK() прошел до изменений в коде
+
+	- Тест SelectionSort_UnsortedDataWithTwoElem_SortOK() прошел до изменений в коде
+
+	- Тест SelectionSort_UnsortedData_SortOK() прошел до изменений в коде
+
+	- Тест InsertionSort_SortedData_SortOK() прошел до изменений в коде
+
+	Ошибка в протоколе. Читаем задание и исправляем протокол.
+Тестирование задачи task_3
+	- Тест QuickSort_sortUnsortedArray_ArrayIsSorted() прошел до изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+

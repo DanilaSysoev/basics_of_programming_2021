@@ -1,0 +1,60 @@
+Тестирование задачи task_1
+	- Тест getSize_getSizeOfNewArray_SizeEqualsZero прошел до изменений в коде
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	+ Тест QuickSort_SortUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_SortUnsortedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест QuickSort_UnsortedArrayWithSameElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_UnsortedArrayWithSameElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_SortUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_FirstElementsAreUnsorted_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_FirstElementsAreUnsorted_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_UnsortedLargeArray_DataIsCorrect не прошел до изменений в коде
+	- Тест MergeSort_UnsortedLargeArray_DataIsCorrect не прошел после изменений в коде
+
+	+ Тест MergeSort_ReversedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_ReversedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_SortedArrayWithEvenNumberOfElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortedArrayWithEvenNumberOfElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_ArrayWithAllSameElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_ArrayWithAllSameElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_AlreadySortedArrayWithTwoElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_AlreadySortedArrayWithTwoElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_AlreadySortedArrayWithThreeElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_AlreadySortedArrayWithThreeElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_UnsortedLargeArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_UnsortedLargeArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_UnsortedArrayWithSameRepeatedElements_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_UnsortedArrayWithSameRepeatedElements_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+

@@ -1,0 +1,151 @@
+Тестирование задачи task_1
+	- Тест pushFront_pushTwoElements_HeadAndTailIsCorrect прошел до изменений в коде
+
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertAfter_insertOneElement_getSize не прошел до изменений в коде
+	+ Тест insertAfter_insertOneElement_getSize прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertBefore_insertOneElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	- Тест insertBefore_insertOneElements_HeadAndTailIsCorrect не прошел после изменений в коде
+
+	+ Тест isEmpty_EmptyList_SizeEqualsNull не прошел до изменений в коде
+	+ Тест isEmpty_EmptyList_SizeEqualsNull прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест get_OutOfHighBound_IndexCorrect не прошел до изменений в коде
+	+ Тест get_OutOfHighBound_IndexCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест get_GetTwoElements_GetIsCorrect прошел до изменений в коде
+
+	+ Тест remove_removeOneElement_RemoveIsCorrect не прошел до изменений в коде
+	- Тест remove_removeOneElement_RemoveIsCorrect не прошел после изменений в коде
+
+	+ Тест insertListAfter_insertList_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListAfter_insertList_SizeIsCorrect прошел после изменений в коде
+Обновленная строка ^ size+=list.getSize(); ^, правильная строка ^ ^
+	- Не dсе изменения в коде верны.
+
+	- Тест insertListAfter_insertList_GetCorrectItem прошел до изменений в коде
+
+	+ Тест insertListBefore_insertList_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListBefore_insertList_SizeIsCorrect прошел после изменений в коде
+Обновленная строка ^ size+=list.getSize(); ^, правильная строка ^ ^
+	- Не dсе изменения в коде верны.
+
+	+ Тест insertListBefore_insertList_ItemIsCorrect не прошел до изменений в коде
+	- Тест insertListBefore_insertList_ItemIsCorrect не прошел после изменений в коде
+
+	+ Тест newArray_CreateArray_SizeEquals не прошел до изменений в коде
+	+ Тест newArray_CreateArray_SizeEquals прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест resize_ChangeArraySize_SizeEquals не прошел до изменений в коде
+	+ Тест resize_ChangeArraySize_SizeEquals прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushBack_pushItem_SizeIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushItem_SizeIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест get_GetItem_GetCorrectItem не прошел до изменений в коде
+	+ Тест get_GetItem_GetCorrectItem прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insert_insertItems_InsertIsCorrect не прошел до изменений в коде
+	+ Тест insert_insertItems_InsertIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест set_setElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест set_setElement_BoundsAreCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест remove_removeElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест remove_removeElement_BoundsAreCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест popBack_popBackElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест popBack_popBackElement_BoundsAreCorrect прошел после изменений в коде
+Обновленная строка ^ if(size<=0) ^, правильная строка ^ if(size==0)^
+	- Не dсе изменения в коде верны.
+
+Тестирование задачи task_2
+	- Тест sort_SimpleData_BubbleSortIsCorrect прошел до изменений в коде
+
+	+ Тест sort_DecreaseData_BubbleSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_DecreaseData_BubbleSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_SimpleData_InsertionSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_SimpleData_InsertionSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_DecreaseData_InsertionSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_DecreaseData_InsertionSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SomeData_SelectionSortIsCorrect не прошел до изменений в коде
+	- Тест SomeData_SelectionSortIsCorrect не прошел после изменений в коде
+
+	+ Тест sort_DecreaseData_SelectionSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_DecreaseData_SelectionSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест sort_DecreaseData_QuickSortIsCorrect прошел до изменений в коде
+
+	+ Тест sort_ComplicatedData_QuickSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_ComplicatedData_QuickSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_MiddleData_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_MiddleData_MergeSortIsCorrect прошел после изменений в коде
+Обновленная строка ^ merge(buffer,sorting,begin,middle+1-begin,end-middle); ^, правильная строка ^ merge(buffer,sorting,begin,middle-begin+1,end-middle);^
+	- Не dсе изменения в коде верны.
+
+	+ Тест sort_DecreaseData_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_DecreaseData_MergeSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_ThreeData_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_ThreeData_MergeSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_BigData_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_BigData_MergeSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_SimpleData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_SimpleData_HeapSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_SortedData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_SortedData_HeapSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_SomeData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_SomeData_HeapSortIsCorrect прошел после изменений в коде
+Обновленная строка ^ siftDown(i,2*i,2*i+2,data.length); ^, правильная строка ^ siftDown(i,2*i+1,2*i+2,data.length);^
+	- Не dсе изменения в коде верны.
+
+	+ Тест sort_FourElementsData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_FourElementsData_HeapSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_DifficultData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_DifficultData_HeapSortIsCorrect прошел после изменений в коде
+Обновленная строка ^ siftDown(left,2*left,2*left+2,size); ^, правильная строка ^ siftDown(left,2*left+1,2*left+2,size);^
+	- Не dсе изменения в коде верны.
+
+	+ Тест sort_SpecificData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_SpecificData_HeapSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест sort_ComplicatedData_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_ComplicatedData_HeapSortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+

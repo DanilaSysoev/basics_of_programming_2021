@@ -1,0 +1,58 @@
+Тестирование задачи task_1
+	!!!Последняя правка все сломала
+
+	Ошибка в протоколе. Читаем задание и исправляем протокол.
+Тестирование задачи task_2
+	- Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
+
+	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers не прошел до изменений в коде
+	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_GenerateInsertionSort_CompareSameArrays не прошел до изменений в коде
+	+ Тест insertionSort_GenerateInsertionSort_CompareSameArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест insertionSort_insertionSort_GenerateInsertionSort_CompareSameArrays прошел до изменений в коде
+
+	+ Тест selectionSort_GenerateSelectionSort_CompareSameArrays не прошел до изменений в коде
+	+ Тест selectionSort_GenerateSelectionSort_CompareSameArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_GenerateSelectionSort_SortArray не прошел до изменений в коде
+	+ Тест selectionSort_GenerateSelectionSort_SortArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_GenerateSelectionSort_SortTwoItemsArray не прошел до изменений в коде
+	+ Тест selectionSort_GenerateSelectionSort_SortTwoItemsArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест quickSort_GenerateQuickSort_SortTwoPositions прошел до изменений в коде
+
+	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions не прошел до изменений в коде
+	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_GenerateMergeSort_SortTwoPositions не прошел до изменений в коде
+	+ Тест mergeSort_GenerateMergeSort_SortTwoPositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_GenerateMergeSort_SortThreePositions не прошел до изменений в коде
+	+ Тест mergeSort_GenerateMergeSort_SortThreePositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_GenerateMergeSort_SortThreeReversedPositions не прошел до изменений в коде
+	+ Тест mergeSort_GenerateMergeSort_SortThreeReversedPositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_GenerateMergeSort_SortBigArray не прошел до изменений в коде
+	+ Тест mergeSort_GenerateMergeSort_SortBigArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_GenerateHeapSort_CompareTwoPositions не прошел до изменений в коде
+	+ Тест heapSort_GenerateHeapSort_CompareTwoPositions прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест quickSort_GenerateQuickSort_SortAgain прошел до изменений в коде
+

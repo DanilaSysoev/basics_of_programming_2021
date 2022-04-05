@@ -1,0 +1,60 @@
+Тестирование задачи task_1
+	- Тест createList_createNewList_ListIsNotEmpty прошел до изменений в коде
+
+	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
+
+	- Тест pushBack_PushBackToEmptyList_DataIsPushed прошел до изменений в коде
+
+	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
+
+	- Тест getSize_getSizeOfNewArray_SizeEqualsDefaultSize прошел до изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	+ Тест quickSort_twoUnsortedNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест quickSort_twoUnsortedNumbers_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест quickSort_dataWithRepeatingNumbers_sortIsCorrect прошел до изменений в коде
+
+	+ Тест mergeSort_dataWithFirstUnsortedNumber_sortIsCorrect не прошел до изменений в коде
+	- Тест mergeSort_dataWithFirstUnsortedNumber_sortIsCorrect не прошел после изменений в коде
+
+	+ Тест mergeSort_dataWithManyNumbers_sortIsCorrect не прошел до изменений в коде
+	- Тест mergeSort_dataWithManyNumbers_sortIsCorrect не прошел после изменений в коде
+
+	+ Тест mergeSort_twoUnsortedNumbers_sortIsCorrect не прошел до изменений в коде
+	- Тест mergeSort_twoUnsortedNumbers_sortIsCorrect не прошел после изменений в коде
+
+	+ Тест mergeSort_evenData_sortIsCorrect не прошел до изменений в коде
+	- Тест mergeSort_evenData_sortIsCorrect не прошел после изменений в коде
+
+	+ Тест mergeSort_invertedData_sortIsCorrect не прошел до изменений в коде
+	- Тест mergeSort_invertedData_sortIsCorrect не прошел после изменений в коде
+
+	+ Тест mergeSort_twoUnsortedNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест mergeSort_twoUnsortedNumbers_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_dataIsEqual_sortIsCorrect не прошел до изменений в коде
+	+ Тест heapSort_dataIsEqual_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_twoSortedNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест heapSort_twoSortedNumbers_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_threeSortedNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест heapSort_threeSortedNumbers_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест heapSort_dataWithRepeatingNumbers_sortIsCorrect прошел до изменений в коде
+
+	+ Тест heapSort_dataWithManyNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест heapSort_dataWithManyNumbers_sortIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+

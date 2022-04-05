@@ -1,0 +1,115 @@
+Тестирование задачи task_1
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел до изменений в коде
+
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел до изменений в коде
+
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize не прошел до изменений в коде
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize прошел после изменений в коде
+Обновленная строка ^ size=DefaultSize; ^, правильная строка ^ size=0;^
+	- Не dсе изменения в коде верны.
+
+	+ Тест setValues_SetThreeValues_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест setValues_SetThreeValues_ValuesAreCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест changeSize_ChangeSizeArray_NewSizeIsCorrect не прошел до изменений в коде
+	- Тест changeSize_ChangeSizeArray_NewSizeIsCorrect не прошел после изменений в коде
+
+	+ Тест changeSize_ChangeSizeArray_NewSizeIsCorrect не прошел до изменений в коде
+	+ Тест changeSize_ChangeSizeArray_NewSizeIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест createArray_TryToGetValueOutOfRange_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест createArray_TryToGetValueOutOfRange_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест createArray_TryToSetValueOutOfRange_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест createArray_TryToSetValueOutOfRange_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insert_TryToInsertValueOutOfRange_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест insert_TryToInsertValueOutOfRange_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insert_InsertValue_ValuesAreCorrect не прошел до изменений в коде
+	- Тест insert_InsertValue_ValuesAreCorrect не прошел после изменений в коде
+
+	+ Тест insert_InsertValue_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест insert_InsertValue_ValuesAreCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushBack_pushBackValue_ValuesAreCorrect не прошел до изменений в коде
+	- Тест pushBack_pushBackValue_ValuesAreCorrect не прошел после изменений в коде
+
+	+ Тест pushBack_pushBackValue_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushBackValue_ValuesAreCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест popBack_popBackFromEmptyArray_GetUnsupportedOperationException не прошел до изменений в коде
+	+ Тест popBack_popBackFromEmptyArray_GetUnsupportedOperationException прошел после изменений в коде
+Обновленная строка ^ if(size<=0) ^, правильная строка ^ if(size==0)^
+	- Не dсе изменения в коде верны.
+
+	+ Тест remove_TryRemoveIndexOutOfBounds_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест remove_TryRemoveIndexOutOfBounds_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushFront_PushFrontToEmptyList_EmptyIsFalse не прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_EmptyIsFalse прошел после изменений в коде
+Обновленная строка ^ returnsize==0; ^, правильная строка ^ returndummy==dummy.getNext();^
+	- Не dсе изменения в коде верны.
+
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел до изменений в коде
+
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontToEmptyList_GetCrushGettingIndexOne не прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_GetCrushGettingIndexOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел после изменений в коде
+Обновленная строка ^ returninsertAfter(getTail(),data); ^, правильная строка ^ returninsertBefore(getHead(),data);^
+	- Не dсе изменения в коде верны.
+
+	!!!Последняя правка все сломала
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	- Тест bubbleSort_ArrayContainsOnlySameNumbers_ArrayNotChanges прошел до изменений в коде
+
+	+ Тест bubbleSort_InvertedArrayWithRightBiggestItem_ArrayIsSorted не прошел до изменений в коде
+	+ Тест bubbleSort_InvertedArrayWithRightBiggestItem_ArrayIsSorted прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест bubbleSort_InvertedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест bubbleSort_InvertedArray_ArrayIsSorted прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_InvertedArrayThreeItems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест selectionSort_InvertedArrayThreeItems_ArrayIsSorted прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_UnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест selectionSort_UnsortedArray_ArrayIsSorted прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
+
+	- Тест insertionSort_SortedArray_ArrayNotChanges прошел до изменений в коде
+
+Тестирование задачи task_3
+	- Тест quickSort_UnsortedArrayWithThreeItems_ArrayIsSorted прошел до изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+

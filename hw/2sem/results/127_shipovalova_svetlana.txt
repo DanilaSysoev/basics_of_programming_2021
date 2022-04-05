@@ -1,0 +1,34 @@
+Тестирование задачи task_1
+	Файл теста не существует
+Тестирование задачи task_2
+	- Тест bubbleSort_ContainsOnlyNumbers прошел до изменений в коде
+
+	+ Тест bubbleSort_TheBiggestElement не прошел до изменений в коде
+	+ Тест bubbleSort_TheBiggestElement прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест bubbleSort_InvertedArray_GetSortedArray не прошел до изменений в коде
+	+ Тест bubbleSort_InvertedArray_GetSortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_InvertedArray не прошел до изменений в коде
+	+ Тест selectionSort_InvertedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_UnsortedArray не прошел до изменений в коде
+	+ Тест selectionSort_UnsortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_ContainsOnlyNumbers не прошел до изменений в коде
+	+ Тест insertionSort_ContainsOnlyNumbers прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест quickSort_UnsortedArray прошел до изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+

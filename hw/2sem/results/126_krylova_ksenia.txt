@@ -1,0 +1,41 @@
+Тестирование задачи task_1
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	- Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() прошел до изменений в коде
+
+	!!!Последняя правка все сломала
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	- Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест quickSort_unSortedArrayWithTwoSameElements_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест quickSort_UnsortedArray_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест mergeSort_sortUnsortedArray_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест mergeSort_InvertedArray_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест mergeSort_SortedArray_ArrayNotChange() прошел до изменений в коде
+
+	- Тест mergeSort_UnsortedArrayWithTwoSameElements_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест mergeSort_UnsortedArrayWithFourSameElements_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест heapSort_sortUnsortedArray_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест heapSort_sortedArray_ArrayNotChange() прошел до изменений в коде
+
+	- Тест heapSort_unsortedArray1_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест heapSort_unsortedArray2_ElementsSortedCorrect() прошел до изменений в коде
+
+	- Тест heapSort_unsortedArray3_ElementsSortedCorrect() прошел до изменений в коде
+

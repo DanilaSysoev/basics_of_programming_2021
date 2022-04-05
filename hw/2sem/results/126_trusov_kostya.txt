@@ -1,0 +1,93 @@
+Тестирование задачи task_1
+	- Тест createArray_CreateNewArray_SizeEqualsZero прошел до изменений в коде
+
+	+ Тест setValue_SetNewValue_ValueIsCorrect не прошел до изменений в коде
+	+ Тест setValue_SetNewValue_ValueIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест resizeArray_ResizeArray_ResizeCompletes не прошел до изменений в коде
+	+ Тест resizeArray_ResizeArray_ResizeCompletes прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	+ Тест BubbleSort_BubbleSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест BubbleSort_BubbleSortAlreadySortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест BubbleSort_BubbleSortData_DataIsCorrect не прошел до изменений в коде
+	+ Тест BubbleSort_BubbleSortData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_InsertionSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест InsertionSort_InsertionSortAlreadySortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_SelectionSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_SelectionSortAlreadySortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_SelectionSortData_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_SelectionSortData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_SelectionSortNegativeDigitsWithNormal_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_SelectionSortNegativeDigitsWithNormal_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест HeapSort_HeapSortSameDigits_DataIsCorrect прошел до изменений в коде
+
+	+ Тест HeapSort_HeapSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_HeapSortAlreadySortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_HeapSortHugeUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_HeapSortHugeUnsortedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест HeapSort_HeapSortHugeUnsortedArrayContainingSameDigits_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_HeapSortHugeUnsortedArrayContainingSameDigits_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_MergeSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_MergeSortAlreadySortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_MergeSortUnsortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_MergeSortUnsortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_MergeSortHugeUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_MergeSortHugeUnsortedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_MergeSortNegativeDigitsWithNormal_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_MergeSortNegativeDigitsWithNormal_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест MergeSort_MergeSortHugeUnsortedArrayContainingSameDigits_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_MergeSortHugeUnsortedArrayContainingSameDigits_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест QuickSort_QuickSortUnsortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_QuickSortUnsortedData_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_DataIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+

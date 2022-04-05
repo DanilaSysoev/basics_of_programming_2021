@@ -1,0 +1,104 @@
+Тестирование задачи task_1
+	- Тест DynamicArray_CreateArrayWithNoSize_SizeEqualsZero прошел до изменений в коде
+
+	+ Тест resize_ResizeArray_ResizeIsCorrect не прошел до изменений в коде
+	+ Тест resize_ResizeArray_ResizeIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест set_setOneItem_SetIsCorrect не прошел до изменений в коде
+	+ Тест set_setOneItem_SetIsCorrect прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест get_getSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест get_getSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест set_setToSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест set_setToSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insert_insertElement_ElementInsertedOK не прошел до изменений в коде
+	+ Тест insert_insertElement_ElementInsertedOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест insert_insertElementToSizeIndex_GetIndexOutOfBoundsException прошел до изменений в коде
+
+	+ Тест pushBack_pushBackValue_PushBackOK не прошел до изменений в коде
+	+ Тест pushBack_pushBackValue_PushBackOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест popBack_popBackInEmptyArray_GetUnsupportedOperationException не прошел до изменений в коде
+	+ Тест popBack_popBackInEmptyArray_GetUnsupportedOperationException прошел после изменений в коде
+Обновленная строка ^ if(size<=0) ^, правильная строка ^ if(size==0)^
+	- Не dсе изменения в коде верны.
+
+	- Тест remove_removeValueWithSizeIndex_GetIndexOutOfBoundsException прошел до изменений в коде
+
+	+ Тест isEmpty_CreateNotEmptyDLL_isEmptyFalse не прошел до изменений в коде
+	+ Тест isEmpty_CreateNotEmptyDLL_isEmptyFalse прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushFront_pushFrontValue_pushFrontOK не прошел до изменений в коде
+	- Тест pushFront_pushFrontValue_pushFrontOK не прошел после изменений в коде
+
+	+ Тест getHead_getHead_getHeadOK не прошел до изменений в коде
+	+ Тест getHead_getHead_getHeadOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест pushFront_pushFrontValue_pushFrontOK прошел до изменений в коде
+
+	+ Тест getTail_getTail_getTailOK не прошел до изменений в коде
+	+ Тест getTail_getTail_getTailOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест get_ValueWithSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест get_ValueWithSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertAfter_checkSizeAfterInsertAfter_sizeIncreasesByOne не прошел до изменений в коде
+	+ Тест insertAfter_checkSizeAfterInsertAfter_sizeIncreasesByOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	- Тест remove_removeElement_removeOK прошел до изменений в коде
+
+	+ Тест insertListAfter_insertListAfterList_insertListAfterListOK не прошел до изменений в коде
+	+ Тест insertListAfter_insertListAfterList_insertListAfterListOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertListBefore_insertListBeforeList_insertListBeforeListOK не прошел до изменений в коде
+	+ Тест insertListBefore_insertListBeforeList_insertListBeforeListOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_2
+	- Тест BubbleSort_sortSortedArray_sortOK прошел до изменений в коде
+
+	+ Тест BubbleSort_sortFirstElementIsSorted_sortOK не прошел до изменений в коде
+	+ Тест BubbleSort_sortFirstElementIsSorted_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortSortedArray_sortOK не прошел до изменений в коде
+	+ Тест SelectionSort_sortSortedArray_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortRandomInts_sortOK не прошел до изменений в коде
+	+ Тест SelectionSort_sortRandomInts_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест SelectionSort_sortFirstElementIsSorted_sortOK не прошел до изменений в коде
+	+ Тест SelectionSort_sortFirstElementIsSorted_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_sortSortedArray_sortOK не прошел до изменений в коде
+	+ Тест InsertionSort_sortSortedArray_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест InsertionSort_sortRandomInts_sortOK не прошел до изменений в коде
+	+ Тест InsertionSort_sortRandomInts_sortOK прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест  не прошел до изменений в коде
+	- Тест  не прошел после изменений в коде
+
+Тестирование задачи task_3
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+

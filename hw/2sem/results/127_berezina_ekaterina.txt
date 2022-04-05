@@ -1,0 +1,38 @@
+Тестирование задачи task_1
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_3
+	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays не прошел до изменений в коде
+	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_CreateNewHeapSort_SortArray не прошел до изменений в коде
+	+ Тест heapSort_CreateNewHeapSort_SortArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_CompareThreeElementsArrays не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_CompareThreeElementsArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_SortTwoElements не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_SortTwoElements прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements не прошел до изменений в коде
+	- Тест mergeSort_CreateNewMergeSort_SortThreeElements не прошел после изменений в коде
+
+	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements2 не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements2 прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_SortArray не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_SortArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест quickSort_CreateNewQuickSort_SortTwoElements не прошел до изменений в коде
+	+ Тест quickSort_CreateNewQuickSort_SortTwoElements прошел после изменений в коде
+	+ Все изменения в коде верны.
+

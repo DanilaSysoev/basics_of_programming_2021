@@ -1,0 +1,67 @@
+Тестирование задачи task_1
+	- Тест pushFront_PushFrontToEmptyList_EmptyIsFalse прошел до изменений в коде
+
+	- Тест pushItems_PushFrontThreeItems_HeadIsCorrect прошел до изменений в коде
+
+	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел до изменений в коде
+	- Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne не прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел после изменений в коде
+Обновленная строка ^ returninsertAfter(getTail(),data); ^, правильная строка ^ returninsertBefore(getHead(),data);^
+	- Не dсе изменения в коде верны.
+
+	+ Тест pushItems_PushBackThreeItems_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест pushItems_PushBackThreeItems_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест removeItem_RemoveFirstItem_FirstItemIsCorrect не прошел до изменений в коде
+	- Тест removeItem_RemoveFirstItem_FirstItemIsCorrect не прошел после изменений в коде
+
+	+ Тест insertList_insertListAfterFirstItem_AllElementsAreCorrect не прошел до изменений в коде
+	- Тест insertList_insertListAfterFirstItem_AllElementsAreCorrect не прошел после изменений в коде
+
+	!!!Последняя правка все сломала
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray не прошел до изменений в коде
+	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест bubbleSort_InvertedArray_GetSortedArray не прошел до изменений в коде
+	+ Тест bubbleSort_InvertedArray_GetSortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_InvertedArrayLengthTwo_GetSortedArray не прошел до изменений в коде
+	+ Тест selectionSort_InvertedArrayLengthTwo_GetSortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_UnsortedArray_GetSortedArray не прошел до изменений в коде
+	+ Тест selectionSort_UnsortedArray_GetSortedArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест  не прошел до изменений в коде
+	- Тест  не прошел после изменений в коде
+
+Тестирование задачи task_3
+	- Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел до изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+

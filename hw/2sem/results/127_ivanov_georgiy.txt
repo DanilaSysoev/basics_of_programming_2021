@@ -1,0 +1,58 @@
+Тестирование задачи task_1
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
+Тестирование задачи task_2
+	+ Тест bubbleSort_CreateMyBubbleSort_TryToSort не прошел до изменений в коде
+	- Тест bubbleSort_CreateMyBubbleSort_TryToSort не прошел после изменений в коде
+
+	+ Тест bubbleSort_CreateMyBubbleSort_TryToSortDifferentNumbers не прошел до изменений в коде
+	+ Тест bubbleSort_CreateMyBubbleSort_TryToSortDifferentNumbers прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест insertionSort_CreateMyInsertionSort_TryToCompareTheSameArrays не прошел до изменений в коде
+	+ Тест insertionSort_CreateMyInsertionSort_TryToCompareTheSameArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_CreateMySelectionSort_TryToCompareTheSameArrays не прошел до изменений в коде
+	+ Тест selectionSort_CreateMySelectionSort_TryToCompareTheSameArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_CreateMySelectionSort_TryToSortArray не прошел до изменений в коде
+	+ Тест selectionSort_CreateMySelectionSort_TryToSortArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест selectionSort_CreateMySelectionSort_TryToSortTwoItemsArray не прошел до изменений в коде
+	+ Тест selectionSort_CreateMySelectionSort_TryToSortTwoItemsArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+Тестирование задачи task_3
+	- Тест quickSort_CreateNewQuickSort_TryToSortTwoItems прошел до изменений в коде
+
+	+ Тест mergeSort_CreateNewMergeSort_TryToCompareThreeItemsArrays не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_TryToCompareThreeItemsArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortTwoItems не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortTwoItems прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortThreeItems не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortThreeItems прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortThreeReversedItems не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortThreeReversedItems прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortLargeArray не прошел до изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_TryToSortLargeArray прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест heapSort_CreateNewHeapSort_TryToCompareTwoItemsArrays не прошел до изменений в коде
+	+ Тест heapSort_CreateNewHeapSort_TryToCompareTwoItemsArrays прошел после изменений в коде
+	+ Все изменения в коде верны.
+
+	+ Тест quickSort_CreateNewQuickSort_TryToSortAgain не прошел до изменений в коде
+	+ Тест quickSort_CreateNewQuickSort_TryToSortAgain прошел после изменений в коде
+	+ Все изменения в коде верны.
+
