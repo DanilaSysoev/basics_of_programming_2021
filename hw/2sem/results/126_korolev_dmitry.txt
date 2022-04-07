@@ -1,42 +1,58 @@
 Тестирование задачи task_1
-	- Тест getSize_getSizeOfEmptyArray_SizeEqualsZero() прошел до изменений в коде
-
-	- Тест set_setElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
-
-	- Тест getElem_getElemFromArray_ElemIsCorrect() прошел до изменений в коде
-
-	- Тест resize_resizeWithPositiveNumber_ResizeIsOk() прошел до изменений в коде
-
-	- Тест resize_resizeWithNumberLessThanSize_SizeIsTheSame() прошел до изменений в коде
-
-	- Тест get_getElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
-
-	- Тест insert_insertElemWithIndexEqualsSize_ThrowsException() прошел до изменений в коде
-
-	- Тест insert_insertElemToThePosition_ArrayIsCorrect() прошел до изменений в коде
-
-	!!!Последняя правка все сломала
-
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
-
+Файл протокола не существует
 Тестирование задачи task_2
-	- Тест BubbleSort_someDataWithSimilarElements_DataIsTheSame() прошел до изменений в коде
+	+ Тест BubbleSort_ArrayWithThreeSimilarElements_ArrayIsTheSame не прошел до изменений в коде
+	+ Тест BubbleSort_ArrayWithThreeSimilarElements_ArrayIsTheSame прошел после изменений в коде
 
-	- Тест BubbleSort_SortedData_DataIsTheSame() прошел до изменений в коде
+	+ Тест BubbleSort_SortedArray_ArrayIsTheSame не прошел до изменений в коде
+	+ Тест BubbleSort_SortedArray_ArrayIsTheSame прошел после изменений в коде
 
-	- Тест BubbleSort_UnsortedData_SortOK() прошел до изменений в коде
+	+ Тест BubbleSort_UnSortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест BubbleSort_UnSortedArray_ArrayIsSorted прошел после изменений в коде
 
-	- Тест SelectionSort_UnsortedDataWithFirstMaxElem_SortOK() прошел до изменений в коде
+	+ Тест SelectionSort_ArrayWithTheFirstMaxElem_ArrayIsSorted не прошел до изменений в коде
+	+ Тест SelectionSort_ArrayWithTheFirstMaxElem_ArrayIsSorted прошел после изменений в коде
 
-	- Тест SelectionSort_UnsortedDataWithTwoElem_SortOK() прошел до изменений в коде
+	+ Тест SelectionSort_UnsortedArrayWithTwoElements_ArrayIsSorted не прошел до изменений в коде
+	+ Тест SelectionSort_UnsortedArrayWithTwoElements_ArrayIsSorted прошел после изменений в коде
 
-	- Тест SelectionSort_UnsortedData_SortOK() прошел до изменений в коде
+	+ Тест SelectionSort_UnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест SelectionSort_UnsortedArray_ArrayIsSorted прошел после изменений в коде
 
-	- Тест InsertionSort_SortedData_SortOK() прошел до изменений в коде
+	+ Тест InsertionSort_SortedArray_ArrayIsTheSame не прошел до изменений в коде
+	+ Тест InsertionSort_SortedArray_ArrayIsTheSame прошел после изменений в коде
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
-	- Тест QuickSort_sortUnsortedArray_ArrayIsSorted() прошел до изменений в коде
+	- Тест QuickSort_SortUnsortedArray_ArrayIsSorted прошел до изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortSortedArray_ArrayIsSame не прошел до изменений в коде
+	+ Тест MergeSort_SortSortedArray_ArrayIsSame прошел после изменений в коде
+
+	+ Тест MergeSort_SortUnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест MergeSort_SortHugeUnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_SortHugeUnsortedArray_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест MergeSort_SortArrayWithNegativeElems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_SortArrayWithNegativeElems_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест MergeSort_SortHugeUnsortedArrayWithSameElems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_SortHugeUnsortedArrayWithSameElems_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест HeapSort_SortUnsortedArrayWithTwoElems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_SortUnsortedArrayWithTwoElems_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест HeapSort_SortSortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_SortSortedArray_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест HeapSort_SortHugeUnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_SortHugeUnsortedArray_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест HeapSort_HSortHugeUnsortedArrayWithSameElems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_HSortHugeUnsortedArrayWithSameElems_ArrayIsSorted прошел после изменений в коде
 

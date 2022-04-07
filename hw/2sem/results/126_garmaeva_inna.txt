@@ -1,15 +1,87 @@
 Тестирование задачи task_1
-	!!!Последняя правка все сломала
+	- Тест newArray_getSizeOfNewArray_SizeEqualsDefaultSize прошел до изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест arraySet_setArrayValues_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест arraySet_setArrayValues_ValuesAreCorrect прошел после изменений в коде
+
+	+ Тест resize_setNegativeValue_NegativeArraySizeException не прошел до изменений в коде
+	+ Тест resize_setNegativeValue_NegativeArraySizeException прошел после изменений в коде
+
+	+ Тест resize_resizeArray_newSizeIsCorrect не прошел до изменений в коде
+	+ Тест resize_resizeArray_newSizeIsCorrect прошел после изменений в коде
+
+	+ Тест newArray_getValueOutOfRange_IndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест newArray_getValueOutOfRange_IndexOutOfBoundsException прошел после изменений в коде
+
+	+ Тест newArray_setValueOutOfRange_IndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест newArray_setValueOutOfRange_IndexOutOfBoundsException прошел после изменений в коде
+
+	- Тест newArray_insertValueOutOfRange_IndexOutOfBoundsException прошел до изменений в коде
+
+	+ Тест newArray_insertValue_Insert не прошел до изменений в коде
+	- Тест newArray_insertValue_Insert не прошел после изменений в коде
+
+	+ Тест newArray_insertValue_InsertOne не прошел до изменений в коде
+	+ Тест newArray_insertValue_InsertOne прошел после изменений в коде
+
+	+ Тест newArray_pushBackValue_ValueIsCorrect не прошел до изменений в коде
+	+ Тест newArray_pushBackValue_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест newArray_popBackFromEmptyArray_UnsupportedOperationException не прошел до изменений в коде
+	+ Тест newArray_popBackFromEmptyArray_UnsupportedOperationException прошел после изменений в коде
+
+	- Тест removeValue_RemoveOneValue_ValueIsCorrect прошел до изменений в коде
 
 Тестирование задачи task_2
-	!!!Последняя правка все сломала
+	- Тест bubbleSort_InvertSort прошел до изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест bubbleSort_DataStaysTheSame не прошел до изменений в коде
+	+ Тест bubbleSort_DataStaysTheSame прошел после изменений в коде
+
+	+ Тест insertionSort_DataStaysTheSame не прошел до изменений в коде
+	+ Тест insertionSort_DataStaysTheSame прошел после изменений в коде
+
+	+ Тест selectionSort_InvertSort не прошел до изменений в коде
+	- Тест selectionSort_InvertSort не прошел после изменений в коде
+
+	+ Тест selectionSort_GetSort не прошел до изменений в коде
+	- Тест selectionSort_GetSort не прошел после изменений в коде
+
+	+ Тест selectionSort_InvertSort не прошел до изменений в коде
+	+ Тест selectionSort_InvertSort прошел после изменений в коде
 
 Тестирование задачи task_3
-	!!!Последняя правка все сломала
+	- Тест HeapSort_InterchangeIndex прошел до изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест HeapSort_Sort_TakeTwo не прошел до изменений в коде
+	+ Тест HeapSort_Sort_TakeTwo прошел после изменений в коде
+
+	+ Тест HeapSort_Sort_TakeThree не прошел до изменений в коде
+	+ Тест HeapSort_Sort_TakeThree прошел после изменений в коде
+
+	+ Тест HeapSort_UnsortedSort_TakeTwo не прошел до изменений в коде
+	- Тест HeapSort_UnsortedSort_TakeTwo не прошел после изменений в коде
+
+	- Тест HeapSort_UnsortedSort_TakeOne прошел до изменений в коде
+
+	+ Тест MergeSort_UnsortedSort_TakeOne не прошел до изменений в коде
+	- Тест MergeSort_UnsortedSort_TakeOne не прошел после изменений в коде
+
+	+ Тест MergeSort_UnsortedSort_TakeTwo не прошел до изменений в коде
+	- Тест MergeSort_UnsortedSort_TakeTwo не прошел после изменений в коде
+
+	+ Тест MergeSort_InterchangeIndex не прошел до изменений в коде
+	- Тест MergeSort_InterchangeIndex не прошел после изменений в коде
+
+	+ Тест MergeSort_UnsortedSort_TakeThree не прошел до изменений в коде
+	- Тест MergeSort_UnsortedSort_TakeThree не прошел после изменений в коде
+
+	+ Тест MergeSort_UnsortedSort_TakeFour не прошел до изменений в коде
+	- Тест MergeSort_UnsortedSort_TakeFour не прошел после изменений в коде
+
+	+ Тест MergeSort_InterchangeIndex не прошел до изменений в коде
+	+ Тест MergeSort_InterchangeIndex прошел после изменений в коде
+
+	+ Тест QuickSort_InterchangeIndex не прошел до изменений в коде
+	+ Тест QuickSort_InterchangeIndex прошел после изменений в коде
 

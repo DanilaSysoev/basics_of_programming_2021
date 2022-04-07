@@ -3,38 +3,30 @@
 
 	+ Тест resize_NewSizeIsBiggerThenZero_SizeEqualsNewSize не прошел до изменений в коде
 	+ Тест resize_NewSizeIsBiggerThenZero_SizeEqualsNewSize прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест get_GettingIndexTheNumberOfSize_OutOfBounds не прошел до изменений в коде
 	+ Тест get_GettingIndexTheNumberOfSize_OutOfBounds прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест set_GettingIndexTheNumberOfSize_OutOfBounds не прошел до изменений в коде
 	+ Тест set_GettingIndexTheNumberOfSize_OutOfBounds прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест set_IndexEqualsZeroValueEqualsOne_ValueIsSet не прошел до изменений в коде
 	+ Тест set_IndexEqualsZeroValueEqualsOne_ValueIsSet прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест insert_IndexEqualsZeroValue1EqualsOneValue2EqualsTwo_Value2IsInserted не прошел до изменений в коде
 	- Тест insert_IndexEqualsZeroValue1EqualsOneValue2EqualsTwo_Value2IsInserted не прошел после изменений в коде
 
-	- Тест insert_IndexEqualsZeroValue1EqualsOneValue2Equals2_Value2IsInserted прошел до изменений в коде
+	+ Тест insert_IndexEqualsZeroValue1EqualsOneValue2Equals2_Value2IsInserted не прошел до изменений в коде
+	- Тест insert_IndexEqualsZeroValue1EqualsOneValue2Equals2_Value2IsInserted не прошел после изменений в коде
 
 	+ Тест insert_GettingIndexTheNumberOfSize_OutOfBalance не прошел до изменений в коде
 	+ Тест insert_GettingIndexTheNumberOfSize_OutOfBalance прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест pushBack_ValueEqualsThree_ValueIsPushedToTheBack не прошел до изменений в коде
 	+ Тест pushBack_ValueEqualsThree_ValueIsPushedToTheBack прошел после изменений в коде
-Обновленная строка ^ if(capacity<=size){ ^, правильная строка ^ if(capacity==size){^
-	- Не dсе изменения в коде верны.
 
 	+ Тест popBack_SizeEqualsZero_MessageIsThrown не прошел до изменений в коде
 	+ Тест popBack_SizeEqualsZero_MessageIsThrown прошел после изменений в коде
-Обновленная строка ^ if(size<=0) ^, правильная строка ^ if(size==0)^
-	- Не dсе изменения в коде верны.
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_2
@@ -42,19 +34,15 @@
 
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест insertionSort_FourSameNumbers_ArrayIsNotChanged не прошел до изменений в коде
 	+ Тест insertionSort_FourSameNumbers_ArrayIsNotChanged прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест insertionSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест insertionSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест selectionSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 Тестирование задачи task_3
-	Файл теста не существует
+	Ошибка в протоколе. Читаем задание и исправляем протокол.

@@ -1,58 +1,105 @@
 Тестирование задачи task_1
-	!!!Последняя правка все сломала
+	- Тест pushFront_EmptyList_False прошел до изменений в коде
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест pushFront_EmptyList_WhenTryingToGetElementNumberOneAnErrorOccurs не прошел до изменений в коде
+	+ Тест pushFront_EmptyList_WhenTryingToGetElementNumberOneAnErrorOccurs прошел после изменений в коде
+
+	- Тест pushElements_ThreeElements_SecondElementIsCorrect прошел до изменений в коде
+
+	- Тест pushElements_ThreeElements_HeadIsCorrect прошел до изменений в коде
+
+	+ Тест pushElements_ThreeElements_TailIsCorrect не прошел до изменений в коде
+	+ Тест pushElements_ThreeElements_TailIsCorrect прошел после изменений в коде
+
+	+ Тест pushElements_BackThreeElements_SecondElementIsCorrect не прошел до изменений в коде
+	+ Тест pushElements_BackThreeElements_SecondElementIsCorrect прошел после изменений в коде
+
+	+ Тест deleteElement_FirstElement_FirstElementIsCorrect не прошел до изменений в коде
+	+ Тест deleteElement_FirstElement_FirstElementIsCorrect прошел после изменений в коде
+
+	+ Тест pasteList_afterFirstElement_SizeIsCorrect не прошел до изменений в коде
+	+ Тест pasteList_afterFirstElement_SizeIsCorrect прошел после изменений в коде
+
+	+ Тест pasteList_afterFirstElement_ElementsAreCorrect не прошел до изменений в коде
+	+ Тест pasteList_afterFirstElement_ElementsAreCorrect прошел после изменений в коде
+
+	+ Тест pasteList_beforeFirstElement_SizeIsTrue не прошел до изменений в коде
+	+ Тест pasteList_beforeFirstElement_SizeIsTrue прошел после изменений в коде
+
+	+ Тест pasteList_beforeFirstElement_ElementsAreTrue не прошел до изменений в коде
+	+ Тест pasteList_beforeFirstElement_ElementsAreTrue прошел после изменений в коде
+
+	+ Тест generateArray_withoutSize_EqualsDefault не прошел до изменений в коде
+	+ Тест generateArray_withoutSize_EqualsDefault прошел после изменений в коде
+
+	+ Тест generateArray_receivingValueOutOfRange_IndexOutOfRange не прошел до изменений в коде
+	+ Тест generateArray_receivingValueOutOfRange_IndexOutOfRange прошел после изменений в коде
+
+	+ Тест generateArray_SettingValueOutOfRange_ReceivingIndexOutOfRange не прошел до изменений в коде
+	+ Тест generateArray_SettingValueOutOfRange_ReceivingIndexOutOfRange прошел после изменений в коде
+
+	+ Тест establishValues_EstablishThreeValues_ValuesAreTrue не прошел до изменений в коде
+	+ Тест establishValues_EstablishThreeValues_ValuesAreTrue прошел после изменений в коде
+
+	+ Тест changeSize_ChanceSizeArray_SizeIsTrue не прошел до изменений в коде
+	+ Тест changeSize_ChanceSizeArray_SizeIsTrue прошел после изменений в коде
+
+	+ Тест paste_PasteMeaningOutOfRange_ReceivingIndexOutOfRange не прошел до изменений в коде
+	+ Тест paste_PasteMeaningOutOfRange_ReceivingIndexOutOfRange прошел после изменений в коде
+
+	+ Тест paste_PasteMeaning_MeaningAreTrue не прошел до изменений в коде
+	+ Тест paste_PasteMeaning_MeaningAreTrue прошел после изменений в коде
+
+	+ Тест pushBack_Meaning_MeaningsAreTrue не прошел до изменений в коде
+	+ Тест pushBack_Meaning_MeaningsAreTrue прошел после изменений в коде
+
+	+ Тест leanBack_fromEmptyArray_ReceivingUnsupportedTransactionsExclusion не прошел до изменений в коде
+	+ Тест leanBack_fromEmptyArray_ReceivingUnsupportedTransactionsExclusion прошел после изменений в коде
+
+	+ Тест delete_IndexOutOfRound_ReceivingIndexOutOfRoundExclusion не прошел до изменений в коде
+	+ Тест delete_IndexOutOfRound_ReceivingIndexOutOfRoundExclusion прошел после изменений в коде
+
 Тестирование задачи task_2
 	- Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
 
 	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers не прошел до изменений в коде
 	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест insertionSort_GenerateInsertionSort_CompareSameArrays не прошел до изменений в коде
 	+ Тест insertionSort_GenerateInsertionSort_CompareSameArrays прошел после изменений в коде
-	+ Все изменения в коде верны.
 
-	- Тест insertionSort_insertionSort_GenerateInsertionSort_CompareSameArrays прошел до изменений в коде
+	+ Тест insertionSort_insertionSort_GenerateInsertionSort_CompareSameArrays не прошел до изменений в коде
+	- Тест insertionSort_insertionSort_GenerateInsertionSort_CompareSameArrays не прошел после изменений в коде
 
 	+ Тест selectionSort_GenerateSelectionSort_CompareSameArrays не прошел до изменений в коде
 	+ Тест selectionSort_GenerateSelectionSort_CompareSameArrays прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_GenerateSelectionSort_SortArray не прошел до изменений в коде
 	+ Тест selectionSort_GenerateSelectionSort_SortArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_GenerateSelectionSort_SortTwoItemsArray не прошел до изменений в коде
 	+ Тест selectionSort_GenerateSelectionSort_SortTwoItemsArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 Тестирование задачи task_3
 	- Тест quickSort_GenerateQuickSort_SortTwoPositions прошел до изменений в коде
 
 	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_GenerateMergeSort_SortTwoPositions не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_SortTwoPositions прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_GenerateMergeSort_SortThreePositions не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_SortThreePositions прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_GenerateMergeSort_SortThreeReversedPositions не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_SortThreeReversedPositions прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_GenerateMergeSort_SortBigArray не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_SortBigArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_GenerateHeapSort_CompareTwoPositions не прошел до изменений в коде
 	+ Тест heapSort_GenerateHeapSort_CompareTwoPositions прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	- Тест quickSort_GenerateQuickSort_SortAgain прошел до изменений в коде
 

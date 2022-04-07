@@ -1,5 +1,5 @@
 Тестирование задачи task_1
-	!!!Последняя правка все сломала
+	!!!Ошибка компиляции
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_2
@@ -7,22 +7,40 @@
 
 	+ Тест Check_BubbleSort_checking не прошел до изменений в коде
 	+ Тест Check_BubbleSort_checking прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест Check_insertionSort_checking не прошел до изменений в коде
 	+ Тест Check_insertionSort_checking прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест Check_SelectionSort_checking не прошел до изменений в коде
-	- Тест Check_SelectionSort_checking не прошел после изменений в коде
+	+ Тест Check_SelectionSort_checking прошел после изменений в коде
 
 	+ Тест Check_SelectionSort_checking3 не прошел до изменений в коде
 	+ Тест Check_SelectionSort_checking3 прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест Check_SelectionSort_checking6 не прошел до изменений в коде
 	+ Тест Check_SelectionSort_checking6 прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 Тестирование задачи task_3
-	Файл теста не существует
+	- Тест Check_QuickSort_sort2 прошел до изменений в коде
+
+	+ Тест Check_MergeSort_compare3 не прошел до изменений в коде
+	+ Тест Check_MergeSort_compare3 прошел после изменений в коде
+
+	+ Тест Check_MergeSort_sort2 не прошел до изменений в коде
+	+ Тест Check_MergeSort_sort2 прошел после изменений в коде
+
+	+ Тест Check_MergeSort_sort3 не прошел до изменений в коде
+	+ Тест Check_MergeSort_sort3 прошел после изменений в коде
+
+	+ Тест Check_MergeSort_sort3inverse не прошел до изменений в коде
+	+ Тест Check_MergeSort_sort3inverse прошел после изменений в коде
+
+	+ Тест Check_MergeSort_SortLarge не прошел до изменений в коде
+	+ Тест Check_MergeSort_SortLarge прошел после изменений в коде
+
+	+ Тест Check_HeapSort_compare2 не прошел до изменений в коде
+	+ Тест Check_HeapSort_compare2 прошел после изменений в коде
+
+	+ Тест Check_QuickSort_sortAgain не прошел до изменений в коде
+	+ Тест Check_QuickSort_sortAgain прошел после изменений в коде
+

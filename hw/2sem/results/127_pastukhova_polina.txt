@@ -1,20 +1,33 @@
 Тестирование задачи task_1
+	- Тест isEmpty_DoubleLinkedList_checkPushBack прошел до изменений в коде
+
+	!!!Ошибка компиляции
+
+	!!!Ошибка компиляции
+
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-	+ Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray не прошел до изменений в коде
-	+ Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray прошел после изменений в коде
-	+ Все изменения в коде верны.
+	- Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray прошел до изменений в коде
 
 	+ Тест bubbleSort_BubbleSort_firstS не прошел до изменений в коде
 	+ Тест bubbleSort_BubbleSort_firstS прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_SelectionSort_sortingConsecutiveNumbersArray не прошел до изменений в коде
 	+ Тест selectionSort_SelectionSort_sortingConsecutiveNumbersArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест selectionSort_SelectionSort_sortingRandomNumbersArray не прошел до изменений в коде
+	+ Тест selectionSort_SelectionSort_sortingRandomNumbersArray прошел после изменений в коде
+
+	+ Тест selectionSort_firstS не прошел до изменений в коде
+	+ Тест selectionSort_firstS прошел после изменений в коде
+
+	+ Тест insertionSort_sortingConsecutiveNumbersArray не прошел до изменений в коде
+	+ Тест insertionSort_sortingConsecutiveNumbersArray прошел после изменений в коде
+
+	+ Тест insertionSort_sortingRandomNumbersArray не прошел до изменений в коде
+	+ Тест insertionSort_sortingRandomNumbersArray прошел после изменений в коде
+
 Тестирование задачи task_3
 	- Тест quickSort_sortArray_sortTwoElements прошел до изменений в коде
 
@@ -22,45 +35,34 @@
 
 	+ Тест quickSort_array_sort не прошел до изменений в коде
 	+ Тест quickSort_array_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_sortArray_sortTwoElements не прошел до изменений в коде
 	+ Тест mergeSort_sortArray_sortTwoElements прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_array_sortFirstEl не прошел до изменений в коде
 	+ Тест mergeSort_array_sortFirstEl прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_sortedArray_array не прошел до изменений в коде
 	+ Тест mergeSort_sortedArray_array прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_array_sortTwoSameElem не прошел до изменений в коде
 	+ Тест mergeSort_array_sortTwoSameElem прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_array_sort не прошел до изменений в коде
 	+ Тест mergeSort_array_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_sortArray_sortTwoElem не прошел до изменений в коде
 	+ Тест heapSort_sortArray_sortTwoElem прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_array_arraySame не прошел до изменений в коде
 	+ Тест heapSort_array_arraySame прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_array_sort3Elements не прошел до изменений в коде
 	+ Тест heapSort_array_sort3Elements прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_array_sort не прошел до изменений в коде
 	+ Тест heapSort_array_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_array2_sort не прошел до изменений в коде
 	+ Тест heapSort_array2_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 

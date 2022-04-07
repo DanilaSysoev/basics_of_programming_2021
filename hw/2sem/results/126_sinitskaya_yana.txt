@@ -1,7 +1,42 @@
 Тестирование задачи task_1
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
-Тестирование задачи task_2
+	- Тест DynamicArray_DefaultSize_NullSizeArray прошел до изменений в коде
+
+	+ Тест DynamicArray_normalSize_ArrayCreatedAndUsed не прошел до изменений в коде
+	+ Тест DynamicArray_normalSize_ArrayCreatedAndUsed прошел после изменений в коде
+
+	+ Тест resize_NegativeSize_Exception не прошел до изменений в коде
+	+ Тест resize_NegativeSize_Exception прошел после изменений в коде
+
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
+Тестирование задачи task_2
+	+ Тест BubbleSort_RandomParams_SuccessSort не прошел до изменений в коде
+	+ Тест BubbleSort_RandomParams_SuccessSort прошел после изменений в коде
+
+	+ Тест BubbleSort_ReverseOrder_SuccessSort не прошел до изменений в коде
+	+ Тест BubbleSort_ReverseOrder_SuccessSort прошел после изменений в коде
+
+	+ Тест SelectionSort_TwoElements_SuccessSort не прошел до изменений в коде
+	+ Тест SelectionSort_TwoElements_SuccessSort прошел после изменений в коде
+
+	+ Тест SelectionSort_RandomOrder_SuccessSort не прошел до изменений в коде
+	+ Тест SelectionSort_RandomOrder_SuccessSort прошел после изменений в коде
+
+	+ Тест InsertionSort_RandomOrder_SuccessSort не прошел до изменений в коде
+	+ Тест InsertionSort_RandomOrder_SuccessSort прошел после изменений в коде
+
 Тестирование задачи task_3
-	Файл теста не существует
+	- Тест QuickSort_TwoElements_SuccessSort прошел до изменений в коде
+
+	+ Тест QuickSort_contrastParams_SuccessSort не прошел до изменений в коде
+	+ Тест QuickSort_contrastParams_SuccessSort прошел после изменений в коде
+
+	+ Тест MergeSort_TwoElements_SuccessSort не прошел до изменений в коде
+	+ Тест MergeSort_TwoElements_SuccessSort прошел после изменений в коде
+
+	+ Тест MergeSort_FourElements_SuccessSort не прошел до изменений в коде
+	+ Тест MergeSort_FourElements_SuccessSort прошел после изменений в коде
+
+	+ Тест MergeSort_contrastParams_SuccessSort не прошел до изменений в коде
+	+ Тест MergeSort_contrastParams_SuccessSort прошел после изменений в коде
+

@@ -1,31 +1,41 @@
 Тестирование задачи task_1
-	Файл теста не существует
+	- Тест isEmpty_DoubleLinkedList_checkIsEmpty прошел до изменений в коде
+
+	- Тест pushFront_DoubleLinkedList_TestAnotherNumber прошел до изменений в коде
+
+	- Тест getHead_DoubleLinkedList_TestanotherGetHead прошел до изменений в коде
+
+	- Тест getTail_DoubleLinkedList_TestNewGetTail прошел до изменений в коде
+
+	+ Тест getHead_DoubleLinkedList_TestanotherGetHead не прошел до изменений в коде
+	+ Тест getHead_DoubleLinkedList_TestanotherGetHead прошел после изменений в коде
+
+	+ Тест get_PushFrontEmptyDoubleLinkedList_TestFirst не прошел до изменений в коде
+	+ Тест get_PushFrontEmptyDoubleLinkedList_TestFirst прошел после изменений в коде
+
+		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+
 Тестирование задачи task_2
-	- Тест BubbleSort_sortArray_sort прошел до изменений в коде
+	+ Тест BubbleSort_sortArray_sort не прошел до изменений в коде
+	+ Тест BubbleSort_sortArray_sort прошел после изменений в коде
 
 	+ Тест BubbleSort_sortFirstElement_sort не прошел до изменений в коде
 	+ Тест BubbleSort_sortFirstElement_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест SelectionSort_sortArray_sort не прошел до изменений в коде
 	+ Тест SelectionSort_sortArray_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест SelectionSort_RandomInts_sort не прошел до изменений в коде
 	+ Тест SelectionSort_RandomInts_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест SelectionSort_sortFirstElement_sort не прошел до изменений в коде
 	+ Тест SelectionSort_sortFirstElement_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест InsertionSort_sortArray_sort не прошел до изменений в коде
 	+ Тест InsertionSort_sortArray_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест InsertionSort_Random_sort не прошел до изменений в коде
 	+ Тест InsertionSort_Random_sort прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 Тестирование задачи task_3
 	- Тест QuickSort_sortTwoElements_sort прошел до изменений в коде

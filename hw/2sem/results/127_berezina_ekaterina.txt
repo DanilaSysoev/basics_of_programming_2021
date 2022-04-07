@@ -1,38 +1,52 @@
 Тестирование задачи task_1
+	+ Тест pushBack_pushToEmptyList_sizeEqualsOne не прошел до изменений в коде
+	+ Тест pushBack_pushToEmptyList_sizeEqualsOne прошел после изменений в коде
+
+	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел до изменений в коде
+	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse прошел после изменений в коде
+
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест bubbleSort_CreateBubbleSort_TryToSort не прошел до изменений в коде
+	+ Тест bubbleSort_CreateBubbleSort_TryToSort прошел после изменений в коде
+
+	+ Тест bubbleSort_CreateBubbleSort_SortArrayWithDifferentNumbers не прошел до изменений в коде
+	+ Тест bubbleSort_CreateBubbleSort_SortArrayWithDifferentNumbers прошел после изменений в коде
+
+	+ Тест insertionSort_CreateInsertionSort_CompareSameArrays не прошел до изменений в коде
+	+ Тест insertionSort_CreateInsertionSort_CompareSameArrays прошел после изменений в коде
+
+	+ Тест selectionSort_CreateSelectionSort_CompareSameArrays не прошел до изменений в коде
+	+ Тест selectionSort_CreateSelectionSort_CompareSameArrays прошел после изменений в коде
+
+	+ Тест selectionSort_CreateSelectionSort_SortArray не прошел до изменений в коде
+	+ Тест selectionSort_CreateSelectionSort_SortArray прошел после изменений в коде
+
+	+ Тест selectionSort_CreateSelectionSort_SortTwoElements не прошел до изменений в коде
+	+ Тест selectionSort_CreateSelectionSort_SortTwoElements прошел после изменений в коде
 
 Тестирование задачи task_3
-	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays не прошел до изменений в коде
-	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays прошел после изменений в коде
-	+ Все изменения в коде верны.
+	- Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays прошел до изменений в коде
 
 	+ Тест heapSort_CreateNewHeapSort_SortArray не прошел до изменений в коде
 	+ Тест heapSort_CreateNewHeapSort_SortArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_CreateNewMergeSort_CompareThreeElementsArrays не прошел до изменений в коде
 	+ Тест mergeSort_CreateNewMergeSort_CompareThreeElementsArrays прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_CreateNewMergeSort_SortTwoElements не прошел до изменений в коде
 	+ Тест mergeSort_CreateNewMergeSort_SortTwoElements прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements не прошел до изменений в коде
-	- Тест mergeSort_CreateNewMergeSort_SortThreeElements не прошел после изменений в коде
+	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements прошел после изменений в коде
 
 	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements2 не прошел до изменений в коде
 	+ Тест mergeSort_CreateNewMergeSort_SortThreeElements2 прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_CreateNewMergeSort_SortArray не прошел до изменений в коде
 	+ Тест mergeSort_CreateNewMergeSort_SortArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест quickSort_CreateNewQuickSort_SortTwoElements не прошел до изменений в коде
 	+ Тест quickSort_CreateNewQuickSort_SortTwoElements прошел после изменений в коде
-	+ Все изменения в коде верны.
 

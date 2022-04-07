@@ -10,45 +10,37 @@
 Тестирование задачи task_3
 	+ Тест quickSort_UnsortedArray_ArrayIsCorrect не прошел до изменений в коде
 	+ Тест quickSort_UnsortedArray_ArrayIsCorrect прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	- Тест quickSort_UnsortedArray_ArrayWithTwoSameElementsIsCorrect прошел до изменений в коде
 
 	+ Тест quickSort_UnsortedArray_ArrayIsCorrect2 не прошел до изменений в коде
 	+ Тест quickSort_UnsortedArray_ArrayIsCorrect2 прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_UnsortedArray_ArrayIsCorrect не прошел до изменений в коде
-	- Тест heapSort_UnsortedArray_ArrayIsCorrect не прошел после изменений в коде
+	+ Тест heapSort_UnsortedArray_ArrayIsCorrect прошел после изменений в коде
 
 	+ Тест heapSort_SortedArray_ArrayWithoutChanges не прошел до изменений в коде
 	+ Тест heapSort_SortedArray_ArrayWithoutChanges прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест heapSort_UnsortedArray3_ArrayIsCorrect не прошел до изменений в коде
 	+ Тест heapSort_UnsortedArray3_ArrayIsCorrect прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	- Тест heapSort_UnsortedArray_ArrayIsCorrect2 прошел до изменений в коде
 
 	+ Тест heapSort_UnsortedArray_ArrayIsCorrect3 не прошел до изменений в коде
 	+ Тест heapSort_UnsortedArray_ArrayIsCorrect3 прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_UnsortedArray_ArrayIsCorrect не прошел до изменений в коде
-	- Тест mergeSort_UnsortedArray_ArrayIsCorrect не прошел после изменений в коде
+	+ Тест mergeSort_UnsortedArray_ArrayIsCorrect прошел после изменений в коде
 
 	+ Тест mergeSort_FirstUnsortedElems_ArrayIsCorrect не прошел до изменений в коде
 	+ Тест mergeSort_FirstUnsortedElems_ArrayIsCorrect прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест mergeSort_SortedArray_ArrayWithoutChanges не прошел до изменений в коде
 	+ Тест mergeSort_SortedArray_ArrayWithoutChanges прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	- Тест mergeSort_UnsortedArray_ArrayIsCorrect2 прошел до изменений в коде
 
 	+ Тест mergeSort_UnsortedArray_ArrayIsCorrect3 не прошел до изменений в коде
 	+ Тест mergeSort_UnsortedArray_ArrayIsCorrect3 прошел после изменений в коде
-	+ Все изменения в коде верны.
 

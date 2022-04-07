@@ -1,67 +1,122 @@
 Тестирование задачи task_1
-	- Тест pushFront_PushFrontToEmptyList_EmptyIsFalse прошел до изменений в коде
-
-	- Тест pushItems_PushFrontThreeItems_HeadIsCorrect прошел до изменений в коде
-
-	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел до изменений в коде
-	- Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел после изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_EmptyIsFalse не прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_EmptyIsFalse прошел после изменений в коде
 
 	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne не прошел до изменений в коде
 	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne прошел после изменений в коде
-	+ Все изменения в коде верны.
+
+	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел до изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect прошел после изменений в коде
+
+	+ Тест pushItems_PushFrontThreeItems_HeadIsCorrect не прошел до изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_HeadIsCorrect прошел после изменений в коде
 
 	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
 	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел после изменений в коде
-Обновленная строка ^ returninsertAfter(getTail(),data); ^, правильная строка ^ returninsertBefore(getHead(),data);^
-	- Не dсе изменения в коде верны.
 
 	+ Тест pushItems_PushBackThreeItems_SecondItemIsCorrect не прошел до изменений в коде
-	- Тест pushItems_PushBackThreeItems_SecondItemIsCorrect не прошел после изменений в коде
+	+ Тест pushItems_PushBackThreeItems_SecondItemIsCorrect прошел после изменений в коде
 
 	+ Тест removeItem_RemoveFirstItem_FirstItemIsCorrect не прошел до изменений в коде
-	- Тест removeItem_RemoveFirstItem_FirstItemIsCorrect не прошел после изменений в коде
+	+ Тест removeItem_RemoveFirstItem_FirstItemIsCorrect прошел после изменений в коде
+
+	+ Тест insertList_insertListAfterFirstItem_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertList_insertListAfterFirstItem_SizeIsCorrect прошел после изменений в коде
 
 	+ Тест insertList_insertListAfterFirstItem_AllElementsAreCorrect не прошел до изменений в коде
-	- Тест insertList_insertListAfterFirstItem_AllElementsAreCorrect не прошел после изменений в коде
+	+ Тест insertList_insertListAfterFirstItem_AllElementsAreCorrect прошел после изменений в коде
 
-	!!!Последняя правка все сломала
+	+ Тест insertList_insertListBeforeFirstItem_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertList_insertListBeforeFirstItem_SizeIsCorrect прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест insertList_insertListBeforeFirstItem_AllElementsAreCorrect не прошел до изменений в коде
+	+ Тест insertList_insertListBeforeFirstItem_AllElementsAreCorrect прошел после изменений в коде
+
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize не прошел до изменений в коде
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize прошел после изменений в коде
+
+	+ Тест createArray_TryToGetValueOutOfRange_GettingIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест createArray_TryToGetValueOutOfRange_GettingIndexOutOfBoundsException прошел после изменений в коде
+
+	+ Тест createArray_TryToSetValueOutOfRange_GettingIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест createArray_TryToSetValueOutOfRange_GettingIndexOutOfBoundsException прошел после изменений в коде
+
+	+ Тест setValues_SetThreeValues_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест setValues_SetThreeValues_ValuesAreCorrect прошел после изменений в коде
+
+	+ Тест resize_ResizeArray_NewSizeIsCorrect не прошел до изменений в коде
+	+ Тест resize_ResizeArray_NewSizeIsCorrect прошел после изменений в коде
+
+	+ Тест insert_TryToInsertValueOutOfRange_GettingIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест insert_TryToInsertValueOutOfRange_GettingIndexOutOfBoundsException прошел после изменений в коде
+
+	+ Тест insert_InsertValue_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест insert_InsertValue_ValuesAreCorrect прошел после изменений в коде
+
+	+ Тест pushBack_pushBackValue_ValuesAreCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushBackValue_ValuesAreCorrect прошел после изменений в коде
+
+	+ Тест popBack_popBackFromEmptyArray_GettingUnsupportedOperationException не прошел до изменений в коде
+	+ Тест popBack_popBackFromEmptyArray_GettingUnsupportedOperationException прошел после изменений в коде
+
+	+ Тест remove_TryRemovingIndexOutOfBounds_GettingIndexOutOfBoundsException не прошел до изменений в коде
+	+ Тест remove_TryRemovingIndexOutOfBounds_GettingIndexOutOfBoundsException прошел после изменений в коде
 
 Тестирование задачи task_2
-	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
-	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
-	+ Все изменения в коде верны.
+	- Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
 
 	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray не прошел до изменений в коде
 	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест bubbleSort_InvertedArray_GetSortedArray не прошел до изменений в коде
 	+ Тест bubbleSort_InvertedArray_GetSortedArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_InvertedArrayLengthTwo_GetSortedArray не прошел до изменений в коде
 	+ Тест selectionSort_InvertedArrayLengthTwo_GetSortedArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест selectionSort_UnsortedArray_GetSortedArray не прошел до изменений в коде
 	+ Тест selectionSort_UnsortedArray_GetSortedArray прошел после изменений в коде
-	+ Все изменения в коде верны.
 
 	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
 	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
-	+ Все изменения в коде верны.
 
-	+ Тест insertionSort_SortedArray_ArrayHasNotChanged не прошел до изменений в коде
-	+ Тест insertionSort_SortedArray_ArrayHasNotChanged прошел после изменений в коде
-	+ Все изменения в коде верны.
-
-	+ Тест  не прошел до изменений в коде
-	- Тест  не прошел после изменений в коде
-
+	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
 	- Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел до изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест quickSort_UnsortedArrayV1_GetSortedArray не прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayV1_GetSortedArray прошел после изменений в коде
+
+	+ Тест quickSort_UnsortedArrayV2_GetSortedArray не прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayV2_GetSortedArray прошел после изменений в коде
+
+	+ Тест mergeSort_UnsortedArrayWithLengthTwo_GetSortedArray не прошел до изменений в коде
+	+ Тест mergeSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел после изменений в коде
+
+	+ Тест mergeSort_UnsortedOnlyFirstTwoElements_GetSortedArray не прошел до изменений в коде
+	+ Тест mergeSort_UnsortedOnlyFirstTwoElements_GetSortedArray прошел после изменений в коде
+
+	+ Тест mergeSort_UnsortedArrayV1_GetSortedArray не прошел до изменений в коде
+	+ Тест mergeSort_UnsortedArrayV1_GetSortedArray прошел после изменений в коде
+
+	+ Тест mergeSort_UnsortedArrayV2_GetSortedArray не прошел до изменений в коде
+	+ Тест mergeSort_UnsortedArrayV2_GetSortedArray прошел после изменений в коде
+
+	+ Тест mergeSort_UnsortedArrayV3_GetSortedArray не прошел до изменений в коде
+	+ Тест mergeSort_UnsortedArrayV3_GetSortedArray прошел после изменений в коде
+
+	+ Тест heapSort_ArrayContainsOnlyTwoNumbersOne_GetUnchangedArray не прошел до изменений в коде
+	+ Тест heapSort_ArrayContainsOnlyTwoNumbersOne_GetUnchangedArray прошел после изменений в коде
+
+	+ Тест heapSort_SortedArrayLengthTwo_GetUnchangedArray не прошел до изменений в коде
+	+ Тест heapSort_SortedArrayLengthTwo_GetUnchangedArray прошел после изменений в коде
+
+	+ Тест heapSort_SortedArrayLengthThree_GetUnchangedArray не прошел до изменений в коде
+	+ Тест heapSort_SortedArrayLengthThree_GetUnchangedArray прошел после изменений в коде
+
+	+ Тест heapSort_UnsortedArrayV1_GetUnchangedArray не прошел до изменений в коде
+	+ Тест heapSort_UnsortedArrayV1_GetUnchangedArray прошел после изменений в коде
+
+	+ Тест heapSort_UnsortedArrayV2_GetUnchangedArray не прошел до изменений в коде
+	+ Тест heapSort_UnsortedArrayV2_GetUnchangedArray прошел после изменений в коде
 
