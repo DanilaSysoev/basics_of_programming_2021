@@ -2,21 +2,6 @@
 	+ Тест createArray_CreateNewArray_SizeEqualsZero не прошел до изменений в коде
 	+ Тест createArray_CreateNewArray_SizeEqualsZero прошел после изменений в коде
 
-	+ Тест setValue_SetNewValue_ValueIsCorrect не прошел до изменений в коде
-	+ Тест setValue_SetNewValue_ValueIsCorrect прошел после изменений в коде
-
-	+ Тест resizeArray_ResizeArray_ResizeCompletes не прошел до изменений в коде
-	+ Тест resizeArray_ResizeArray_ResizeCompletes прошел после изменений в коде
-
-	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
-	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
-
-	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
-	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
-
-	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
-	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
-
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
@@ -39,7 +24,8 @@
 	+ Тест SelectionSort_SelectionSortNegativeDigitsWithNormal_DataIsCorrect прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест HeapSort_HeapSortSameDigits_DataIsCorrect прошел до изменений в коде
+	+ Тест HeapSort_HeapSortSameDigits_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_HeapSortSameDigits_DataIsCorrect прошел после изменений в коде
 
 	+ Тест HeapSort_HeapSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде
 	+ Тест HeapSort_HeapSortAlreadySortedData_DataIsCorrect прошел после изменений в коде

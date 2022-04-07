@@ -8,13 +8,13 @@
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-	- Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray прошел до изменений в коде
+	+ Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray не прошел до изменений в коде
+	+ Тест bubbleSort_BubbleSort_sortingConsecutiveNumbersArray прошел после изменений в коде
 
 	+ Тест bubbleSort_BubbleSort_firstS не прошел до изменений в коде
 	+ Тест bubbleSort_BubbleSort_firstS прошел после изменений в коде
 
-	+ Тест selectionSort_SelectionSort_sortingConsecutiveNumbersArray не прошел до изменений в коде
-	+ Тест selectionSort_SelectionSort_sortingConsecutiveNumbersArray прошел после изменений в коде
+	- Тест selectionSort_SelectionSort_sortingConsecutiveNumbersArray прошел до изменений в коде
 
 	+ Тест selectionSort_SelectionSort_sortingRandomNumbersArray не прошел до изменений в коде
 	+ Тест selectionSort_SelectionSort_sortingRandomNumbersArray прошел после изменений в коде
@@ -29,7 +29,8 @@
 	+ Тест insertionSort_sortingRandomNumbersArray прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_sortArray_sortTwoElements прошел до изменений в коде
+	+ Тест quickSort_sortArray_sortTwoElements не прошел до изменений в коде
+	+ Тест quickSort_sortArray_sortTwoElements прошел после изменений в коде
 
 	- Тест quickSort_sortArray_sortSameElements прошел до изменений в коде
 

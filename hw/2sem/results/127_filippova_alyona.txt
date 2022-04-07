@@ -3,7 +3,8 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_2
-	- Тест Check_BubbleSort_createSorting прошел до изменений в коде
+	+ Тест Check_BubbleSort_createSorting не прошел до изменений в коде
+	- Тест Check_BubbleSort_createSorting не прошел после изменений в коде
 
 	+ Тест Check_BubbleSort_checking не прошел до изменений в коде
 	+ Тест Check_BubbleSort_checking прошел после изменений в коде
@@ -21,7 +22,8 @@
 	+ Тест Check_SelectionSort_checking6 прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест Check_QuickSort_sort2 прошел до изменений в коде
+	+ Тест Check_QuickSort_sort2 не прошел до изменений в коде
+	+ Тест Check_QuickSort_sort2 прошел после изменений в коде
 
 	+ Тест Check_MergeSort_compare3 не прошел до изменений в коде
 	+ Тест Check_MergeSort_compare3 прошел после изменений в коде
@@ -32,8 +34,7 @@
 	+ Тест Check_MergeSort_sort3 не прошел до изменений в коде
 	+ Тест Check_MergeSort_sort3 прошел после изменений в коде
 
-	+ Тест Check_MergeSort_sort3inverse не прошел до изменений в коде
-	+ Тест Check_MergeSort_sort3inverse прошел после изменений в коде
+	- Тест Check_MergeSort_sort3inverse прошел до изменений в коде
 
 	+ Тест Check_MergeSort_SortLarge не прошел до изменений в коде
 	+ Тест Check_MergeSort_SortLarge прошел после изменений в коде

@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест pushFront_EmptyList_False прошел до изменений в коде
+	+ Тест pushFront_EmptyList_False не прошел до изменений в коде
+	+ Тест pushFront_EmptyList_False прошел после изменений в коде
 
 	+ Тест pushFront_EmptyList_WhenTryingToGetElementNumberOneAnErrorOccurs не прошел до изменений в коде
 	+ Тест pushFront_EmptyList_WhenTryingToGetElementNumberOneAnErrorOccurs прошел после изменений в коде
@@ -60,7 +61,8 @@
 	+ Тест delete_IndexOutOfRound_ReceivingIndexOutOfRoundExclusion прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
 
 	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers не прошел до изменений в коде
 	+ Тест bubbleSort_GenerateMyBubbleSort_TryToSortVariousNumbers прошел после изменений в коде
@@ -81,7 +83,8 @@
 	+ Тест selectionSort_GenerateSelectionSort_SortTwoItemsArray прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_GenerateQuickSort_SortTwoPositions прошел до изменений в коде
+	+ Тест quickSort_GenerateQuickSort_SortTwoPositions не прошел до изменений в коде
+	+ Тест quickSort_GenerateQuickSort_SortTwoPositions прошел после изменений в коде
 
 	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions не прошел до изменений в коде
 	+ Тест mergeSort_GenerateMergeSort_CompareThreePositions прошел после изменений в коде

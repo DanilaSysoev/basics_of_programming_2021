@@ -59,7 +59,8 @@
 	+ Тест selectionSort_SelectionSortIsSorted_CorrectOrder прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест heapSort_HeapSortWithTHeSameElem_WithoutChanges прошел до изменений в коде
+	+ Тест heapSort_HeapSortWithTHeSameElem_WithoutChanges не прошел до изменений в коде
+	+ Тест heapSort_HeapSortWithTHeSameElem_WithoutChanges прошел после изменений в коде
 
 	+ Тест heapSort_HeapSortIsSorted_WithoutChanges не прошел до изменений в коде
 	+ Тест heapSort_HeapSortIsSorted_WithoutChanges прошел после изменений в коде

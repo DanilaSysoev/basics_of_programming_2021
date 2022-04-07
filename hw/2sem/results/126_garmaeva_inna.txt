@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест newArray_getSizeOfNewArray_SizeEqualsDefaultSize прошел до изменений в коде
+	+ Тест newArray_getSizeOfNewArray_SizeEqualsDefaultSize не прошел до изменений в коде
+	+ Тест newArray_getSizeOfNewArray_SizeEqualsDefaultSize прошел после изменений в коде
 
 	+ Тест arraySet_setArrayValues_ValuesAreCorrect не прошел до изменений в коде
 	+ Тест arraySet_setArrayValues_ValuesAreCorrect прошел после изменений в коде
@@ -33,7 +34,8 @@
 	- Тест removeValue_RemoveOneValue_ValueIsCorrect прошел до изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_InvertSort прошел до изменений в коде
+	+ Тест bubbleSort_InvertSort не прошел до изменений в коде
+	- Тест bubbleSort_InvertSort не прошел после изменений в коде
 
 	+ Тест bubbleSort_DataStaysTheSame не прошел до изменений в коде
 	+ Тест bubbleSort_DataStaysTheSame прошел после изменений в коде
@@ -51,7 +53,8 @@
 	+ Тест selectionSort_InvertSort прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест HeapSort_InterchangeIndex прошел до изменений в коде
+	+ Тест HeapSort_InterchangeIndex не прошел до изменений в коде
+	+ Тест HeapSort_InterchangeIndex прошел после изменений в коде
 
 	+ Тест HeapSort_Sort_TakeTwo не прошел до изменений в коде
 	+ Тест HeapSort_Sort_TakeTwo прошел после изменений в коде

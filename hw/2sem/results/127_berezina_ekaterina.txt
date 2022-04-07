@@ -3,7 +3,7 @@
 	+ Тест pushBack_pushToEmptyList_sizeEqualsOne прошел после изменений в коде
 
 	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел до изменений в коде
-	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse прошел после изменений в коде
+	- Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел после изменений в коде
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
@@ -27,7 +27,8 @@
 	+ Тест selectionSort_CreateSelectionSort_SortTwoElements прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays прошел до изменений в коде
+	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays не прошел до изменений в коде
+	+ Тест heapSort_CreateNewHeapSort_CompareTwoItemsArrays прошел после изменений в коде
 
 	+ Тест heapSort_CreateNewHeapSort_SortArray не прошел до изменений в коде
 	+ Тест heapSort_CreateNewHeapSort_SortArray прошел после изменений в коде

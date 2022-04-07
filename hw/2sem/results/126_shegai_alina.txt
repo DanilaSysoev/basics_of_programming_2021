@@ -98,7 +98,8 @@
 	+ Тест test_DynamicArray_remove_throw прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест test_BubbleSort_iAndComparator прошел до изменений в коде
+	+ Тест test_BubbleSort_iAndComparator не прошел до изменений в коде
+	+ Тест test_BubbleSort_iAndComparator прошел после изменений в коде
 
 	+ Тест test_BubbleSort_sps не прошел до изменений в коде
 	+ Тест test_BubbleSort_sps прошел после изменений в коде
@@ -108,7 +109,8 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
-	- Тест test_HeapSort_swapSecondIndex прошел до изменений в коде
+	+ Тест test_HeapSort_swapSecondIndex не прошел до изменений в коде
+	+ Тест test_HeapSort_swapSecondIndex прошел после изменений в коде
 
 	+ Тест test_HeapSort_statementTwoExpectZero не прошел до изменений в коде
 	+ Тест test_HeapSort_statementTwoExpectZero прошел после изменений в коде

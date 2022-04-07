@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест getNext_getNextElem_ElemIsCorrect прошел до изменений в коде
+	+ Тест getNext_getNextElem_ElemIsCorrect не прошел до изменений в коде
+	+ Тест getNext_getNextElem_ElemIsCorrect прошел после изменений в коде
 
 	+ Тест getPrev_getPrevElem_ElemIsCorrect не прошел до изменений в коде
 	+ Тест getPrev_getPrevElem_ElemIsCorrect прошел после изменений в коде
@@ -95,7 +96,8 @@
 	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ArrayWithThreeSimilarElements_ArrayStaysTheSame прошел до изменений в коде
+	+ Тест bubbleSort_ArrayWithThreeSimilarElements_ArrayStaysTheSame не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayWithThreeSimilarElements_ArrayStaysTheSame прошел после изменений в коде
 
 	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame не прошел до изменений в коде
 	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame прошел после изменений в коде

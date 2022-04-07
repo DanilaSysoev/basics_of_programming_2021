@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест getNext_getNextData_ListIsCorrect прошел до изменений в коде
+	+ Тест getNext_getNextData_ListIsCorrect не прошел до изменений в коде
+	+ Тест getNext_getNextData_ListIsCorrect прошел после изменений в коде
 
 	+ Тест pushFront_pushFrontThreeElem_ListIsCorrect не прошел до изменений в коде
 	- Тест pushFront_pushFrontThreeElem_ListIsCorrect не прошел после изменений в коде

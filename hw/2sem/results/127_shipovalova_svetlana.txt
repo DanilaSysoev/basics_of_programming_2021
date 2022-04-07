@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест pushFront_ToEmptyList_False прошел до изменений в коде
+	+ Тест pushFront_ToEmptyList_False не прошел до изменений в коде
+	+ Тест pushFront_ToEmptyList_False прошел после изменений в коде
 
 	+ Тест pushFront_ToEmptyList_Error не прошел до изменений в коде
 	+ Тест pushFront_ToEmptyList_Error прошел после изменений в коде
@@ -19,7 +20,8 @@
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ContainsOnlyNumbers прошел до изменений в коде
+	+ Тест bubbleSort_ContainsOnlyNumbers не прошел до изменений в коде
+	+ Тест bubbleSort_ContainsOnlyNumbers прошел после изменений в коде
 
 	+ Тест bubbleSort_TheBiggestElement не прошел до изменений в коде
 	+ Тест bubbleSort_TheBiggestElement прошел после изменений в коде
@@ -40,7 +42,8 @@
 	+ Тест insertionSort_SortedArray_ArrayHasNotChanged прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_UnsortedArray прошел до изменений в коде
+	+ Тест quickSort_UnsortedArray не прошел до изменений в коде
+	+ Тест quickSort_UnsortedArray прошел после изменений в коде
 
 	+ Тест quickSort_Unsorted_GetSortedArray не прошел до изменений в коде
 	+ Тест quickSort_Unsorted_GetSortedArray прошел после изменений в коде

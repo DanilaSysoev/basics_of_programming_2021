@@ -63,10 +63,10 @@
 	+ Тест remove_TryRemovingIndexOutOfBounds_GettingIndexOutOfBoundsException прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
 
-	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray не прошел до изменений в коде
-	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел после изменений в коде
+	- Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел до изменений в коде
 
 	+ Тест bubbleSort_InvertedArray_GetSortedArray не прошел до изменений в коде
 	+ Тест bubbleSort_InvertedArray_GetSortedArray прошел после изменений в коде
@@ -82,7 +82,8 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
-	- Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray не прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел после изменений в коде
 
 	+ Тест quickSort_UnsortedArrayV1_GetSortedArray не прошел до изменений в коде
 	+ Тест quickSort_UnsortedArrayV1_GetSortedArray прошел после изменений в коде

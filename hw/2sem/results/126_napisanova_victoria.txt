@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест getSize_getSizeOfNewArray_SizeEqualsZero прошел до изменений в коде
+	+ Тест getSize_getSizeOfNewArray_SizeEqualsZero не прошел до изменений в коде
+	+ Тест getSize_getSizeOfNewArray_SizeEqualsZero прошел после изменений в коде
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 

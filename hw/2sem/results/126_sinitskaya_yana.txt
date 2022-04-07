@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест DynamicArray_DefaultSize_NullSizeArray прошел до изменений в коде
+	+ Тест DynamicArray_DefaultSize_NullSizeArray не прошел до изменений в коде
+	+ Тест DynamicArray_DefaultSize_NullSizeArray прошел после изменений в коде
 
 	+ Тест DynamicArray_normalSize_ArrayCreatedAndUsed не прошел до изменений в коде
 	+ Тест DynamicArray_normalSize_ArrayCreatedAndUsed прошел после изменений в коде
@@ -26,7 +27,8 @@
 	+ Тест InsertionSort_RandomOrder_SuccessSort прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест QuickSort_TwoElements_SuccessSort прошел до изменений в коде
+	+ Тест QuickSort_TwoElements_SuccessSort не прошел до изменений в коде
+	+ Тест QuickSort_TwoElements_SuccessSort прошел после изменений в коде
 
 	+ Тест QuickSort_contrastParams_SuccessSort не прошел до изменений в коде
 	+ Тест QuickSort_contrastParams_SuccessSort прошел после изменений в коде

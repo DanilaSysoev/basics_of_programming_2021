@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест createArray_createArrayWithNothing_SizeEqualsDefaultSize прошел до изменений в коде
+	+ Тест createArray_createArrayWithNothing_SizeEqualsDefaultSize не прошел до изменений в коде
+	+ Тест createArray_createArrayWithNothing_SizeEqualsDefaultSize прошел после изменений в коде
 
 	+ Тест resize_NewSizeIsBiggerThenZero_SizeEqualsNewSize не прошел до изменений в коде
 	+ Тест resize_NewSizeIsBiggerThenZero_SizeEqualsNewSize прошел после изменений в коде
@@ -30,7 +31,8 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_2
-	- Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел до изменений в коде
+	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged не прошел до изменений в коде
+	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел после изменений в коде
 
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде

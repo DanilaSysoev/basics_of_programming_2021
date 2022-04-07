@@ -57,7 +57,8 @@
 	+ Тест insertListBefore_insertListBeforeList_insertListBeforeListOK прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест BubbleSort_sortSortedArray_sortOK прошел до изменений в коде
+	+ Тест BubbleSort_sortSortedArray_sortOK не прошел до изменений в коде
+	+ Тест BubbleSort_sortSortedArray_sortOK прошел после изменений в коде
 
 	+ Тест BubbleSort_sortFirstElementIsSorted_sortOK не прошел до изменений в коде
 	+ Тест BubbleSort_sortFirstElementIsSorted_sortOK прошел после изменений в коде
@@ -81,7 +82,8 @@
 	- Тест  не прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест QuickSort_sortTwoElements_SortOK прошел до изменений в коде
+	+ Тест QuickSort_sortTwoElements_SortOK не прошел до изменений в коде
+	+ Тест QuickSort_sortTwoElements_SortOK прошел после изменений в коде
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 

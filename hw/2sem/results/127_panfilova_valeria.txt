@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест createList_createNewList_ListIsNotEmpty прошел до изменений в коде
+	+ Тест createList_createNewList_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест createList_createNewList_ListIsNotEmpty прошел после изменений в коде
 
 	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
 
@@ -30,8 +31,7 @@
 	+ Тест bubbleSort_dataIsUnsorted_sortIsCorrect не прошел до изменений в коде
 	- Тест bubbleSort_dataIsUnsorted_sortIsCorrect не прошел после изменений в коде
 
-	+ Тест bubbleSort_dataIsSorted_sortIsNotNeeded не прошел до изменений в коде
-	+ Тест bubbleSort_dataIsSorted_sortIsNotNeeded прошел после изменений в коде
+	- Тест bubbleSort_dataIsSorted_sortIsNotNeeded прошел до изменений в коде
 
 	+ Тест insertionSort_dataIsEqual_sortIsNotNeeded не прошел до изменений в коде
 	+ Тест insertionSort_dataIsEqual_sortIsNotNeeded прошел после изменений в коде
@@ -49,7 +49,8 @@
 	+ Тест selectionSort_invertedData_sortIsCorrect прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_twoUnsortedNumbers_sortIsCorrect прошел до изменений в коде
+	+ Тест quickSort_twoUnsortedNumbers_sortIsCorrect не прошел до изменений в коде
+	+ Тест quickSort_twoUnsortedNumbers_sortIsCorrect прошел после изменений в коде
 
 	- Тест quickSort_dataWithRepeatingNumbers_sortIsCorrect прошел до изменений в коде
 

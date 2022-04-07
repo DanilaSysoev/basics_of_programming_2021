@@ -62,7 +62,7 @@
 	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел после изменений в коде
 
 	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел до изменений в коде
-	+ Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect прошел после изменений в коде
+	- Тест pushItems_PushFrontThreeItems_SecondItemIsCorrect не прошел после изменений в коде
 
 	+ Тест pushItems_PushBackThreeItems_SecondItemIsCorrect не прошел до изменений в коде
 	+ Тест pushItems_PushBackThreeItems_SecondItemIsCorrect прошел после изменений в коде
@@ -91,7 +91,8 @@
 	+ Тест insertList_insertListBeforeFirstItem_AllItemsAreCorrect прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ArrayContainsOnlySameNumbers_ArrayNotChanges прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlySameNumbers_ArrayNotChanges не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayContainsOnlySameNumbers_ArrayNotChanges прошел после изменений в коде
 
 	+ Тест bubbleSort_InvertedArrayWithRightBiggestItem_ArrayIsSorted не прошел до изменений в коде
 	+ Тест bubbleSort_InvertedArrayWithRightBiggestItem_ArrayIsSorted прошел после изменений в коде
@@ -110,7 +111,8 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
-	- Тест quickSort_UnsortedArrayWithThreeItems_ArrayIsSorted прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayWithThreeItems_ArrayIsSorted не прошел до изменений в коде
+	+ Тест quickSort_UnsortedArrayWithThreeItems_ArrayIsSorted прошел после изменений в коде
 
 	+ Тест quickSort_UnsortedArrayWithTwoSameLengthFive_ArrayIsSorted не прошел до изменений в коде
 	- Тест quickSort_UnsortedArrayWithTwoSameLengthFive_ArrayIsSorted не прошел после изменений в коде

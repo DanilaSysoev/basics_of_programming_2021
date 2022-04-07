@@ -21,7 +21,8 @@
 	+ Тест selectionSort_TryToSortTwoItemsArray прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_TryToSortTwoItems прошел до изменений в коде
+	+ Тест quickSort_TryToSortTwoItems не прошел до изменений в коде
+	+ Тест quickSort_TryToSortTwoItems прошел после изменений в коде
 
 	+ Тест mergeSort_TryToCompareThreeItemsArrays не прошел до изменений в коде
 	+ Тест mergeSort_TryToCompareThreeItemsArrays прошел после изменений в коде

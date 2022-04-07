@@ -1,5 +1,6 @@
 Тестирование задачи task_1
-	- Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize прошел до изменений в коде
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize не прошел до изменений в коде
+	+ Тест createArray_CreateArrayWithoutSize_SizeEqualsDefaultSize прошел после изменений в коде
 
 	+ Тест resize_SizeNumber_NewSizeCorrect не прошел до изменений в коде
 	+ Тест resize_SizeNumber_NewSizeCorrect прошел после изменений в коде
@@ -55,8 +56,7 @@
 	+ Тест BubbleSort_SortNotNeed_SortCorrect не прошел до изменений в коде
 	+ Тест BubbleSort_SortNotNeed_SortCorrect прошел после изменений в коде
 
-	+ Тест BubbleSort_SortNotNeed_NumbersOnRightPositions не прошел до изменений в коде
-	+ Тест BubbleSort_SortNotNeed_NumbersOnRightPositions прошел после изменений в коде
+	- Тест BubbleSort_SortNotNeed_NumbersOnRightPositions прошел до изменений в коде
 
 	+ Тест BubbleSort_sortDats_SortCorrect не прошел до изменений в коде
 	+ Тест BubbleSort_sortDats_SortCorrect прошел после изменений в коде
@@ -77,7 +77,8 @@
 	+ Тест SelectionSort_sortDats_SortCorrect прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_sortArrayWithTwoNumbers_SortCorrect прошел до изменений в коде
+	+ Тест quickSort_sortArrayWithTwoNumbers_SortCorrect не прошел до изменений в коде
+	+ Тест quickSort_sortArrayWithTwoNumbers_SortCorrect прошел после изменений в коде
 
 	+ Тест QuickSort_sortArrayWithSameNumbers_SortCorrect не прошел до изменений в коде
 	+ Тест QuickSort_sortArrayWithSameNumbers_SortCorrect прошел после изменений в коде

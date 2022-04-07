@@ -21,7 +21,8 @@
 	+ Тест selectionSort_CreateMySelectionSort_TryToSortTwoItemsArray прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест quickSort_CreateNewQuickSort_TryToSortTwoItems прошел до изменений в коде
+	+ Тест quickSort_CreateNewQuickSort_TryToSortTwoItems не прошел до изменений в коде
+	+ Тест quickSort_CreateNewQuickSort_TryToSortTwoItems прошел после изменений в коде
 
 	+ Тест mergeSort_CreateNewMergeSort_TryToCompareThreeItemsArrays не прошел до изменений в коде
 	+ Тест mergeSort_CreateNewMergeSort_TryToCompareThreeItemsArrays прошел после изменений в коде

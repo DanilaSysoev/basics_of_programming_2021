@@ -38,7 +38,8 @@
 	+ Тест InsertionSort_Random_sort прошел после изменений в коде
 
 Тестирование задачи task_3
-	- Тест QuickSort_sortTwoElements_sort прошел до изменений в коде
+	+ Тест QuickSort_sortTwoElements_sort не прошел до изменений в коде
+	+ Тест QuickSort_sortTwoElements_sort прошел после изменений в коде
 
 	- Тест QuickSort_sortTwoSameElements_sort прошел до изменений в коде
 

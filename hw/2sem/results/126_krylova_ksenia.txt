@@ -101,12 +101,14 @@
 	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
 Тестирование задачи task_2
-	- Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() прошел до изменений в коде
+	+ Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() не прошел до изменений в коде
+	- Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() не прошел после изменений в коде
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_3
-	- Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() прошел до изменений в коде
+	+ Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() не прошел до изменений в коде
+	- Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() не прошел после изменений в коде
 
 	+ Тест quickSort_unSortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел до изменений в коде
 	- Тест quickSort_unSortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел после изменений в коде
