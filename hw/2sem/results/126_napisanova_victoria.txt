@@ -2,45 +2,32 @@
 	+ Тест getSize_getSizeOfNewArray_SizeEqualsZero не прошел до изменений в коде
 	+ Тест getSize_getSizeOfNewArray_SizeEqualsZero прошел после изменений в коде
 
+	+ Тест setValue_setNewValue_ValueIsRight не прошел до изменений в коде
+	+ Тест setValue_setNewValue_ValueIsRight прошел после изменений в коде
+
+	!!!Ошибка компиляции
+
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест BubbleSort_SameNumbers_SortIsRight не прошел до изменений в коде
+	+ Тест BubbleSort_SameNumbers_SortIsRight прошел после изменений в коде
 
+	+ Тест BubbleSort_NotNeedSort_NumbersOnRightPlaces не прошел до изменений в коде
+	+ Тест BubbleSort_NotNeedSort_NumbersOnRightPlaces прошел после изменений в коде
+
+	+ Тест BubbleSort_SortData_DataIsCorrect не прошел до изменений в коде
+	+ Тест BubbleSort_SortData_DataIsCorrect прошел после изменений в коде
+
+	+ Тест SelectionSort_InvertedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_InvertedArray_DataIsCorrect прошел после изменений в коде
+
+	+ Тест SelectionSort_UnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_UnsortedArray_DataIsCorrect прошел после изменений в коде
+
+	+ Тест SelectionSort_SortArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест SelectionSort_SortArray_DataIsCorrect прошел после изменений в коде
+
+	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_3
-	+ Тест QuickSort_SortUnsortedArray_DataIsCorrect не прошел до изменений в коде
-	+ Тест QuickSort_SortUnsortedArray_DataIsCorrect прошел после изменений в коде
-
-	+ Тест QuickSort_UnsortedArrayWithSameElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест QuickSort_UnsortedArrayWithSameElements_DataIsCorrect прошел после изменений в коде
-
-	+ Тест MergeSort_SortUnsortedArray_DataIsCorrect не прошел до изменений в коде
-	+ Тест MergeSort_SortUnsortedArray_DataIsCorrect прошел после изменений в коде
-
-	+ Тест MergeSort_FirstElementsAreUnsorted_DataIsCorrect не прошел до изменений в коде
-	+ Тест MergeSort_FirstElementsAreUnsorted_DataIsCorrect прошел после изменений в коде
-
-	+ Тест MergeSort_UnsortedLargeArray_DataIsCorrect не прошел до изменений в коде
-	- Тест MergeSort_UnsortedLargeArray_DataIsCorrect не прошел после изменений в коде
-
-	+ Тест MergeSort_ReversedArray_DataIsCorrect не прошел до изменений в коде
-	+ Тест MergeSort_ReversedArray_DataIsCorrect прошел после изменений в коде
-
-	+ Тест MergeSort_SortedArrayWithEvenNumberOfElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест MergeSort_SortedArrayWithEvenNumberOfElements_DataIsCorrect прошел после изменений в коде
-
-	+ Тест HeapSort_ArrayWithAllSameElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест HeapSort_ArrayWithAllSameElements_DataIsCorrect прошел после изменений в коде
-
-	+ Тест HeapSort_AlreadySortedArrayWithTwoElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест HeapSort_AlreadySortedArrayWithTwoElements_DataIsCorrect прошел после изменений в коде
-
-	+ Тест HeapSort_AlreadySortedArrayWithThreeElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест HeapSort_AlreadySortedArrayWithThreeElements_DataIsCorrect прошел после изменений в коде
-
-	+ Тест HeapSort_UnsortedLargeArray_DataIsCorrect не прошел до изменений в коде
-	+ Тест HeapSort_UnsortedLargeArray_DataIsCorrect прошел после изменений в коде
-
-	+ Тест HeapSort_UnsortedArrayWithSameRepeatedElements_DataIsCorrect не прошел до изменений в коде
-	+ Тест HeapSort_UnsortedArrayWithSameRepeatedElements_DataIsCorrect прошел после изменений в коде
-
+	Ошибка в протоколе. Читаем задание и исправляем протокол.

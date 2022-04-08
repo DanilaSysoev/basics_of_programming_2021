@@ -2,7 +2,59 @@
 	+ Тест createArray_CreateNewArray_SizeEqualsZero не прошел до изменений в коде
 	+ Тест createArray_CreateNewArray_SizeEqualsZero прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест setValue_SetNewValue_ValueIsCorrect не прошел до изменений в коде
+	+ Тест setValue_SetNewValue_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест resizeArray_ResizeArray_ResizeCompletes не прошел до изменений в коде
+	+ Тест resizeArray_ResizeArray_ResizeCompletes прошел после изменений в коде
+
+	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест getIndex_GetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест setIndex_SetIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест insertIndex_InsertIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест insertNew_InsertNewIndexWithValueInNotExistingSlot_ValueIsCorrect не прошел до изменений в коде
+	+ Тест insertNew_InsertNewIndexWithValueInNotExistingSlot_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест pushBack_PushBackValue_ValueIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_PushBackValue_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест removeIndex_RemoveIndexTheExactNumberAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест removeIndex_RemoveIndexTheExactNumberAsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест popBack_PopBackZeroLengthArray_ArrayIsEmpty не прошел до изменений в коде
+	+ Тест popBack_PopBackZeroLengthArray_ArrayIsEmpty прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontThreeItems_ItemsAreCorrect не прошел до изменений в коде
+	+ Тест pushFront_PushFrontThreeItems_ItemsAreCorrect прошел после изменений в коде
+
+	+ Тест pushBack_PushBackThreeItems_ItemsAreCorrect не прошел до изменений в коде
+	+ Тест pushBack_PushBackThreeItems_ItemsAreCorrect прошел после изменений в коде
+
+	+ Тест pushBack_PushBackItem_SizeGetsBiggerByOne не прошел до изменений в коде
+	+ Тест pushBack_PushBackItem_SizeGetsBiggerByOne прошел после изменений в коде
+
+	+ Тест createList_CreateNewDoubleLinkedList_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест createList_CreateNewDoubleLinkedList_ListIsNotEmpty прошел после изменений в коде
+
+	+ Тест removeItem_RemoveItemFromList_ItemsAreCorrect не прошел до изменений в коде
+	+ Тест removeItem_RemoveItemFromList_ItemsAreCorrect прошел после изменений в коде
+
+	+ Тест getIndex_GetIndexSameAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест getIndex_GetIndexSameAsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест getIndex_GetIndexOfItem_ItemIsCorrect не прошел до изменений в коде
+	+ Тест getIndex_GetIndexOfItem_ItemIsCorrect прошел после изменений в коде
+
+	+ Тест insertList_InsertListAfterMainList_ItemsAreCorrect не прошел до изменений в коде
+	+ Тест insertList_InsertListAfterMainList_ItemsAreCorrect прошел после изменений в коде
+
+	+ Тест insertList_InsertListBeforeMainList_ItemsAreCorrect не прошел до изменений в коде
+	+ Тест insertList_InsertListBeforeMainList_ItemsAreCorrect прошел после изменений в коде
 
 Тестирование задачи task_2
 	+ Тест BubbleSort_BubbleSortAlreadySortedData_DataIsCorrect не прошел до изменений в коде

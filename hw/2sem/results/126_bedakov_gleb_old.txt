@@ -66,8 +66,7 @@
 	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
 	+ Тест bubbleSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
 
-	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray не прошел до изменений в коде
-	+ Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел после изменений в коде
+	- Тест bubbleSort_InvertedArrayWithTheSameLastTheBiggestElement_GetSortedArray прошел до изменений в коде
 
 	+ Тест bubbleSort_InvertedArray_GetSortedArray не прошел до изменений в коде
 	+ Тест bubbleSort_InvertedArray_GetSortedArray прошел после изменений в коде

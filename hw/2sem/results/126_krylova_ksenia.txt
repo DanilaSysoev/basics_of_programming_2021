@@ -101,48 +101,44 @@
 	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
 Тестирование задачи task_2
-	+ Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() не прошел до изменений в коде
-	- Тест bubbleSort_ArrayWithSimilarElements_ArrayNotChange() не прошел после изменений в коде
-
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
-
+Файл протокола не существует
 Тестирование задачи task_3
-	+ Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест quickSort_sortUnsortedArray_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест QuickSort_SortUnsortedArrayWithTwoElem_QuickSortIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_SortUnsortedArrayWithTwoElem_QuickSortIsCorrect прошел после изменений в коде
 
-	+ Тест quickSort_unSortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест quickSort_unSortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест QuickSort_SortUnsortedArray_QuickSortIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_SortUnsortedArray_QuickSortIsCorrect прошел после изменений в коде
 
-	+ Тест quickSort_UnsortedArray_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест quickSort_UnsortedArray_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест MergeSort_SortReverseArray_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortReverseArray_MergeSortIsCorrect прошел после изменений в коде
 
-	+ Тест mergeSort_sortUnsortedArray_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест mergeSort_sortUnsortedArray_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_MergeSortIsCorrect прошел после изменений в коде
 
-	+ Тест mergeSort_InvertedArray_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест mergeSort_InvertedArray_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест MergeSort_SortUnsortedArrayWithThreeElem_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedArrayWithThreeElem_MergeSortIsCorrect прошел после изменений в коде
 
-	+ Тест mergeSort_SortedArray_ArrayNotChange() не прошел до изменений в коде
-	- Тест mergeSort_SortedArray_ArrayNotChange() не прошел после изменений в коде
+	+ Тест MergeSort_SortBigArray_MergeSortIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortBigArray_MergeSortIsCorrect прошел после изменений в коде
 
-	+ Тест mergeSort_UnsortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест mergeSort_UnsortedArrayWithTwoSameElements_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortSimpleArray_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortSimpleArray_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест mergeSort_UnsortedArrayWithFourSameElements_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест mergeSort_UnsortedArrayWithFourSameElements_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortAlreadySortedArray_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortAlreadySortedArray_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_sortUnsortedArray_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест heapSort_sortUnsortedArray_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortUnSortedArray_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortUnSortedArray_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_sortedArray_ArrayNotChange() не прошел до изменений в коде
-	- Тест heapSort_sortedArray_ArrayNotChange() не прошел после изменений в коде
+	+ Тест HeapSort_SortUnSortedArrayWithFourElem_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortUnSortedArrayWithFourElem_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_unsortedArray1_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест heapSort_unsortedArray1_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortUnSortedArrayWithBigElem_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortUnSortedArrayWithBigElem_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_unsortedArray2_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест heapSort_unsortedArray2_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortBigUnSortedArray_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortBigUnSortedArray_HeapSortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_unsortedArray3_ElementsSortedCorrect() не прошел до изменений в коде
-	- Тест heapSort_unsortedArray3_ElementsSortedCorrect() не прошел после изменений в коде
+	+ Тест HeapSort_SortBigUnSortedArrayWithTwoSameElem_HeapSortIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortBigUnSortedArrayWithTwoSameElem_HeapSortIsCorrect прошел после изменений в коде
 

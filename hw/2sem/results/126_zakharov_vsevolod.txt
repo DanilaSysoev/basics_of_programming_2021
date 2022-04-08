@@ -31,8 +31,7 @@
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.
 Тестирование задачи task_2
-	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged не прошел до изменений в коде
-	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел после изменений в коде
+	- Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел до изменений в коде
 
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
@@ -47,4 +46,30 @@
 	+ Тест selectionSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
 
 Тестирование задачи task_3
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест HeapSort_FourSameNumbers_ArrayIsNotChanged не прошел до изменений в коде
+	+ Тест HeapSort_FourSameNumbers_ArrayIsNotChanged прошел после изменений в коде
+
+	+ Тест HeapSort_AlreadySortedArray_ArrayIsNotChanged не прошел до изменений в коде
+	+ Тест HeapSort_AlreadySortedArray_ArrayIsNotChanged прошел после изменений в коде
+
+	+ Тест HeapSort_OnlyPositiveNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_OnlyPositiveNumbers_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест HeapSort_ArrayWithReappearingNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест HeapSort_ArrayWithReappearingNumbers_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест MergeSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест MergeSort_AlreadySortedArray_ArrayIsNotChanged не прошел до изменений в коде
+	+ Тест MergeSort_AlreadySortedArray_ArrayIsNotChanged прошел после изменений в коде
+
+	+ Тест MergeSort_ArrayWithPositiveAndNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест MergeSort_ArrayWithPositiveAndNegativeNumbers_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест QuickSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест QuickSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде
+
+	+ Тест QuickSort_OnlyPositiveNumbers_ArrayIsSorted не прошел до изменений в коде
+	+ Тест QuickSort_OnlyPositiveNumbers_ArrayIsSorted прошел после изменений в коде
+
