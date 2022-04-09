@@ -85,10 +85,35 @@
 	+ Тест InsertionSort_Random_sort прошел после изменений в коде
 
 Тестирование задачи task_3
-	+ Тест QuickSort_sortTwoElements_sort не прошел до изменений в коде
-	- Тест QuickSort_sortTwoElements_sort не прошел после изменений в коде
+	+ Тест HeapSort_SortSameNumbers_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortSameNumbers_DataIsCorrect прошел после изменений в коде
 
-	+ Тест QuickSort_sortTwoSameElements_sort не прошел до изменений в коде
-	- Тест QuickSort_sortTwoSameElements_sort не прошел после изменений в коде
+	+ Тест HeapSort_SortSortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortSortedData_DataIsCorrect прошел после изменений в коде
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест HeapSort_SortBigUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortBigUnsortedArray_DataIsCorrect прошел после изменений в коде
+
+	+ Тест HeapSort_SortBigUnsortedArrayContainingSameNumbers_DataIsCorrect не прошел до изменений в коде
+	+ Тест HeapSort_SortBigUnsortedArrayContainingSameNumbers_DataIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortSortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortSortedData_DataIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortUnsortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedData_DataIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortBigUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortBigUnsortedArray_DataIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortNegativeNumbersWithNormal_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortNegativeNumbersWithNormal_DataIsCorrect прошел после изменений в коде
+
+	+ Тест MergeSort_SortBigUnsortedArrayContainingSameNumbers_DataIsCorrect не прошел до изменений в коде
+	+ Тест MergeSort_SortBigUnsortedArrayContainingSameNumbers_DataIsCorrect прошел после изменений в коде
+
+	+ Тест QuickSort_SortUnsortedData_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_SortUnsortedData_DataIsCorrect прошел после изменений в коде
+
+	+ Тест QuickSort_SortBigUnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_SortBigUnsortedArray_DataIsCorrect прошел после изменений в коде
