@@ -3,7 +3,9 @@
 	+ Тест pushBack_pushToEmptyList_sizeEqualsOne прошел после изменений в коде
 
 	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел до изменений в коде
-	- Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел после изменений в коде
+	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse прошел после изменений в коде
+
+	!!!Ошибка компиляции
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 

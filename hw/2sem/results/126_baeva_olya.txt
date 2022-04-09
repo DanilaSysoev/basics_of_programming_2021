@@ -1,6 +1,6 @@
 Тестирование задачи task_1
 	+ Тест pushFront_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
-	- Тест pushFront_pushTwoElements_HeadAndTailIsCorrect не прошел после изменений в коде
+	+ Тест pushFront_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
 
 	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
 	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
@@ -24,7 +24,7 @@
 	+ Тест remove_removeOneElement_RemoveIsCorrect прошел после изменений в коде
 
 	+ Тест remove_removeLastElement_RemoveIsCorrect не прошел до изменений в коде
-	- Тест remove_removeLastElement_RemoveIsCorrect не прошел после изменений в коде
+	+ Тест remove_removeLastElement_RemoveIsCorrect прошел после изменений в коде
 
 	+ Тест insertListAfter_insertList_SizeIsCorrect не прошел до изменений в коде
 	+ Тест insertListAfter_insertList_SizeIsCorrect прошел после изменений в коде
@@ -63,8 +63,7 @@
 	+ Тест popBack_popBackElement_BoundsAreCorrect прошел после изменений в коде
 
 Тестирование задачи task_2
-	+ Тест sort_SimpleData_BubbleSortIsCorrect не прошел до изменений в коде
-	+ Тест sort_SimpleData_BubbleSortIsCorrect прошел после изменений в коде
+	- Тест sort_SimpleData_BubbleSortIsCorrect прошел до изменений в коде
 
 	+ Тест sort_DecreaseData_BubbleSortIsCorrect не прошел до изменений в коде
 	+ Тест sort_DecreaseData_BubbleSortIsCorrect прошел после изменений в коде
@@ -76,7 +75,10 @@
 	+ Тест sort_DecreaseData_InsertionSortIsCorrect прошел после изменений в коде
 
 	+ Тест sort_SomeData_SelectionSortIsCorrect не прошел до изменений в коде
-	- Тест sort_SomeData_SelectionSortIsCorrect не прошел после изменений в коде
+	+ Тест sort_SomeData_SelectionSortIsCorrect прошел после изменений в коде
+
+	+ Тест sort_IncreaseData_SelectionSortIsCorrect не прошел до изменений в коде
+	+ Тест sort_IncreaseData_SelectionSortIsCorrect прошел после изменений в коде
 
 	+ Тест sort_DecreaseData_SelectionSortIsCorrect не прошел до изменений в коде
 	+ Тест sort_DecreaseData_SelectionSortIsCorrect прошел после изменений в коде

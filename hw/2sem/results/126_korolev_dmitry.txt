@@ -122,8 +122,7 @@
 	+ Тест QuickSort_SortUnsortedArray_ArrayIsSorted не прошел до изменений в коде
 	+ Тест QuickSort_SortUnsortedArray_ArrayIsSorted прошел после изменений в коде
 
-	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect не прошел до изменений в коде
-	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect прошел после изменений в коде
+	- Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect прошел до изменений в коде
 
 	+ Тест MergeSort_SortSortedArray_ArrayIsSame не прошел до изменений в коде
 	+ Тест MergeSort_SortSortedArray_ArrayIsSame прошел после изменений в коде

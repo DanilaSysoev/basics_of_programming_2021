@@ -5,6 +5,9 @@
 	+ Тест setValue_setNewValue_ValueIsRight не прошел до изменений в коде
 	+ Тест setValue_setNewValue_ValueIsRight прошел после изменений в коде
 
+	+ Тест resize_SetNewSizeWithPositiveValue_NewSizeIsRight не прошел до изменений в коде
+	+ Тест resize_SetNewSizeWithPositiveValue_NewSizeIsRight прошел после изменений в коде
+
 	!!!Ошибка компиляции
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
@@ -28,9 +31,11 @@
 	+ Тест SelectionSort_SortArray_DataIsCorrect не прошел до изменений в коде
 	+ Тест SelectionSort_SortArray_DataIsCorrect прошел после изменений в коде
 
-	!!!Ошибка компиляции
+	+ Тест InsertionSort_SortAlreadySortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест InsertionSort_SortAlreadySortedArray_DataIsCorrect прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест InsertionSort_UnsortedArray_DataIsCorrect не прошел до изменений в коде
+	+ Тест InsertionSort_UnsortedArray_DataIsCorrect прошел после изменений в коде
 
 Тестирование задачи task_3
 	+ Тест QuickSort_SortUnsortedArray_DataIsCorrect не прошел до изменений в коде

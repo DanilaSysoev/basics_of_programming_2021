@@ -29,9 +29,34 @@
 	+ Тест popBack_SizeEqualsZero_MessageIsThrown не прошел до изменений в коде
 	+ Тест popBack_SizeEqualsZero_MessageIsThrown прошел после изменений в коде
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест remove_RemovingFromNonExistentIndex_OutOfBounds не прошел до изменений в коде
+	+ Тест remove_RemovingFromNonExistentIndex_OutOfBounds прошел после изменений в коде
+
+	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
+
+	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
+
+	+ Тест pushBack_PushBackToNotEmptyList_DataIsPushed не прошел до изменений в коде
+	+ Тест pushBack_PushBackToNotEmptyList_DataIsPushed прошел после изменений в коде
+
+	+ Тест createList_CreateListWithSomething_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест createList_CreateListWithSomething_ListIsNotEmpty прошел после изменений в коде
+
+	+ Тест remove_RemoveItemFromList_ItemsAreMoved не прошел до изменений в коде
+	+ Тест remove_RemoveItemFromList_ItemsAreMoved прошел после изменений в коде
+
+	+ Тест get_GetIndexAsSize_OutOfBounds не прошел до изменений в коде
+	+ Тест get_GetIndexAsSize_OutOfBounds прошел после изменений в коде
+
+	+ Тест insertListAfter_insertListAfterSecondItem_ItemsOfTheFirstListAreMoved не прошел до изменений в коде
+	+ Тест insertListAfter_insertListAfterSecondItem_ItemsOfTheFirstListAreMoved прошел после изменений в коде
+
+	+ Тест insertList_insertListBeforeFirstItem_AllElementsAreCorrect не прошел до изменений в коде
+	+ Тест insertList_insertListBeforeFirstItem_AllElementsAreCorrect прошел после изменений в коде
+
 Тестирование задачи task_2
-	- Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел до изменений в коде
+	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged не прошел до изменений в коде
+	+ Тест BubbleSort_FourSameNumbers_ArrayIsNotChanged прошел после изменений в коде
 
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted не прошел до изменений в коде
 	+ Тест BubbleSort_OnlyNegativeNumbers_ArrayIsSorted прошел после изменений в коде

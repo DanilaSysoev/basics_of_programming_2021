@@ -34,8 +34,7 @@
 	- Тест removeValue_RemoveOneValue_ValueIsCorrect прошел до изменений в коде
 
 Тестирование задачи task_2
-	+ Тест bubbleSort_InvertSort не прошел до изменений в коде
-	- Тест bubbleSort_InvertSort не прошел после изменений в коде
+	- Тест bubbleSort_InvertSort прошел до изменений в коде
 
 	+ Тест bubbleSort_DataStaysTheSame не прошел до изменений в коде
 	+ Тест bubbleSort_DataStaysTheSame прошел после изменений в коде

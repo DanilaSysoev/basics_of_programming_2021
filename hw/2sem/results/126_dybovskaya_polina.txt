@@ -33,7 +33,7 @@
 	+ Тест remove_removeElementFromList_getNextIsCorrect прошел после изменений в коде
 
 	+ Тест remove_removeElementFromList_getPrevIsCorrect не прошел до изменений в коде
-	+ Тест remove_removeElementFromList_getPrevIsCorrect прошел после изменений в коде
+	- Тест remove_removeElementFromList_getPrevIsCorrect не прошел после изменений в коде
 
 	+ Тест insertListAfter_insertListIntoItself_ListIsNotEmpty не прошел до изменений в коде
 	+ Тест insertListAfter_insertListIntoItself_ListIsNotEmpty прошел после изменений в коде
@@ -60,7 +60,7 @@
 	- Тест insertListBefore_insertListBeforeSecondElem_SequenceOfElementsIsCorrect не прошел после изменений в коде
 
 	+ Тест getSize_getSizeOfEmptyArray_SizeEqualsZero не прошел до изменений в коде
-	+ Тест getSize_getSizeOfEmptyArray_SizeEqualsZero прошел после изменений в коде
+	- Тест getSize_getSizeOfEmptyArray_SizeEqualsZero не прошел после изменений в коде
 
 	+ Тест get_getElementFromArray_ElementIsCorrect не прошел до изменений в коде
 	+ Тест get_getElementFromArray_ElementIsCorrect прошел после изменений в коде
@@ -99,8 +99,7 @@
 	+ Тест bubbleSort_ArrayWithThreeSimilarElements_ArrayStaysTheSame не прошел до изменений в коде
 	+ Тест bubbleSort_ArrayWithThreeSimilarElements_ArrayStaysTheSame прошел после изменений в коде
 
-	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame не прошел до изменений в коде
-	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame прошел после изменений в коде
+	- Тест bubbleSort_SortedArray_ArrayStaysTheSame прошел до изменений в коде
 
 	+ Тест bubbleSort_UnSortedArray_ElementsChangeTheirPosition не прошел до изменений в коде
 	+ Тест bubbleSort_UnSortedArray_ElementsChangeTheirPosition прошел после изменений в коде

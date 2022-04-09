@@ -1,14 +1,116 @@
 Тестирование задачи task_1
-	!!!Ошибка компиляции
+	+ Тест test_Node_Ctor_getNext не прошел до изменений в коде
+	+ Тест test_Node_Ctor_getNext прошел после изменений в коде
 
-	!!!Ошибка компиляции
+	+ Тест test_Node_Ctor_getPrev не прошел до изменений в коде
+	+ Тест test_Node_Ctor_getPrev прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест test_DoubleLinkedList_isEmpty не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_isEmpty прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_getHead не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_getHead прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_get_outOfBounds не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_get_outOfBounds прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_get не прошел до изменений в коде
+	- Тест test_DoubleLinkedList_get не прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertAfter_size не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertAfter_size прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_pushFront не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_pushFront прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_pushBack не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_pushBack прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_remove_getNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_remove_getNext прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_remove_getPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_remove_getPrev прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListAfter_self не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_self прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListAfter_listPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_listPrev прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListAfter_listNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListAfter_listNext прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListBefore_self не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_self прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListBefore_listPrev не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_listPrev прошел после изменений в коде
+
+	+ Тест test_DoubleLinkedList_insertListBefore_listNext не прошел до изменений в коде
+	+ Тест test_DoubleLinkedList_insertListBefore_listNext прошел после изменений в коде
+
+	+ Тест test_DynamicArray_DefaultCtor не прошел до изменений в коде
+	+ Тест test_DynamicArray_DefaultCtor прошел после изменений в коде
+
+	+ Тест test_DynamicArray_SizeCtor не прошел до изменений в коде
+	+ Тест test_DynamicArray_SizeCtor прошел после изменений в коде
+
+	+ Тест test_DynamicArray_resize_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_resize_throw прошел после изменений в коде
+
+	+ Тест test_DynamicArray_resize_size не прошел до изменений в коде
+	+ Тест test_DynamicArray_resize_size прошел после изменений в коде
+
+	+ Тест test_DynamicArray_get_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_get_throw прошел после изменений в коде
+
+	- Тест test_DynamicArray_set_throw прошел до изменений в коде
+
+	+ Тест test_DynamicArray_insert_get не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_get прошел после изменений в коде
+
+	+ Тест test_DynamicArray_insert_grow не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_grow прошел после изменений в коде
+
+	+ Тест test_DynamicArray_insert_growZero не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_growZero прошел после изменений в коде
+
+	+ Тест test_DynamicArray_insert_growZeroCap не прошел до изменений в коде
+	+ Тест test_DynamicArray_insert_growZeroCap прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack не прошел до изменений в коде
+	+ Тест test_DynamicArray_pushBack прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_grow не прошел до изменений в коде
+	+ Тест test_DynamicArray_pushBack_grow прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_growZero не прошел до изменений в коде
+	+ Тест test_DynamicArray_pushBack_growZero прошел после изменений в коде
+
+	+ Тест test_DynamicArray_pushBack_growZeroCap не прошел до изменений в коде
+	+ Тест test_DynamicArray_pushBack_growZeroCap прошел после изменений в коде
+
+	+ Тест test_DynamicArray_popBack_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_popBack_throw прошел после изменений в коде
+
+	+ Тест test_DynamicArray_remove_throw не прошел до изменений в коде
+	+ Тест test_DynamicArray_remove_throw прошел после изменений в коде
 
 Тестирование задачи task_2
-	!!!Ошибка компиляции
+	+ Тест test_BubbleSort_iAndComparator не прошел до изменений в коде
+	+ Тест test_BubbleSort_iAndComparator прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест test_BubbleSort_sps не прошел до изменений в коде
+	+ Тест test_BubbleSort_sps прошел после изменений в коде
+
+	+ Тест test_InsertionSort_comparatorAndCur не прошел до изменений в коде
+	+ Тест test_InsertionSort_comparatorAndCur прошел после изменений в коде
+
+	- Тест test_SelectionSort_dataLength прошел до изменений в коде
+
+	+ Тест test_SelectionSort_sortedSizeAndMaxInd не прошел до изменений в коде
+	+ Тест test_SelectionSort_sortedSizeAndMaxInd прошел после изменений в коде
 
 Тестирование задачи task_3
 	+ Тест test_HeapSort_swapSecondIndex не прошел до изменений в коде

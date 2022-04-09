@@ -1,19 +1,66 @@
 Тестирование задачи task_1
-	- Тест isEmpty_DoubleLinkedList_checkIsEmpty прошел до изменений в коде
+	+ Тест pushFront_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	- Тест pushFront_pushTwoElements_HeadAndTailIsCorrect не прошел после изменений в коде
 
-	- Тест pushFront_DoubleLinkedList_TestAnotherNumber прошел до изменений в коде
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
 
-	- Тест getHead_DoubleLinkedList_TestanotherGetHead прошел до изменений в коде
+	+ Тест insertAfter_insertOneElement_getSize не прошел до изменений в коде
+	+ Тест insertAfter_insertOneElement_getSize прошел после изменений в коде
 
-	- Тест getTail_DoubleLinkedList_TestNewGetTail прошел до изменений в коде
+	+ Тест insertBefore_insertOneElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	+ Тест insertBefore_insertOneElements_HeadAndTailIsCorrect прошел после изменений в коде
 
-	+ Тест getHead_DoubleLinkedList_TestanotherGetHead не прошел до изменений в коде
-	+ Тест getHead_DoubleLinkedList_TestanotherGetHead прошел после изменений в коде
+	+ Тест isEmpty_EmptyList_SizeEqualsNull не прошел до изменений в коде
+	+ Тест isEmpty_EmptyList_SizeEqualsNull прошел после изменений в коде
 
-	+ Тест get_PushFrontEmptyDoubleLinkedList_TestFirst не прошел до изменений в коде
-	+ Тест get_PushFrontEmptyDoubleLinkedList_TestFirst прошел после изменений в коде
+	+ Тест get_OutOfHighBound_IndexCorrect не прошел до изменений в коде
+	+ Тест get_OutOfHighBound_IndexCorrect прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест get_GetTwoElements_GetIsCorrect не прошел до изменений в коде
+	+ Тест get_GetTwoElements_GetIsCorrect прошел после изменений в коде
+
+	+ Тест remove_removeOneElement_RemoveIsCorrect не прошел до изменений в коде
+	+ Тест remove_removeOneElement_RemoveIsCorrect прошел после изменений в коде
+
+	+ Тест remove_removeLastElement_RemoveIsCorrect не прошел до изменений в коде
+	+ Тест remove_removeLastElement_RemoveIsCorrect прошел после изменений в коде
+
+	+ Тест insertListAfter_insertList_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListAfter_insertList_SizeIsCorrect прошел после изменений в коде
+
+	+ Тест insertListAfter_insertList_GetCorrectItem не прошел до изменений в коде
+	+ Тест insertListAfter_insertList_GetCorrectItem прошел после изменений в коде
+
+	+ Тест insertListBefore_insertList_SizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListBefore_insertList_SizeIsCorrect прошел после изменений в коде
+
+	+ Тест insertListBefore_insertList_ItemIsCorrect не прошел до изменений в коде
+	+ Тест insertListBefore_insertList_ItemIsCorrect прошел после изменений в коде
+
+	+ Тест newArray_CreateArray_SizeEquals не прошел до изменений в коде
+	+ Тест newArray_CreateArray_SizeEquals прошел после изменений в коде
+
+	+ Тест resize_ChangeArraySize_SizeEquals не прошел до изменений в коде
+	+ Тест resize_ChangeArraySize_SizeEquals прошел после изменений в коде
+
+	+ Тест pushBack_pushItem_SizeIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushItem_SizeIsCorrect прошел после изменений в коде
+
+	+ Тест get_GetItem_GetCorrectItem не прошел до изменений в коде
+	+ Тест get_GetItem_GetCorrectItem прошел после изменений в коде
+
+	+ Тест insert_insertItems_InsertIsCorrect не прошел до изменений в коде
+	+ Тест insert_insertItems_InsertIsCorrect прошел после изменений в коде
+
+	+ Тест set_setElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест set_setElement_BoundsAreCorrect прошел после изменений в коде
+
+	+ Тест remove_removeElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест remove_removeElement_BoundsAreCorrect прошел после изменений в коде
+
+	+ Тест popBack_popBackElement_BoundsAreCorrect не прошел до изменений в коде
+	+ Тест popBack_popBackElement_BoundsAreCorrect прошел после изменений в коде
 
 Тестирование задачи task_2
 	+ Тест BubbleSort_sortArray_sort не прошел до изменений в коде
@@ -39,8 +86,9 @@
 
 Тестирование задачи task_3
 	+ Тест QuickSort_sortTwoElements_sort не прошел до изменений в коде
-	+ Тест QuickSort_sortTwoElements_sort прошел после изменений в коде
+	- Тест QuickSort_sortTwoElements_sort не прошел после изменений в коде
 
-	- Тест QuickSort_sortTwoSameElements_sort прошел до изменений в коде
+	+ Тест QuickSort_sortTwoSameElements_sort не прошел до изменений в коде
+	- Тест QuickSort_sortTwoSameElements_sort не прошел после изменений в коде
 
 	Ошибка в протоколе. Читаем задание и исправляем протокол.

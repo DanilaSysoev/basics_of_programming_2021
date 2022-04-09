@@ -3,7 +3,7 @@
 	+ Тест pushFront_PushFrontToEmptyList_EmptyIsFalse прошел после изменений в коде
 
 	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne не прошел до изменений в коде
-	+ Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne прошел после изменений в коде
+	- Тест pushFront_PushFrontToEmptyList_GettingErrorWhenTryingToGetItemNumberOne не прошел после изменений в коде
 
 	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect не прошел до изменений в коде
 	+ Тест pushItems_PushFrontThreeItems_TailIsCorrect прошел после изменений в коде
@@ -81,7 +81,9 @@
 	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged не прошел до изменений в коде
 	+ Тест insertionSort_ArrayContainsOnlyNumbersOne_ArrayHasNotChanged прошел после изменений в коде
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged не прошел до изменений в коде
+	+ Тест insertionSort_SortedArray_ArrayHasNotChanged прошел после изменений в коде
+
 Тестирование задачи task_3
 	+ Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray не прошел до изменений в коде
 	+ Тест quickSort_UnsortedArrayWithLengthTwo_GetSortedArray прошел после изменений в коде

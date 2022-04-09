@@ -48,7 +48,7 @@
 	+ Тест insertListAfter_insertListIntoList_NewSizeIsCorrect прошел после изменений в коде
 
 	+ Тест insertListBefore_insertListIntoList_NewSizeIsCorrect не прошел до изменений в коде
-	- Тест insertListBefore_insertListIntoList_NewSizeIsCorrect не прошел после изменений в коде
+	+ Тест insertListBefore_insertListIntoList_NewSizeIsCorrect прошел после изменений в коде
 
 	+ Тест insertListBefore_insertListIntoItself_ListIsNotEmpty не прошел до изменений в коде
 	+ Тест insertListBefore_insertListIntoItself_ListIsNotEmpty прошел после изменений в коде
@@ -121,41 +121,36 @@
 	+ Тест insertionSort_unsortedArrayWithTwoElements_SortIsOk прошел после изменений в коде
 
 Тестирование задачи task_3
-	+ Тест quickSort_sortUnsortedArrayWithTwoElems_sortIsOk не прошел до изменений в коде
-	+ Тест quickSort_sortUnsortedArrayWithTwoElems_sortIsOk прошел после изменений в коде
+	+ Тест HeapSort_ArrayWithSameElems_ArrDoesNotChange не прошел до изменений в коде
+	+ Тест HeapSort_ArrayWithSameElems_ArrDoesNotChange прошел после изменений в коде
 
-	+ Тест quickSort_sortUnsortedArray_sortIsOk не прошел до изменений в коде
-	+ Тест quickSort_sortUnsortedArray_sortIsOk прошел после изменений в коде
+	+ Тест HeapSort_sortSortedArray_ArrDoesNotChange не прошел до изменений в коде
+	+ Тест HeapSort_sortSortedArray_ArrDoesNotChange прошел после изменений в коде
 
-	- Тест quickSort_sortBigUnsortedArray_sortIsOk прошел до изменений в коде
+	+ Тест HeapSort_sortUnsortedArray_SortIsOk не прошел до изменений в коде
+	+ Тест HeapSort_sortUnsortedArray_SortIsOk прошел после изменений в коде
 
-	+ Тест mergeSort_sortUnsortedArrayWithTwoElems_sortIsOk не прошел до изменений в коде
-	+ Тест mergeSort_sortUnsortedArrayWithTwoElems_sortIsOk прошел после изменений в коде
+	+ Тест HeapSort_sortUnsortedArrayWithSameElems_SortIsOk не прошел до изменений в коде
+	+ Тест HeapSort_sortUnsortedArrayWithSameElems_SortIsOk прошел после изменений в коде
 
-	+ Тест mergeSort_ArrayWithFirstUnsortedElems_sortIsOk не прошел до изменений в коде
-	+ Тест mergeSort_ArrayWithFirstUnsortedElems_sortIsOk прошел после изменений в коде
+	+ Тест MergeSort_sortSortedArray_ArrayDoesNotChange не прошел до изменений в коде
+	+ Тест MergeSort_sortSortedArray_ArrayDoesNotChange прошел после изменений в коде
 
-	+ Тест mergeSort_UnsortedArrayWithTwoSameElems_SortIsOk не прошел до изменений в коде
-	+ Тест mergeSort_UnsortedArrayWithTwoSameElems_SortIsOk прошел после изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_SortIsOk не прошел до изменений в коде
+	+ Тест MergeSort_SortUnsortedArray_SortIsOk прошел после изменений в коде
 
-	+ Тест mergeSort_UnsortedArray_SortIsOk не прошел до изменений в коде
-	+ Тест mergeSort_UnsortedArray_SortIsOk прошел после изменений в коде
+	+ Тест MergeSort_sortHugeUnsortedArray_SortIsOk не прошел до изменений в коде
+	+ Тест MergeSort_sortHugeUnsortedArray_SortIsOk прошел после изменений в коде
 
-	+ Тест mergeSort_UnsortedArray2_SortIsOk не прошел до изменений в коде
-	+ Тест mergeSort_UnsortedArray2_SortIsOk прошел после изменений в коде
+	+ Тест MergeSort_SortArrayWithNegativeElems_SortIsOk не прошел до изменений в коде
+	+ Тест MergeSort_SortArrayWithNegativeElems_SortIsOk прошел после изменений в коде
 
-	+ Тест heapSort_sortUnsortedArrayWithTwoElems_sortIsOk не прошел до изменений в коде
-	+ Тест heapSort_sortUnsortedArrayWithTwoElems_sortIsOk прошел после изменений в коде
+	+ Тест MergeSort_sortUnsortedArrayWithSameElems_SortIsOk не прошел до изменений в коде
+	+ Тест MergeSort_sortUnsortedArrayWithSameElems_SortIsOk прошел после изменений в коде
 
-	+ Тест heapSort_sortedArray_arrayDoesNotChange не прошел до изменений в коде
-	+ Тест heapSort_sortedArray_arrayDoesNotChange прошел после изменений в коде
+	+ Тест QuickSort_sortUnsortedArray_SortIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_sortUnsortedArray_SortIsCorrect прошел после изменений в коде
 
-	+ Тест heapSort_unsortedArrayWithThreeElems_sortIsOK не прошел до изменений в коде
-	+ Тест heapSort_unsortedArrayWithThreeElems_sortIsOK прошел после изменений в коде
-
-	+ Тест heapSort_UnsortedArray_SortIsOk не прошел до изменений в коде
-	+ Тест heapSort_UnsortedArray_SortIsOk прошел после изменений в коде
-
-	+ Тест heapSort_UnsortedArray2_SortIsOk не прошел до изменений в коде
-	+ Тест heapSort_UnsortedArray2_SortIsOk прошел после изменений в коде
+	+ Тест QuickSort_sortHugeUnsortedArray_SortIsOk не прошел до изменений в коде
+	+ Тест QuickSort_sortHugeUnsortedArray_SortIsOk прошел после изменений в коде
 

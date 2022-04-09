@@ -34,7 +34,8 @@
 	+ Тест Check_MergeSort_sort3 не прошел до изменений в коде
 	+ Тест Check_MergeSort_sort3 прошел после изменений в коде
 
-	- Тест Check_MergeSort_sort3inverse прошел до изменений в коде
+	+ Тест Check_MergeSort_sort3inverse не прошел до изменений в коде
+	+ Тест Check_MergeSort_sort3inverse прошел после изменений в коде
 
 	+ Тест Check_MergeSort_SortLarge не прошел до изменений в коде
 	+ Тест Check_MergeSort_SortLarge прошел после изменений в коде

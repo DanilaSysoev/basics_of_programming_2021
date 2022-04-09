@@ -24,7 +24,7 @@
 	+ Тест insertAfter_InsertIntoEmptyList_sizeEqualsOne прошел после изменений в коде
 
 	+ Тест pushFront_pushElements_HeadIsCorrect не прошел до изменений в коде
-	+ Тест pushFront_pushElements_HeadIsCorrect прошел после изменений в коде
+	- Тест pushFront_pushElements_HeadIsCorrect не прошел после изменений в коде
 
 	+ Тест pushBack_pushElements_TailIsCorrect не прошел до изменений в коде
 	+ Тест pushBack_pushElements_TailIsCorrect прошел после изменений в коде
@@ -101,7 +101,30 @@
 	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
 Тестирование задачи task_2
-Файл протокола не существует
+	+ Тест bubbleSort_ArrayWithSimilarElements_ArrayStaysTheSame не прошел до изменений в коде
+	+ Тест bubbleSort_ArrayWithSimilarElements_ArrayStaysTheSame прошел после изменений в коде
+
+	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame не прошел до изменений в коде
+	+ Тест bubbleSort_SortedArray_ArrayStaysTheSame прошел после изменений в коде
+
+	+ Тест bubbleSort_UnSortedArray_ElementsChangePosition не прошел до изменений в коде
+	+ Тест bubbleSort_UnSortedArray_ElementsChangePosition прошел после изменений в коде
+
+	+ Тест selectionSort_ArrayWithTheFirstMaxElem_SortOk не прошел до изменений в коде
+	- Тест selectionSort_ArrayWithTheFirstMaxElem_SortOk не прошел после изменений в коде
+
+	+ Тест selectionSort_UnsortedArrayWithTwoElements_SortCorrect не прошел до изменений в коде
+	+ Тест selectionSort_UnsortedArrayWithTwoElements_SortCorrect прошел после изменений в коде
+
+	+ Тест selectionSort_UnsortedArray_SortCorrect не прошел до изменений в коде
+	+ Тест selectionSort_UnsortedArray_SortCorrect прошел после изменений в коде
+
+	+ Тест insertionSort_sortedArrayWithTwoElements_ArrayNotChange не прошел до изменений в коде
+	+ Тест insertionSort_sortedArrayWithTwoElements_ArrayNotChange прошел после изменений в коде
+
+	+ Тест insertionSort_unsortedArrayWithTwoElements_SortCorrect не прошел до изменений в коде
+	+ Тест insertionSort_unsortedArrayWithTwoElements_SortCorrect прошел после изменений в коде
+
 Тестирование задачи task_3
 	+ Тест QuickSort_SortUnsortedArrayWithTwoElem_QuickSortIsCorrect не прошел до изменений в коде
 	+ Тест QuickSort_SortUnsortedArrayWithTwoElem_QuickSortIsCorrect прошел после изменений в коде
