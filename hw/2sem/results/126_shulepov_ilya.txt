@@ -1,60 +1,99 @@
 Тестирование задачи task_1
-	+ Тест DynamicArray_CreateArrayWithNoSize_SizeEqualsZero не прошел до изменений в коде
-	+ Тест DynamicArray_CreateArrayWithNoSize_SizeEqualsZero прошел после изменений в коде
+	+ Тест getSize_getSizeOfEmptyArray_SizeEqualsZero не прошел до изменений в коде
+	+ Тест getSize_getSizeOfEmptyArray_SizeEqualsZero прошел после изменений в коде
 
-	+ Тест resize_ResizeArray_ResizeIsCorrect не прошел до изменений в коде
-	+ Тест resize_ResizeArray_ResizeIsCorrect прошел после изменений в коде
+	+ Тест get_getElementFromArray_ElementIsCorrect не прошел до изменений в коде
+	+ Тест get_getElementFromArray_ElementIsCorrect прошел после изменений в коде
 
-	+ Тест set_setOneItem_SetIsCorrect не прошел до изменений в коде
-	+ Тест set_setOneItem_SetIsCorrect прошел после изменений в коде
+	+ Тест resize_setNewSizeWithNegativeValue_ThrowsException не прошел до изменений в коде
+	+ Тест resize_setNewSizeWithNegativeValue_ThrowsException прошел после изменений в коде
 
-	+ Тест get_getSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
-	+ Тест get_getSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Тест resize_setNewSizeWithPositiveValue_NewSizeIsCorrect не прошел до изменений в коде
+	+ Тест resize_setNewSizeWithPositiveValue_NewSizeIsCorrect прошел после изменений в коде
 
-	+ Тест set_setToSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
-	+ Тест set_setToSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Тест get_getElementWithIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест get_getElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
-	+ Тест insert_insertElement_ElementInsertedOK не прошел до изменений в коде
-	+ Тест insert_insertElement_ElementInsertedOK прошел после изменений в коде
+	+ Тест set_setElementWithIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест set_setElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
-	- Тест insert_insertElementToSizeIndex_GetIndexOutOfBoundsException прошел до изменений в коде
+	+ Тест insert_insertElementWithIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест insert_insertElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
-	+ Тест pushBack_pushBackValue_PushBackOK не прошел до изменений в коде
-	+ Тест pushBack_pushBackValue_PushBackOK прошел после изменений в коде
+	+ Тест insert_insertElementToEmptyArray_ElemIsCorrect не прошел до изменений в коде
+	+ Тест insert_insertElementToEmptyArray_ElemIsCorrect прошел после изменений в коде
 
-	+ Тест popBack_popBackInEmptyArray_GetUnsupportedOperationException не прошел до изменений в коде
-	+ Тест popBack_popBackInEmptyArray_GetUnsupportedOperationException прошел после изменений в коде
+	+ Тест pushBack_pushBackElement_ElemIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushBackElement_ElemIsCorrect прошел после изменений в коде
 
-	- Тест remove_removeValueWithSizeIndex_GetIndexOutOfBoundsException прошел до изменений в коде
+	+ Тест pushBack_pushToArrayWithSizeBackElement_ElemIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushToArrayWithSizeBackElement_ElemIsCorrect прошел после изменений в коде
 
-	+ Тест isEmpty_CreateNotEmptyDLL_isEmptyFalse не прошел до изменений в коде
-	+ Тест isEmpty_CreateNotEmptyDLL_isEmptyFalse прошел после изменений в коде
+	+ Тест popBack_popBackElementFromEmptyArray_ThrowsException не прошел до изменений в коде
+	+ Тест popBack_popBackElementFromEmptyArray_ThrowsException прошел после изменений в коде
 
-	+ Тест pushFront_pushFrontValue_pushFrontOK не прошел до изменений в коде
-	- Тест pushFront_pushFrontValue_pushFrontOK не прошел после изменений в коде
+	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест remove_removeElementWithIndexEqualsSize_ThrowsException прошел после изменений в коде
 
-	+ Тест getHead_getHead_getHeadOK не прошел до изменений в коде
-	+ Тест getHead_getHead_getHeadOK прошел после изменений в коде
+	+ Тест getNext_getNextElem_ElemIsCorrect не прошел до изменений в коде
+	+ Тест getNext_getNextElem_ElemIsCorrect прошел после изменений в коде
 
-	- Тест pushFront_pushFrontValue_pushFrontOK прошел до изменений в коде
+	+ Тест getPrev_getPrevElem_ElemIsCorrect не прошел до изменений в коде
+	+ Тест getPrev_getPrevElem_ElemIsCorrect прошел после изменений в коде
 
-	+ Тест getTail_getTail_getTailOK не прошел до изменений в коде
-	+ Тест getTail_getTail_getTailOK прошел после изменений в коде
+	+ Тест isEmpty_checkListWithElements_isEmptyFalse не прошел до изменений в коде
+	+ Тест isEmpty_checkListWithElements_isEmptyFalse прошел после изменений в коде
 
-	+ Тест get_ValueWithSizeIndex_GetIndexOutOfBoundsException не прошел до изменений в коде
-	+ Тест get_ValueWithSizeIndex_GetIndexOutOfBoundsException прошел после изменений в коде
+	+ Тест getHead_getHeadOfList_HeadIsCorrect не прошел до изменений в коде
+	+ Тест getHead_getHeadOfList_HeadIsCorrect прошел после изменений в коде
 
-	+ Тест insertAfter_checkSizeAfterInsertAfter_sizeIncreasesByOne не прошел до изменений в коде
-	+ Тест insertAfter_checkSizeAfterInsertAfter_sizeIncreasesByOne прошел после изменений в коде
+	+ Тест getTail_getTailOfList_TailIsCorrect не прошел до изменений в коде
+	+ Тест getTail_getTailOfList_TailIsCorrect прошел после изменений в коде
 
-	+ Тест remove_removeElement_removeOK не прошел до изменений в коде
-	- Тест remove_removeElement_removeOK не прошел после изменений в коде
+	+ Тест get_getElementByIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест get_getElementByIndexEqualsSize_ThrowsException прошел после изменений в коде
 
-	+ Тест insertListAfter_insertListAfterList_insertListAfterListOK не прошел до изменений в коде
-	+ Тест insertListAfter_insertListAfterList_insertListAfterListOK прошел после изменений в коде
+	+ Тест get_getElementByIndex_ElemIsCorrect не прошел до изменений в коде
+	+ Тест get_getElementByIndex_ElemIsCorrect прошел после изменений в коде
 
-	+ Тест insertListBefore_insertListBeforeList_insertListBeforeListOK не прошел до изменений в коде
-	+ Тест insertListBefore_insertListBeforeList_insertListBeforeListOK прошел после изменений в коде
+	+ Тест insertAfter_InsertIntoEmptyList_sizeEqualsOne не прошел до изменений в коде
+	+ Тест insertAfter_InsertIntoEmptyList_sizeEqualsOne прошел после изменений в коде
+
+	+ Тест pushFront_pushThreeElements_HeadIsCorrect не прошел до изменений в коде
+	+ Тест pushFront_pushThreeElements_HeadIsCorrect прошел после изменений в коде
+
+	+ Тест pushBack_pushThreeElements_TailIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushThreeElements_TailIsCorrect прошел после изменений в коде
+
+	+ Тест remove_removeElementFromList_getNextIsCorrect не прошел до изменений в коде
+	+ Тест remove_removeElementFromList_getNextIsCorrect прошел после изменений в коде
+
+	+ Тест remove_removeElementFromList_getPrevIsCorrect не прошел до изменений в коде
+	+ Тест remove_removeElementFromList_getPrevIsCorrect прошел после изменений в коде
+
+	+ Тест insertListAfter_insertListIntoItself_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест insertListAfter_insertListIntoItself_ListIsNotEmpty прошел после изменений в коде
+
+	+ Тест insertListAfter_insertListAfterHead_GetPrevIsCorrect не прошел до изменений в коде
+	+ Тест insertListAfter_insertListAfterHead_GetPrevIsCorrect прошел после изменений в коде
+
+	+ Тест insertListAfter_insertListAfterHead_GetNextIsCorrect не прошел до изменений в коде
+	+ Тест insertListAfter_insertListAfterHead_GetNextIsCorrect прошел после изменений в коде
+
+	+ Тест insertListAfter_insertListIntoList_NewSizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListAfter_insertListIntoList_NewSizeIsCorrect прошел после изменений в коде
+
+	+ Тест insertListBefore_insertListIntoList_NewSizeIsCorrect не прошел до изменений в коде
+	+ Тест insertListBefore_insertListIntoList_NewSizeIsCorrect прошел после изменений в коде
+
+	+ Тест insertListBefore_insertListIntoItself_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест insertListBefore_insertListIntoItself_ListIsNotEmpty прошел после изменений в коде
+
+	+ Тест insertListBefore_insertListBeforeTail_GetPrevIsCorrect не прошел до изменений в коде
+	+ Тест insertListBefore_insertListBeforeTail_GetPrevIsCorrect прошел после изменений в коде
+
+	+ Тест insertListBefore_insertListBeforeSecondElem_SequenceOfElementsIsCorrect не прошел до изменений в коде
+	- Тест insertListBefore_insertListBeforeSecondElem_SequenceOfElementsIsCorrect не прошел после изменений в коде
 
 Тестирование задачи task_2
 	+ Тест BubbleSort_sortSortedArray_sortOK не прошел до изменений в коде
@@ -78,14 +117,43 @@
 	+ Тест InsertionSort_sortRandomInts_sortOK не прошел до изменений в коде
 	+ Тест InsertionSort_sortRandomInts_sortOK прошел после изменений в коде
 
-	+ Тест  не прошел до изменений в коде
-	- Тест  не прошел после изменений в коде
-
 Тестирование задачи task_3
-	+ Тест QuickSort_sortTwoElements_SortOK не прошел до изменений в коде
-	+ Тест QuickSort_sortTwoElements_SortOK прошел после изменений в коде
+	+ Тест quickSort_LeftMoreThanRight_QuickSortOK не прошел до изменений в коде
+	+ Тест quickSort_LeftMoreThanRight_QuickSortOK прошел после изменений в коде
 
-	!!!Тест не завершился за 3 секунды
+	+ Тест quickSort_DecreasingArray_QuickSortOK не прошел до изменений в коде
+	+ Тест quickSort_DecreasingArray_QuickSortOK прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест mergeSort_LeftMoreThanRight_MergeSortOK не прошел до изменений в коде
+	+ Тест mergeSort_LeftMoreThanRight_MergeSortOK прошел после изменений в коде
+
+	+ Тест mergeSort_FirstInTheEnd_MergeSortOK не прошел до изменений в коде
+	+ Тест mergeSort_FirstInTheEnd_MergeSortOK прошел после изменений в коде
+
+	+ Тест mergeSort_FirstInTheMiddle_MergeSortOK не прошел до изменений в коде
+	+ Тест mergeSort_FirstInTheMiddle_MergeSortOK прошел после изменений в коде
+
+	+ Тест mergeSort_RandomArrayWithRepeatingData_MergeSortOK не прошел до изменений в коде
+	+ Тест mergeSort_RandomArrayWithRepeatingData_MergeSortOK прошел после изменений в коде
+
+	+ Тест heapSort_LeftMoreThanRight_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_LeftMoreThanRight_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_TwoSortedElements_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_TwoSortedElements_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_FirstInTheMiddle_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_FirstInTheMiddle_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_FourRandomElements_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_FourRandomElements_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_HasRepeatingElement_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_HasRepeatingElement_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_DecreasingArrayLastLastElementIsOk_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_DecreasingArrayLastLastElementIsOk_HeapSortOK прошел после изменений в коде
+
+	+ Тест heapSort_DifficultData_HeapSortOK не прошел до изменений в коде
+	+ Тест heapSort_DifficultData_HeapSortOK прошел после изменений в коде
 

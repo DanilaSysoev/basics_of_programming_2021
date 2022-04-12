@@ -3,10 +3,49 @@
 	+ Тест getSize_getSizeOfNewArray_SizeEqualsZero прошел после изменений в коде
 
 	+ Тест setValue_setNewValue_ValueIsRight не прошел до изменений в коде
-	+ Тест setValue_setNewValue_ValueIsRight прошел после изменений в коде
+	- Тест setValue_setNewValue_ValueIsRight не прошел после изменений в коде
 
 	+ Тест resize_SetNewSizeWithPositiveValue_NewSizeIsRight не прошел до изменений в коде
 	+ Тест resize_SetNewSizeWithPositiveValue_NewSizeIsRight прошел после изменений в коде
+
+	+ Тест getIndex_GetIndexEqualsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест getIndex_GetIndexEqualsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест setIndex_SetIndexEqualsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест setIndex_SetIndexEqualsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест insertIndex_InsertIndexEqualsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест insertIndex_InsertIndexEqualsSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест insertIndex_InsertNewIndexInNotExistingSlot_ValueIsRight не прошел до изменений в коде
+	+ Тест insertIndex_InsertNewIndexInNotExistingSlot_ValueIsRight прошел после изменений в коде
+
+	+ Тест pushBack_pushBackElement_ValueIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushBackElement_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест popBack_PopBackElementFromEmptyArray_UnsupportedOperation не прошел до изменений в коде
+	+ Тест popBack_PopBackElementFromEmptyArray_UnsupportedOperation прошел после изменений в коде
+
+	+ Тест remove_RemoveIndexEqualSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест remove_RemoveIndexEqualSize_IndexOutOfBounds прошел после изменений в коде
+
+	+ Тест createList_CreateNewDoubleLinkedList_ListIsNotEmpty не прошел до изменений в коде
+	+ Тест createList_CreateNewDoubleLinkedList_ListIsNotEmpty прошел после изменений в коде
+
+	+ Тест pushBack_PushElementToNewList_SizeEqualsOne не прошел до изменений в коде
+	+ Тест pushBack_PushElementToNewList_SizeEqualsOne прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontFewItems_ItemsAreRight не прошел до изменений в коде
+	- Тест pushFront_PushFrontFewItems_ItemsAreRight не прошел после изменений в коде
+
+	+ Тест get_GetIndexEqualsSize_IndexOutOfBonds не прошел до изменений в коде
+	+ Тест get_GetIndexEqualsSize_IndexOutOfBonds прошел после изменений в коде
+
+	+ Тест get_GetIndex_IndexIsRight не прошел до изменений в коде
+	+ Тест get_GetIndex_IndexIsRight прошел после изменений в коде
+
+	+ Тест remove_RemoveElementFromList_NotEmptyList не прошел до изменений в коде
+	+ Тест remove_RemoveElementFromList_NotEmptyList прошел после изменений в коде
 
 	!!!Ошибка компиляции
 

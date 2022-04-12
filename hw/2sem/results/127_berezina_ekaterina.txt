@@ -5,6 +5,63 @@
 	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse не прошел до изменений в коде
 	+ Тест createDoubleLinkedList_CreateEmptyDoubleLinkedList_EmptyFalse прошел после изменений в коде
 
+	+ Тест getHead_getHeadOfTwoElements_HeadIsCorrect не прошел до изменений в коде
+	+ Тест getHead_getHeadOfTwoElements_HeadIsCorrect прошел после изменений в коде
+
+	+ Тест getTail_getTailOfTwoElements_TailIsCorrect не прошел до изменений в коде
+	+ Тест getTail_getTailOfTwoElements_TailIsCorrect прошел после изменений в коде
+
+	+ Тест pushFront_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	+ Тест pushFront_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
+
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushTwoElements_HeadAndTailIsCorrect прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontValuesDoubleLinkedList_CheckValues не прошел до изменений в коде
+	- Тест pushFront_PushFrontValuesDoubleLinkedList_CheckValues не прошел после изменений в коде
+
+	+ Тест remove_RemoveElement_CheckValue не прошел до изменений в коде
+	- Тест remove_RemoveElement_CheckValue не прошел после изменений в коде
+
+	+ Тест remove_RemoveElement_CheckValue2 не прошел до изменений в коде
+	- Тест remove_RemoveElement_CheckValue2 не прошел после изменений в коде
+
+	+ Тест insertListAfter_CreateTwoListsAndUnite_CheckSize не прошел до изменений в коде
+	+ Тест insertListAfter_CreateTwoListsAndUnite_CheckSize прошел после изменений в коде
+
+	+ Тест insertListAfter_CreateTwoListsAndUnite_CheckValues не прошел до изменений в коде
+	- Тест insertListAfter_CreateTwoListsAndUnite_CheckValues не прошел после изменений в коде
+
+	+ Тест insertListBefore_TryToInsertListBefore_CheckSize не прошел до изменений в коде
+	+ Тест insertListBefore_TryToInsertListBefore_CheckSize прошел после изменений в коде
+
+	+ Тест insertListBefore_TryToInsertListBefore_CheckValues не прошел до изменений в коде
+	- Тест insertListBefore_TryToInsertListBefore_CheckValues не прошел после изменений в коде
+
+	+ Тест pushFront_PushFrontValuesDoubleLinkedList_CheckValues не прошел до изменений в коде
+	+ Тест pushFront_PushFrontValuesDoubleLinkedList_CheckValues прошел после изменений в коде
+
+	+ Тест createArray_CreateEmptyArray_CheckSize не прошел до изменений в коде
+	+ Тест createArray_CreateEmptyArray_CheckSize прошел после изменений в коде
+
+	+ Тест resize_CreateArrayAndResize_CheckSize не прошел до изменений в коде
+	+ Тест resize_CreateArrayAndResize_CheckSize прошел после изменений в коде
+
+	+ Тест get_GetIndexOutOfBounds2_CheckException не прошел до изменений в коде
+	+ Тест get_GetIndexOutOfBounds2_CheckException прошел после изменений в коде
+
+	+ Тест set_SetIndexOutOfBounds2_CheckException не прошел до изменений в коде
+	+ Тест set_SetIndexOutOfBounds2_CheckException прошел после изменений в коде
+
+	+ Тест insert_InsertIndexOutOfBounds2_CheckException не прошел до изменений в коде
+	- Тест insert_InsertIndexOutOfBounds2_CheckException не прошел после изменений в коде
+
+	+ Тест set_SetNumbers_CheckValues не прошел до изменений в коде
+	+ Тест set_SetNumbers_CheckValues прошел после изменений в коде
+
+	+ Тест insert_InsertNumber_CheckNewValue не прошел до изменений в коде
+	+ Тест insert_InsertNumber_CheckNewValue прошел после изменений в коде
+
 	!!!Ошибка компиляции
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.

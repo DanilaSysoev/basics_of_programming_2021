@@ -8,6 +8,18 @@
 	+ Тест resize_NegativeSize_Exception не прошел до изменений в коде
 	+ Тест resize_NegativeSize_Exception прошел после изменений в коде
 
+	+ Тест resize_moreThenCapacity_paramsChanged не прошел до изменений в коде
+	+ Тест resize_moreThenCapacity_paramsChanged прошел после изменений в коде
+
+	+ Тест get_outOfBounds_Exception не прошел до изменений в коде
+	+ Тест get_outOfBounds_Exception прошел после изменений в коде
+
+	+ Тест set_outOfBounds_Exception не прошел до изменений в коде
+	+ Тест set_outOfBounds_Exception прошел после изменений в коде
+
+	+ Тест insert_outOfBounds_Exception не прошел до изменений в коде
+	+ Тест insert_outOfBounds_Exception прошел после изменений в коде
+
 	!!!Ошибка компиляции
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.

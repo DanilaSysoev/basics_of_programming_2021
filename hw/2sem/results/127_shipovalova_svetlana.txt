@@ -14,8 +14,8 @@
 	+ Тест pushFrontThreeItems_H не прошел до изменений в коде
 	+ Тест pushFrontThreeItems_H прошел после изменений в коде
 
-	+ Тест PushFrontThreeItems не прошел до изменений в коде
-	+ Тест PushFrontThreeItems прошел после изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_Second не прошел до изменений в коде
+	+ Тест pushItems_PushFrontThreeItems_Second прошел после изменений в коде
 
 	!!!Ошибка компиляции
 

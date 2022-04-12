@@ -2,15 +2,26 @@
 	+ Тест createList_createNewList_ListIsNotEmpty не прошел до изменений в коде
 	+ Тест createList_createNewList_ListIsNotEmpty прошел после изменений в коде
 
-	- Тест pushFront_PushFrontToEmptyList_NumberIncorrect прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_NumberIncorrect не прошел до изменений в коде
+	+ Тест pushFront_PushFrontToEmptyList_NumberIncorrect прошел после изменений в коде
+
+	- Тест pushFront_pushFrontData_OneNumberIsCorrect прошел до изменений в коде
+
+	- Тест pushFront_pushFrontData_headIsCorrect прошел до изменений в коде
+
+	+ Тест pushFront_pushFrontData_tailIsCorrect не прошел до изменений в коде
+	- Тест pushFront_pushFrontData_tailIsCorrect не прошел после изменений в коде
+
+	+ Тест pushFront_pushFrontInvertedData_oneNumberIsCorrect не прошел до изменений в коде
+	- Тест pushFront_pushFrontInvertedData_oneNumberIsCorrect не прошел после изменений в коде
+
+	+ Тест deleteNumber_firstNumber_firstNumberIsCorrect не прошел до изменений в коде
+	- Тест deleteNumber_firstNumber_firstNumberIsCorrect не прошел после изменений в коде
 
 	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
 
-	- Тест pushBack_PushBackToEmptyList_DataIsPushed прошел до изменений в коде
-
-	- Тест pushFront_PushFrontToNotEmptyList_DataIsPushed прошел до изменений в коде
-
-	- Тест getSize_getSizeOfNewArray_SizeEqualsDefaultSize прошел до изменений в коде
+	+ Тест createArray_arrayWithoutData_sizeEqualsDefault не прошел до изменений в коде
+	+ Тест createArray_arrayWithoutData_sizeEqualsDefault прошел после изменений в коде
 
 	+ Тест resize_SetSizeBiggerThanZero_NewSizeIsCorrect не прошел до изменений в коде
 	+ Тест resize_SetSizeBiggerThanZero_NewSizeIsCorrect прошел после изменений в коде
@@ -24,9 +35,20 @@
 	+ Тест insertIndex_IndexIsNotExist_IndexOutOfBounds не прошел до изменений в коде
 	+ Тест insertIndex_IndexIsNotExist_IndexOutOfBounds прошел после изменений в коде
 
-	!!!Ошибка компиляции
+	+ Тест setValue_setNewValue_ValueIsCorrect не прошел до изменений в коде
+	+ Тест setValue_setNewValue_ValueIsCorrect прошел после изменений в коде
 
-		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
+	+ Тест insert_InsertIndexInNotExistingSlot_ValueIsCorrect не прошел до изменений в коде
+	+ Тест insert_InsertIndexInNotExistingSlot_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест pushBack_pushBackElement_ValueIsCorrect не прошел до изменений в коде
+	+ Тест pushBack_pushBackElement_ValueIsCorrect прошел после изменений в коде
+
+	+ Тест popBack_popBackElementIsZero_ArrayIsEmpty не прошел до изменений в коде
+	+ Тест popBack_popBackElementIsZero_ArrayIsEmpty прошел после изменений в коде
+
+	+ Тест remove_removeElementNotExist_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест remove_removeElementNotExist_IndexOutOfBounds прошел после изменений в коде
 
 Тестирование задачи task_2
 	+ Тест bubbleSort_dataIsEqual_sortIsNotNeeded не прошел до изменений в коде

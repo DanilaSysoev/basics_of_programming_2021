@@ -104,13 +104,20 @@
 	+ Тест test_BubbleSort_sps не прошел до изменений в коде
 	+ Тест test_BubbleSort_sps прошел после изменений в коде
 
-	+ Тест test_InsertionSort_comparatorAndCur не прошел до изменений в коде
-	+ Тест test_InsertionSort_comparatorAndCur прошел после изменений в коде
+	+ Тест test_InsertionSort_comparator не прошел до изменений в коде
+	+ Тест test_InsertionSort_comparator прошел после изменений в коде
 
-	- Тест test_SelectionSort_dataLength прошел до изменений в коде
+	+ Тест test_InsertionSort_cur не прошел до изменений в коде
+	+ Тест test_InsertionSort_cur прошел после изменений в коде
 
-	+ Тест test_SelectionSort_sortedSizeAndMaxInd не прошел до изменений в коде
-	+ Тест test_SelectionSort_sortedSizeAndMaxInd прошел после изменений в коде
+	+ Тест test_SelectionSort_dataLength не прошел до изменений в коде
+	+ Тест test_SelectionSort_dataLength прошел после изменений в коде
+
+	+ Тест test_SelectionSort_sortedSize не прошел до изменений в коде
+	+ Тест test_SelectionSort_sortedSize прошел после изменений в коде
+
+	+ Тест test_SelectionSort_maxInd не прошел до изменений в коде
+	+ Тест test_SelectionSort_maxInd прошел после изменений в коде
 
 Тестирование задачи task_3
 	+ Тест test_HeapSort_swapSecondIndex не прошел до изменений в коде

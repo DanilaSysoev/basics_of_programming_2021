@@ -33,8 +33,47 @@
 
 	- Тест removeValue_RemoveOneValue_ValueIsCorrect прошел до изменений в коде
 
+	+ Тест PushFront_DoubleLinkedList_TakeOne не прошел до изменений в коде
+	+ Тест PushFront_DoubleLinkedList_TakeOne прошел после изменений в коде
+
+	- Тест PushFront_DoubleLinkedList_HeadIsCorrect прошел до изменений в коде
+
+	+ Тест PushFront_DoubleLinkedList_TailIsCorrect не прошел до изменений в коде
+	- Тест PushFront_DoubleLinkedList_TailIsCorrect не прошел после изменений в коде
+
+	+ Тест PushFront_DoubleLinkedList_TakeTwo не прошел до изменений в коде
+	+ Тест PushFront_DoubleLinkedList_TakeTwo прошел после изменений в коде
+
+	+ Тест PushFront_DoubleLinkedList_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест PushFront_DoubleLinkedList_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест PushFront_DoubleLinkedList_TailIsCorrect не прошел до изменений в коде
+	- Тест PushFront_DoubleLinkedList_TailIsCorrect не прошел после изменений в коде
+
+	+ Тест PushBack_DoubleLinkedList_SecondItemIsCorrect не прошел до изменений в коде
+	- Тест PushBack_DoubleLinkedList_SecondItemIsCorrect не прошел после изменений в коде
+
+	+ Тест RemoveItem_DoubleLinkedList_FirstItemIsCorrect не прошел до изменений в коде
+	- Тест RemoveItem_DoubleLinkedList_FirstItemIsCorrect не прошел после изменений в коде
+
+	+ Тест InsertList_DoubleLinkedList_AllElementsAreCorrect не прошел до изменений в коде
+	- Тест InsertList_DoubleLinkedList_AllElementsAreCorrect не прошел после изменений в коде
+
+	+ Тест InsertList_DoubleLinkedList_SizeIsCorrect не прошел до изменений в коде
+	+ Тест InsertList_DoubleLinkedList_SizeIsCorrect прошел после изменений в коде
+
+	+ Тест InsertList_DoubleLinkedList_EverythingIsCorrect не прошел до изменений в коде
+	- Тест InsertList_DoubleLinkedList_EverythingIsCorrect не прошел после изменений в коде
+
+	+ Тест InsertList_DoubleLinkedList_SizeIsCorrect2 не прошел до изменений в коде
+	+ Тест InsertList_DoubleLinkedList_SizeIsCorrect2 прошел после изменений в коде
+
+	+ Тест PushFront_DoubleLinkedList_TailIsCorrect не прошел до изменений в коде
+	+ Тест PushFront_DoubleLinkedList_TailIsCorrect прошел после изменений в коде
+
 Тестирование задачи task_2
-	- Тест bubbleSort_InvertSort прошел до изменений в коде
+	+ Тест bubbleSort_InvertSort не прошел до изменений в коде
+	- Тест bubbleSort_InvertSort не прошел после изменений в коде
 
 	+ Тест bubbleSort_DataStaysTheSame не прошел до изменений в коде
 	+ Тест bubbleSort_DataStaysTheSame прошел после изменений в коде
@@ -85,5 +124,17 @@
 	+ Тест MergeSort_InterchangeIndex прошел после изменений в коде
 
 	+ Тест QuickSort_InterchangeIndex не прошел до изменений в коде
+	- Тест QuickSort_InterchangeIndex не прошел после изменений в коде
+
+	+ Тест QuickSort_UnsortedSort_TakeTwo не прошел до изменений в коде
+	- Тест QuickSort_UnsortedSort_TakeTwo не прошел после изменений в коде
+
+	+ Тест QuickSort_UnsortedSort_TakeOne не прошел до изменений в коде
+	- Тест QuickSort_UnsortedSort_TakeOne не прошел после изменений в коде
+
+	+ Тест QuickSort_InterchangeIndex не прошел до изменений в коде
 	+ Тест QuickSort_InterchangeIndex прошел после изменений в коде
+
+	+ Тест QuickSort_UnsortedSort_TakeTwo не прошел до изменений в коде
+	+ Тест QuickSort_UnsortedSort_TakeTwo прошел после изменений в коде
 

@@ -8,15 +8,14 @@
 	+ Тест resize_setNewPositiveSize_Correct не прошел до изменений в коде
 	+ Тест resize_setNewPositiveSize_Correct прошел после изменений в коде
 
-	+ Тест resize_setNewSizeLessThanSize_WithoutChanges не прошел до изменений в коде
-	- Тест resize_setNewSizeLessThanSize_WithoutChanges не прошел после изменений в коде
+	+ Тест get_getElemAsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест get_getElemAsSize_IndexOutOfBounds прошел после изменений в коде
 
-	- Тест get_getElemWithIndexEqualsSize_ThrowsException прошел до изменений в коде
+	+ Тест set_setElemWithIndexEqualsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест set_setElemWithIndexEqualsSize_IndexOutOfBounds прошел после изменений в коде
 
-	- Тест set_setElemWithIndexEqualsSize_ThrowsException прошел до изменений в коде
-
-	+ Тест insert_ElemWithIndexEqualsSize_ThrowsException не прошел до изменений в коде
-	- Тест insert_ElemWithIndexEqualsSize_ThrowsException не прошел после изменений в коде
+	+ Тест insert_NumbersWithIndexEqualsSize_IndexOutOfBounds не прошел до изменений в коде
+	+ Тест insert_NumbersWithIndexEqualsSize_IndexOutOfBounds прошел после изменений в коде
 
 	+ Тест insert_insertElem_Correct не прошел до изменений в коде
 	+ Тест insert_insertElem_Correct прошел после изменений в коде
@@ -36,7 +35,22 @@
 	+ Тест isEmpty_checkListWithElem_isEmptyFalse не прошел до изменений в коде
 	+ Тест isEmpty_checkListWithElem_isEmptyFalse прошел после изменений в коде
 
-	- Тест pushFront_pushToEmptyList_HeadAndTailCorrect прошел до изменений в коде
+	+ Тест pushFront_PushFrontElem_Correct не прошел до изменений в коде
+	+ Тест pushFront_PushFrontElem_Correct прошел после изменений в коде
+
+	+ Тест pushBack_pushToEmptyList_sizeEqualsOne не прошел до изменений в коде
+	+ Тест pushBack_pushToEmptyList_sizeEqualsOne прошел после изменений в коде
+
+	+ Тест get_getElemByIndex_GetCorrectElem не прошел до изменений в коде
+	+ Тест get_getElemByIndex_GetCorrectElem прошел после изменений в коде
+
+	+ Тест get_getElemByIndexEqualsSize_ThrowsException не прошел до изменений в коде
+	+ Тест get_getElemByIndexEqualsSize_ThrowsException прошел после изменений в коде
+
+	- Тест pushFront_pushThreeElem_HeadAndTailAreCorrect прошел до изменений в коде
+
+	+ Тест remove_RemoveElemFromList_ElemAreMoved не прошел до изменений в коде
+	+ Тест remove_RemoveElemFromList_ElemAreMoved прошел после изменений в коде
 
 	!!!Ошибка компиляции
 
@@ -52,10 +66,11 @@
 	+ Тест insertionSort_insertionSortWithThreeSortedElem_WithoutChanges не прошел до изменений в коде
 	+ Тест insertionSort_insertionSortWithThreeSortedElem_WithoutChanges прошел после изменений в коде
 
-	- Тест selectionSort_SelectionIsUnsorted_CorrectOrder прошел до изменений в коде
+	+ Тест selectionSort_SelectionIsUnsorted_CorrectOrder не прошел до изменений в коде
+	- Тест selectionSort_SelectionIsUnsorted_CorrectOrder не прошел после изменений в коде
 
-	+ Тест selectionSort_SelectionSortWithNegativeElem_CorrectOrder не прошел до изменений в коде
-	- Тест selectionSort_SelectionSortWithNegativeElem_CorrectOrder не прошел после изменений в коде
+	+ Тест selectionSort_SelectionSortWithMaxOnTheFirstPlace_CorrectOrder не прошел до изменений в коде
+	- Тест selectionSort_SelectionSortWithMaxOnTheFirstPlace_CorrectOrder не прошел после изменений в коде
 
 	+ Тест selectionSort_SelectionSortIsSorted_CorrectOrder не прошел до изменений в коде
 	+ Тест selectionSort_SelectionSortIsSorted_CorrectOrder прошел после изменений в коде
@@ -64,7 +79,8 @@
 	+ Тест heapSort_HeapSortWithTHeSameElem_WithoutChanges не прошел до изменений в коде
 	+ Тест heapSort_HeapSortWithTHeSameElem_WithoutChanges прошел после изменений в коде
 
-	- Тест heapSort_HeapSortIsSorted_WithoutChanges прошел до изменений в коде
+	+ Тест heapSort_HeapSortIsSorted_WithoutChanges не прошел до изменений в коде
+	+ Тест heapSort_HeapSortIsSorted_WithoutChanges прошел после изменений в коде
 
 	+ Тест heapSort_AnotherUnsorted_CorrectOrder не прошел до изменений в коде
 	+ Тест heapSort_AnotherUnsorted_CorrectOrder прошел после изменений в коде
@@ -81,7 +97,8 @@
 	+ Тест mergeSort_MergeSortIsUnsortedWithMoreElem_CorrectOrder не прошел до изменений в коде
 	+ Тест mergeSort_MergeSortIsUnsortedWithMoreElem_CorrectOrder прошел после изменений в коде
 
-	- Тест mergeSort_MergeSortIsUnsortedWithTheSameElem_CorrectOrder прошел до изменений в коде
+	+ Тест mergeSort_MergeSortIsUnsortedWithTheSameElem_CorrectOrder не прошел до изменений в коде
+	+ Тест mergeSort_MergeSortIsUnsortedWithTheSameElem_CorrectOrder прошел после изменений в коде
 
 	+ Тест mergeSort_MergeSortWithNegativeElem_CorrectOrder не прошел до изменений в коде
 	+ Тест mergeSort_MergeSortWithNegativeElem_CorrectOrder прошел после изменений в коде
@@ -89,5 +106,6 @@
 	+ Тест quickSort_QuickSortIsUnsorted_CorrectOrder не прошел до изменений в коде
 	+ Тест quickSort_QuickSortIsUnsorted_CorrectOrder прошел после изменений в коде
 
-	- Тест quickSort_QuickSortIsUnsortedWithSameElem_CorrectOrder прошел до изменений в коде
+	+ Тест quickSort_QuickSortIsUnsortedWithMoreElem_CorrectOrder не прошел до изменений в коде
+	+ Тест quickSort_QuickSortIsUnsortedWithMoreElem_CorrectOrder прошел после изменений в коде
 

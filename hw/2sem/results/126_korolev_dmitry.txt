@@ -117,12 +117,15 @@
 	+ Тест InsertionSort_SortedArray_ArrayIsTheSame не прошел до изменений в коде
 	+ Тест InsertionSort_SortedArray_ArrayIsTheSame прошел после изменений в коде
 
-	Ошибка в протоколе. Читаем задание и исправляем протокол.
+	+ Тест InsertionSort_UnsortedArray_ArrayIsSorted не прошел до изменений в коде
+	+ Тест InsertionSort_UnsortedArray_ArrayIsSorted прошел после изменений в коде
+
 Тестирование задачи task_3
 	+ Тест QuickSort_SortUnsortedArray_ArrayIsSorted не прошел до изменений в коде
 	+ Тест QuickSort_SortUnsortedArray_ArrayIsSorted прошел после изменений в коде
 
-	- Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect прошел до изменений в коде
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect не прошел до изменений в коде
+	+ Тест QuickSort_QuickSortHugeUnsortedArray_ArrayIsCorrect прошел после изменений в коде
 
 	+ Тест MergeSort_SortSortedArray_ArrayIsSame не прошел до изменений в коде
 	+ Тест MergeSort_SortSortedArray_ArrayIsSame прошел после изменений в коде
