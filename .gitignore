@@ -23,3 +23,5 @@ hs_err_pid*
 hw/1sem/task_4/data/subtask_7_arrays_arr1.txt
 hw/1sem/task_4/data/subtask_7_arrays_arr2.txt
 hw/1sem/task_4/data/subtask_7_arrays_res.txt
+
+tmp/

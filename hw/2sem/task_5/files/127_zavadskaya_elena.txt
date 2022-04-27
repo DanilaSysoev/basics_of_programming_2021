@@ -1,0 +1,214 @@
+Простое двоичное дерево
+-------------------------------------------------------------------------------
+S_1. Опишите простое двоичное дерево поиска, которое получится 
+после выполнения следующих операций над изначально пустым деревом:
+	insert 77
+	insert 88
+	insert 2
+	insert 61
+	insert 98
+	insert 78
+	insert 1
+	insert 2
+	insert 59
+	insert 45
+	insert 48
+	insert 10
+
+S_2. Опишите простое двоичное дерево поиска, которое получится 
+после выполнения следующих операций над изначально пустым деревом:
+	insert 48
+	insert 13
+	insert 20
+	insert 75
+	insert 78
+	insert 69
+	insert 90
+	insert 95
+	insert 99
+	insert 85
+	insert 77
+	insert 12
+	insert 26
+	insert 15
+	insert 4
+	delete 20
+	delete 77
+	delete 26
+	delete 99
+	delete 12
+
+S_3. Опишите простое двоичное дерево поиска, которое получится 
+после выполнения следующих операций над изначально пустым деревом:
+	insert 29
+	insert 45
+	insert 64
+	insert 64
+	insert 83
+	insert 76
+	insert 75
+	insert 55
+	insert 5
+	insert 24
+	insert 58
+	insert 43
+	delete 64
+	delete 83
+	delete 43
+	insert 80
+	insert 93
+	insert 8
+	delete 45
+	delete 76
+	insert 8
+	insert 6
+	insert 48
+	delete 93
+	delete 29
+	delete 58
+	delete 55
+	delete 24
+
+-------------------------------------------------------------------------------АВЛ дерево
+-------------------------------------------------------------------------------
+AVL_1. Опишите АВЛ дерево, которое получится после выполнения
+следующих операций над изначально пустым деревом:
+	insert 85
+	insert 80
+	insert 71
+	insert 81
+	insert 64
+	insert 9
+	insert 45
+	insert 61
+	insert 13
+	insert 98
+	insert 22
+	insert 92
+
+AVL_2. Опишите АВЛ дерево, которое получится после выполнения
+следующих операций над изначально пустым деревом:
+	insert 6
+	insert 56
+	insert 46
+	insert 81
+	insert 70
+	insert 8
+	insert 85
+	insert 57
+	insert 36
+	insert 76
+	insert 38
+	insert 93
+	insert 17
+	insert 90
+	insert 42
+	delete 42
+	delete 76
+	delete 38
+	delete 57
+	delete 81
+
+AVL_3. Опишите АВЛ дерево, которое получится после выполнения
+следующих операций над изначально пустым деревом:
+	insert 47
+	insert 21
+	insert 15
+	insert 36
+	insert 13
+	insert 89
+	insert 70
+	insert 79
+	insert 79
+	insert 45
+	insert 48
+	insert 92
+	delete 47
+	delete 79
+	delete 13
+	insert 44
+	insert 94
+	insert 60
+	delete 48
+	delete 45
+	insert 18
+	insert 55
+	insert 65
+	delete 65
+	delete 44
+	delete 18
+	delete 94
+	delete 36
+
+-------------------------------------------------------------------------------Красно-черное дерево
+-------------------------------------------------------------------------------
+RB_1. Опишите красно-черное дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 90
+	insert 91
+	insert 80
+	insert 15
+	insert 99
+	insert 66
+	insert 97
+	insert 53
+	insert 73
+	insert 85
+	insert 98
+	insert 9
+
+RB_2. Опишите красно-черное дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 61
+	insert 36
+	insert 89
+	insert 39
+	insert 25
+	insert 42
+	insert 78
+	insert 24
+	insert 1
+	insert 79
+	insert 41
+	insert 85
+	insert 16
+	insert 44
+	insert 36
+	delete 79
+	delete 89
+	delete 61
+	delete 25
+	delete 42
+
+RB_3. Опишите красно-черное дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 71
+	insert 64
+	insert 13
+	insert 1
+	insert 40
+	insert 60
+	insert 25
+	insert 24
+	insert 31
+	insert 96
+	insert 94
+	insert 72
+	delete 24
+	delete 71
+	delete 94
+	insert 80
+	insert 59
+	insert 8
+	delete 96
+	delete 8
+	insert 84
+	insert 5
+	insert 77
+	delete 80
+	delete 1
+	delete 77
+	delete 25
+	delete 40
+
+-------------------------------------------------------------------------------
