@@ -121,8 +121,8 @@ public class RBTree<T> implements BinarySearchTree<T> {
             node.parent.left = newNode;
         else
             node.parent.right = newNode;
-        if(newNode != nil)
-            newNode.parent = node.parent;
+
+        newNode.parent = node.parent;
     }
 
     @Override
@@ -242,9 +242,9 @@ public class RBTree<T> implements BinarySearchTree<T> {
                     TreeRestoreAfterInsert(parent.parent);
                 } else {
                     rotateRight(parent);
-                    rotateLeft(node.parent.parent);
-                    node.parent.toBlack();
-                    node.parent.left.toRed();
+                    rotateLeft(node.parent);
+                    node.toBlack();
+                    node.left.toRed();
                 }
             }
         } else {
@@ -257,9 +257,9 @@ public class RBTree<T> implements BinarySearchTree<T> {
                     TreeRestoreAfterInsert(parent.parent);
                 } else {
                     rotateLeft(parent);
-                    rotateRight(node.parent.parent);
-                    node.parent.toBlack();
-                    node.parent.right.toRed();
+                    rotateRight(node.parent);
+                    node.toBlack();
+                    node.right.toRed();
                 }
             } else {
                 if(parent.parent.left.isRed()) {
@@ -302,9 +302,7 @@ public class RBTree<T> implements BinarySearchTree<T> {
         var node = searchRec(root, value);
         if(node == nil)
             return;
-        RBTreeNode replacer = deleteProcedure(node);
-        if(deletedNode.isBlack())
-            restoreAfterDeleting(replacer);
+        deleteProcedure(node);
         --size;
     }
 
@@ -363,28 +361,31 @@ public class RBTree<T> implements BinarySearchTree<T> {
         }
     }
 
-    private RBTreeNode deletedNode;
-    private RBTreeNode deleteProcedure(RBTreeNode node) {
-        deletedNode = node;
+    private void deleteProcedure(RBTreeNode node) {
         if(isLeaf(node)) {
-            if(node == root)
+            if(node == root) {
                 root = nil;
+                return;
+            }
+            if(node.isBlack())
+                restoreAfterDeleting(node);
             replaceOnParent(node, nil);
-            return nil;
         } else if(node.left == nil) {
             if(node == root)
                 root = node.right;
+            if(node.isBlack())
+                restoreAfterDeleting(node);
             replaceOnParent(node, node.right);
-            return node.right;
         } else if(node.right == nil) {
             if(node == root)
                 root = node.left;
+            if(node.isBlack())
+                restoreAfterDeleting(node);
             replaceOnParent(node, node.left);
-            return node.left;
         } else {
             var min = minRec(node.right);
             node.data = min.data;
-            return deleteProcedure(min);
+            deleteProcedure(min);
         }
     }
 }

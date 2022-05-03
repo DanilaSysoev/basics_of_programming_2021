@@ -72,4 +72,15 @@ public class SimpleBinarySearchTreeTests extends Assert {
         assertArrayEquals(new Integer[] {-1, 1, 5}, tree.getOrderedItems().toArray());
         assertEquals(3, tree.size());
     }
+    @Test
+    public void insert_isertRepeat_NothingHappens() {
+        BinarySearchTree<Integer> tree = new AVLTree<>(new Comparator());
+        tree.insert(4);
+        tree.insert(1);
+        tree.insert(5);
+        tree.insert(4);
+
+        assertArrayEquals(new Integer[] {1, 4, 5}, tree.getOrderedItems().toArray());
+        assertEquals(3, tree.size());
+    }
 }
