@@ -7,7 +7,7 @@
 126_korolev_dmitry 9+2
 126_krylova_ksenia 4+2
 126_napisanova_victoria 9+0
-126_ptashkin_roman 0+0 Протокол не найден или протоколов больше одного
+126_ptashkin_roman 15+0
 126_shegai_alina 13+0
 126_shulepov_ilya 6+0
 126_sidorova_angelina 0+0 Решение не найдено
@@ -17,14 +17,14 @@
 126_utkin_alexandr 0+0 Решение не найдено
 126_zakharov_vsevolod 0+0 Решение не найдено
 127_berezina_ekaterina 0+0 Решение не найдено
-127_bubnova_natalia 0+0 Решение не найдено
+127_bubnova_natalia 13+0
 127_esipenko_eugene 0+0 Решение не найдено
 127_filippova_alyona 10+0
 127_istratova_viktoria 8+0
 127_ivanov_georgiy 10+0
 127_karasenko_ekaterina 0+0 Решение не найдено
 127_kichigina_anna 0+0 Решение не найдено
-127_mirzoeva_natavan 0+0 Решение не найдено
+127_mirzoeva_natavan 14+0
 127_panfilova_valeria 2+2
 127_pastukhova_polina 10+0
 127_posysoev_maxim 0+0 Решение не найдено
