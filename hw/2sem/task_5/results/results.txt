@@ -10,13 +10,13 @@
 126_ptashkin_roman 15+0
 126_shegai_alina 13+0
 126_shulepov_ilya 6+0
-126_sidorova_angelina 0+0 Решение не найдено
+126_sidorova_angelina 6+0
 126_sinitskaya_yana 9+0
 126_spiridonova_maria 14+2
 126_trusov_kostya 11+0
 126_utkin_alexandr 0+0 Решение не найдено
 126_zakharov_vsevolod 0+0 Решение не найдено
-127_berezina_ekaterina 0+0 Решение не найдено
+127_berezina_ekaterina 10+0
 127_bubnova_natalia 13+0
 127_esipenko_eugene 0+0 Решение не найдено
 127_filippova_alyona 10+0
@@ -28,6 +28,6 @@
 127_panfilova_valeria 2+2
 127_pastukhova_polina 10+0
 127_posysoev_maxim 0+0 Решение не найдено
-127_shipovalova_svetlana 0+0 Решение не найдено
+127_shipovalova_svetlana 11+0
 127_sokolov_grigory 0+0 Решение не найдено
 127_zavadskaya_elena 0+0 Решение не найдено
