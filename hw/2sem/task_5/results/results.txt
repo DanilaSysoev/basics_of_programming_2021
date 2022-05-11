@@ -25,7 +25,7 @@
 127_karasenko_ekaterina 0+0 Решение не найдено
 127_kichigina_anna 0+0 Решение не найдено
 127_mirzoeva_natavan 0+0 Решение не найдено
-127_panfilova_valeria 0+2 Протокол не найден или протоколов больше одного
+127_panfilova_valeria 2+2
 127_pastukhova_polina 10+0
 127_posysoev_maxim 0+0 Решение не найдено
 127_shipovalova_svetlana 0+0 Решение не найдено
