@@ -148,24 +148,28 @@ public class BTree {
         var right = node.children.get(pos + 1);
 
         right.keys.add(0, node.keys.get(pos));
-        right.addChildren(0, left.children.get(left.children.size() - 1));
+        if(!right.isLeaf())
+            right.addChildren(0, left.children.get(left.children.size() - 1));
 
         node.keys.set(pos, left.keys.get(left.keys.size() - 1));
 
         left.keys.remove(left.keys.size() - 1);
-        left.children.remove(left.children.size() - 1);
+        if(!left.isLeaf())
+            left.children.remove(left.children.size() - 1);
     }
     private void rotateKeysLeft(BTreeNode node, int pos) {
         var left = node.children.get(pos);
         var right = node.children.get(pos + 1);
 
         left.keys.add(node.keys.get(pos));
-        left.addChildren(right.children.get(0));
+        if(!left.isLeaf())
+            left.addChildren(right.children.get(0));
 
         node.keys.set(pos, right.keys.get(0));
 
         right.keys.remove(0);
-        right.children.remove(0);
+        if(!right.isLeaf())
+            right.children.remove(0);
     }
 
     private void merge(BTreeNode node, int pos) {
@@ -214,14 +218,15 @@ public class BTree {
         for(int i = from; i < to; ++i)
             node.keys.add(src.keys.get(i));
         if(!src.isLeaf()) {
-            node.children = new ArrayList<>();
+            if(node.children == null)
+                node.children = new ArrayList<>();
             for(int i = from; i <= to; ++i)
                 node.addChildren(src.children.get(i));
         }
     }
 
     private static int getNearestIndex(ArrayList<Integer> data, int key, int from, int to) {
-        if(from == to)
+        if(from >= to)
             return from;
         int mid = (from + to) / 2;
         if (data.get(mid) == key)
