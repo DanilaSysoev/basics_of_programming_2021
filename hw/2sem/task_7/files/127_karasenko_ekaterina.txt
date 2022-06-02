@@ -1,0 +1,156 @@
+Хэш таблица со смещениями
+-------------------------------------------------------------------------------
+Offset_hash_1.
+Размер таблицы n = 13. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу со смещениями, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 81
+	insert 52
+	insert 14
+	insert 84
+	insert 17
+	insert 1
+	insert 6
+	insert 49
+	insert 5
+	insert 64
+	insert 72
+	insert 15
+
+Offset_hash_2.
+Размер таблицы n = 19. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу со смещениями, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 87
+	insert 69
+	insert 29
+	insert 54
+	insert 20
+	insert 11
+	insert 81
+	insert 62
+	insert 94
+	insert 24
+	insert 98
+	insert 87
+	insert 34
+	insert 84
+	insert 73
+	delete 54
+	delete 11
+	delete 34
+	delete 84
+	delete 20
+
+Offset_hash_3.
+Размер таблицы n = 19. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу со смещениями, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 6
+	insert 55
+	insert 92
+	insert 70
+	insert 90
+	insert 17
+	insert 85
+	insert 78
+	insert 34
+	insert 28
+	insert 73
+	insert 6
+	delete 73
+	delete 78
+	delete 92
+	insert 4
+	insert 97
+	insert 88
+	delete 88
+	delete 55
+	insert 81
+	insert 16
+	insert 97
+	delete 6
+	delete 16
+	delete 85
+	delete 17
+	delete 34
+
+-------------------------------------------------------------------------------
+Хэш таблица со списками
+-------------------------------------------------------------------------------
+List_hash_1.
+Размер таблицы n = 13. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу на списках, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 21
+	insert 90
+	insert 56
+	insert 49
+	insert 89
+	insert 58
+	insert 9
+	insert 75
+	insert 26
+	insert 13
+	insert 70
+	insert 50
+
+List_hash_2.
+Размер таблицы n = 19. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу на списках, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 26
+	insert 13
+	insert 61
+	insert 47
+	insert 16
+	insert 91
+	insert 31
+	insert 77
+	insert 68
+	insert 71
+	insert 2
+	insert 53
+	insert 55
+	insert 85
+	insert 97
+	delete 91
+	delete 47
+	delete 61
+	delete 31
+	delete 2
+
+List_hash_3.
+Размер таблицы n = 19. Хэш-функция - остаток от деления.
+Опишите хэш-таблицу на списках, которая будет получаться 
+в ходе выполнения следующих операций над изначально пустой таблицей:
+	insert 76
+	insert 19
+	insert 5
+	insert 48
+	insert 43
+	insert 72
+	insert 36
+	insert 31
+	insert 79
+	insert 55
+	insert 41
+	insert 11
+	delete 72
+	delete 19
+	delete 79
+	insert 82
+	insert 5
+	insert 96
+	delete 48
+	delete 31
+	insert 48
+	insert 67
+	insert 39
+	delete 39
+	delete 5
+	delete 55
+	delete 76
+	delete 43
+
+-------------------------------------------------------------------------------

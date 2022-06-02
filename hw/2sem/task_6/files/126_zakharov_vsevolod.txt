@@ -1,0 +1,75 @@
+B-Tree
+-------------------------------------------------------------------------------
+B_1.
+Параметр t = 2. Опишите B-дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 98
+	insert 91
+	insert 81
+	insert 49
+	insert 92
+	insert 20
+	insert 51
+	insert 28
+	insert 44
+	insert 42
+	insert 64
+	insert 60
+
+B_2.
+Параметр t = 3. Опишите B-дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 89
+	insert 14
+	insert 15
+	insert 67
+	insert 46
+	insert 77
+	insert 46
+	insert 75
+	insert 88
+	insert 86
+	insert 64
+	insert 74
+	insert 76
+	insert 29
+	insert 59
+	delete 46
+	delete 77
+	delete 89
+	delete 67
+	delete 74
+
+B_3.
+Параметр t = 4. Опишите B-дерево, которое получится после
+выполнения следующих операций над изначально пустым деревом:
+	insert 16
+	insert 67
+	insert 64
+	insert 6
+	insert 2
+	insert 50
+	insert 2
+	insert 74
+	insert 86
+	insert 70
+	insert 82
+	insert 69
+	delete 50
+	delete 82
+	delete 16
+	insert 88
+	insert 62
+	insert 19
+	delete 86
+	delete 70
+	insert 38
+	insert 47
+	insert 69
+	delete 62
+	delete 69
+	delete 88
+	delete 2
+	delete 38
+
+-------------------------------------------------------------------------------
