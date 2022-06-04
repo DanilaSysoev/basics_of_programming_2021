@@ -35,13 +35,15 @@ public class OffsetHashTable implements HashTable {
         clear(pos);
         int prevFree = pos;
         pos = next(pos);
+        boolean cycle = pos < prevFree;
         while (isFull(pos)) {
-            if(hash(data[pos]) <= maxOffsetHash) {
+            if(hash(data[pos]) <= prevFree && (!cycle || hash(data[pos]) > pos)) {
                 data[prevFree] = data[pos];
                 clear(pos);
                 prevFree = pos;
             }
             pos = next(pos);
+            cycle = pos < prevFree;
         }
     }
 
@@ -64,7 +66,7 @@ public class OffsetHashTable implements HashTable {
         System.out.print('(');
         for (int i = 0; i < size; i++) {
             if(data[i] >= 0)
-                System.out.print(data[i]);
+                System.out.print(i + "-" + data[i] + ":" + hash(data[i]));
             else
                 System.out.print('x');
             if(i < size - 1)

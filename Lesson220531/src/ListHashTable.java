@@ -19,7 +19,8 @@ public class ListHashTable implements HashTable {
     @Override
     public void insert(int val) {
         int pos = hash(val);
-        data[pos] = insertToHead(data[pos], val);
+        if(!exist(val))
+            data[pos] = insertToHead(data[pos], val);
     }
 
     @Override
