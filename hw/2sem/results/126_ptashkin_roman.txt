@@ -1,9 +1,77 @@
 Тестирование задачи task_1
+	+ Тест DA_create_sizeEquals0 не прошел до изменений в коде
+	+ Тест DA_create_sizeEquals0 прошел после изменений в коде
+
+	+ Тест DA_getData_createWithSetSize_EachCellReturnsNull не прошел до изменений в коде
+	+ Тест DA_getData_createWithSetSize_EachCellReturnsNull прошел после изменений в коде
+
+	+ Тест DA_getData_FromEmpty_raisesException не прошел до изменений в коде
+	+ Тест DA_getData_FromEmpty_raisesException прошел после изменений в коде
+
 	!!!Ошибка компиляции
 
 		!!!Ошибка компиляции или зависание в бесконечный цикл после последней правки.
 
 Тестирование задачи task_2
-	Файл теста не существует
+	+ Тест BS_insertHomogenic_ofLength3_returnsSame не прошел до изменений в коде
+	+ Тест BS_insertHomogenic_ofLength3_returnsSame прошел после изменений в коде
+
+	+ Тест BS_insertRandom_ofLength4_allNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест BS_insertRandom_ofLength4_allNegatives_returnsSorted прошел после изменений в коде
+
+	+ Тест BS_insertRandom_ofLength4_returnsSorted не прошел до изменений в коде
+	+ Тест BS_insertRandom_ofLength4_returnsSorted прошел после изменений в коде
+
+	+ Тест IS_insertReversed_ofLength3_withNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест IS_insertReversed_ofLength3_withNegatives_returnsSorted прошел после изменений в коде
+
+	+ Тест IS_insertRandom_ofLength4_returnsSorted не прошел до изменений в коде
+	+ Тест IS_insertRandom_ofLength4_returnsSorted прошел после изменений в коде
+
+	+ Тест SS_insertReversed_ofLength3_allNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест SS_insertReversed_ofLength3_allNegatives_returnsSorted прошел после изменений в коде
+
+	+ Тест SS_insertReversed_ofLength4_returnsSorted не прошел до изменений в коде
+	+ Тест SS_insertReversed_ofLength4_returnsSorted прошел после изменений в коде
+
+	+ Тест SS_insertRandom_ofLength3_returnsSorted не прошел до изменений в коде
+	+ Тест SS_insertRandom_ofLength3_returnsSorted прошел после изменений в коде
+
 Тестирование задачи task_3
-	Файл теста не существует
+	- Тест HS_insertHomogenic_ofLength2_returnsSame прошел до изменений в коде
+
+	+ Тест HS_insertRandom_ofLength4_returnsSorted не прошел до изменений в коде
+	+ Тест HS_insertRandom_ofLength4_returnsSorted прошел после изменений в коде
+
+	+ Тест HS_insertHeapified_ofLength7_returnsSorted не прошел до изменений в коде
+	+ Тест HS_insertHeapified_ofLength7_returnsSorted прошел после изменений в коде
+
+	+ Тест HS_insertRandom_ofLength6_returnsSorted не прошел до изменений в коде
+	+ Тест HS_insertRandom_ofLength6_returnsSorted прошел после изменений в коде
+
+	+ Тест HS_insertRandom_ofLength8_returnsSorted не прошел до изменений в коде
+	+ Тест HS_insertRandom_ofLength8_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertReversed_ofLength3_middleNegativeExceptional_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertReversed_ofLength3_middleNegativeExceptional_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertReversed_ofLength2_withNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertReversed_ofLength2_withNegatives_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertRandom_ofLength4_allNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertRandom_ofLength4_allNegatives_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertReversed_ofLength3_beginningExceptional_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertReversed_ofLength3_beginningExceptional_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertReversed_ofLength4_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertReversed_ofLength4_returnsSorted прошел после изменений в коде
+
+	+ Тест MS_insertRandom_ofLength4_allNegatives_returnsSorted не прошел до изменений в коде
+	+ Тест MS_insertRandom_ofLength4_allNegatives_returnsSorted прошел после изменений в коде
+
+	- Тест MS_insertSorted_ofLength2_returnsSame прошел до изменений в коде
+
+	+ Тест QS_insertHeapified_ofLength7_returnsSorted не прошел до изменений в коде
+	+ Тест QS_insertHeapified_ofLength7_returnsSorted прошел после изменений в коде
+
