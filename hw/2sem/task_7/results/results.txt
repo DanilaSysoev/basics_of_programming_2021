@@ -1,33 +1,33 @@
-126_baeva_olya 6+14
-126_bedakov_gleb 7+14
-126_bolshakov_gleb 0+14 Решение не найдено
-126_dybovskaya_polina 12+14
-126_garmaeva_inna 7+14
-126_gorev_michail 7+14
-126_korolev_dmitry 14+14
-126_krylova_ksenia 14+14
-126_napisanova_victoria 14+14
-126_ptashkin_roman 11+14
-126_shegai_alina 14+14
-126_shulepov_ilya 11+14
-126_sidorova_angelina 14+14
-126_sinitskaya_yana 11+14
-126_spiridonova_maria 14+14
-126_trusov_kostya 14+14
-126_utkin_alexandr 0+14 Решение не найдено
-126_zakharov_vsevolod 14+14
-127_berezina_ekaterina 0+14 Решение не найдено
-127_bubnova_natalia 7+14
-127_esipenko_eugene 0+14 Решение не найдено
-127_filippova_alyona 7+14
-127_istratova_viktoria 7+14
-127_ivanov_georgiy 5+14
-127_karasenko_ekaterina 7+14
-127_kichigina_anna 0+14 Решение не найдено
-127_mirzoeva_natavan 0+14 Протокол не найден или протоколов больше одного
-127_panfilova_valeria 0+14 Протокол не найден или протоколов больше одного
-127_pastukhova_polina 7+14
-127_posysoev_maxim 0+14 Решение не найдено
-127_shipovalova_svetlana 7+14
-127_sokolov_grigory 0+14 Решение не найдено
-127_zavadskaya_elena 0+14 Решение не найдено
+126_baeva_olya 6/14
+126_bedakov_gleb 7/14
+126_bolshakov_gleb 0/14 Решение не найдено
+126_dybovskaya_polina 12/14
+126_garmaeva_inna 7/14
+126_gorev_michail 7/14
+126_korolev_dmitry 14/14
+126_krylova_ksenia 14/14
+126_napisanova_victoria 14/14
+126_ptashkin_roman 11/14
+126_shegai_alina 14/14
+126_shulepov_ilya 11/14
+126_sidorova_angelina 14/14
+126_sinitskaya_yana 11/14
+126_spiridonova_maria 14/14
+126_trusov_kostya 14/14
+126_utkin_alexandr 0/14 Решение не найдено
+126_zakharov_vsevolod 14/14
+127_berezina_ekaterina 0/14 Решение не найдено
+127_bubnova_natalia 7/14
+127_esipenko_eugene 0/14 Решение не найдено
+127_filippova_alyona 7/14
+127_istratova_viktoria 7/14
+127_ivanov_georgiy 5/14
+127_karasenko_ekaterina 7/14
+127_kichigina_anna 0/14 Решение не найдено
+127_mirzoeva_natavan 0/14 Протокол не найден или протоколов больше одного
+127_panfilova_valeria 0/14 Протокол не найден или протоколов больше одного
+127_pastukhova_polina 7/14
+127_posysoev_maxim 0/14 Решение не найдено
+127_shipovalova_svetlana 7/14
+127_sokolov_grigory 0/14 Решение не найдено
+127_zavadskaya_elena 0/14 Решение не найдено
