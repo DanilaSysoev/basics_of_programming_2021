@@ -1,0 +1,30 @@
+Offset_hash_3
+x x x x x x x x x 85 x x x x x x x x x
+x x x x x x x x x 85 x 87 x x x x x x x
+x x x x x x x x x 85 x 87 x x x x x 55 x
+19 x x x x x x x x 85 x 87 x x x x x 55 x
+19 x x 3 x x x x x 85 x 87 x x x x x 55 x
+19 20 x 3 x x x x x 85 x 87 x x x x x 55 x
+19 20 x 3 x x 63 x x 85 x 87 x x x x x 55 x
+19 20 x 3 x x 63 x x 85 x 87 x x x 15 x 55 x
+19 20 x 3 60 x 63 x x 85 x 87 x x x 15 x 55 x
+19 20 x 3 60 x 63 x x 85 x 87 x x 71 15 x 55 x
+19 20 x 3 60 x 63 x x 85 x 87 x x 71 15 x 55 x
+19 20 x 3 60 22 63 x x 85 x 87 x x 71 15 x 55 x
+19 20 x 3 60 22 x x x 85 x 87 x x 71 15 x 55 x
+x 20 x 3 60 22 x x x 85 x 87 x x 71 15 x 55 x
+x 20 x 3 60 x x x x 85 x 87 x x 71 15 x 55 x
+x 20 x 3 60 80 x x x 85 x 87 x x 71 15 x 55 x
+x 20 x 3 60 80 43 x x 85 x 87 x x 71 15 x 55 x
+x 20 x 3 60 80 43 x x 85 x 87 x x 71 15 33 55 x
+x 20 x 3 60 80 43 x x 85 x 87 x x 71 33 x 55 x
+x 20 x 3 60 80 x x x 85 x 87 x x 71 33 x 55 x
+x 20 x 3 60 80 x x x 85 x 87 x 13 71 33 x 55 x
+x 20 97 3 60 80 x x x 85 x 87 x 13 71 33 x 55 x
+x 20 97 3 60 80 x x x 85 x 87 x 13 71 33 x 55 75
+x 20 97 3 60 80 x x x 85 x 87 x 13 71 x x 55 75
+x 20 97 3 60 80 x x x 85 x 87 x x 71 x x 55 75
+x 20 97 3 60 x x x x 85 x 87 x x 71 x x 55 75
+x 20 x 3 60 x x x x 85 x 87 x x 71 x x 55 75
+x 20 x 3 60 x x x x 85 x 87 x x x x x 55 75
+
